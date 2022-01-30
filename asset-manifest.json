@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EmploymentZonesPrototype/static/css/main.b63ee10d.css",
-    "main.js": "/EmploymentZonesPrototype/static/js/main.e76e2030.js",
+    "main.js": "/EmploymentZonesPrototype/static/js/main.920fbaff.js",
     "static/js/787.bedcb37c.chunk.js": "/EmploymentZonesPrototype/static/js/787.bedcb37c.chunk.js",
     "index.html": "/EmploymentZonesPrototype/index.html",
     "main.b63ee10d.css.map": "/EmploymentZonesPrototype/static/css/main.b63ee10d.css.map",
-    "main.e76e2030.js.map": "/EmploymentZonesPrototype/static/js/main.e76e2030.js.map",
+    "main.920fbaff.js.map": "/EmploymentZonesPrototype/static/js/main.920fbaff.js.map",
     "787.bedcb37c.chunk.js.map": "/EmploymentZonesPrototype/static/js/787.bedcb37c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b63ee10d.css",
-    "static/js/main.e76e2030.js"
+    "static/js/main.920fbaff.js"
   ]
 }
