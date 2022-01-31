@@ -3,7 +3,8 @@ import './App.css';
 // import AutoComplete from "react-google-autocomplete";
 import { AsyncTypeahead } from 'react-bootstrap-typeahead';
 import 'react-bootstrap-typeahead/css/Typeahead.css';
-import { newLandUseTables,oldLandUseTables,mandatedLandUseTables } from './data/landUseTables';
+import { newLandUseTables,mandatedLandUseTables } from './data/landUseTables';
+import { oldLandUseTables } from './data/oldLandUseTables';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form'
@@ -14,8 +15,10 @@ import Form from 'react-bootstrap/Form'
 function App() {
 
   const [zone, setZone] = useState("");
+  const [newZone, setNewZone] = useState("");
   const [lga, setLga] = useState("");
   const [luts, setLuts] = useState({'objectives':'','permittedWithout':'','permittedWith':'','prohibited':''});
+  const [newLuts, setNewLuts] = useState({'objectives':'','permittedWithout':'','permittedWith':'','prohibited':''});
   const [mapURL, setMap] = useState("");
   const [propId, setPropId] = useState('');
   const [debug, setDebug] = useState("");
@@ -42,18 +45,38 @@ function App() {
     const fetchData = async () => {
       console.log("query" + propId)
       if (!propId) { 
-        
         return
       }
       // const result = await fetch('https://api-uat.apps1.nsw.gov.au/planning/viewersf/V1/ePlanningApi/address?a=53 shadforth&noOfRecords=10');
-      // const result2 = await fetch('https://api-uat.apps1.nsw.gov.au/planning/viewersf/V1/ePlanningApi/lot?propId='+propId,);
+      const result = await fetch('https://api-uat.apps1.nsw.gov.au/planning/viewersf/V1/ePlanningApi/lot?propId='+propId,);
+      const lotData = await result.json()
+      console.log(lotData)
+      const ringsX = lotData[0].geometry.rings[0].map((item)=> item[0])
+      const ringsY = lotData[0].geometry.rings[0].map((item)=> item[1])
+      const deltaX = Math.max(...ringsX) - Math.min(...ringsX) +500
+      const deltaY = Math.max(...ringsY) - Math.min(...ringsY) +500
+      
+      const bbox = `${Math.min(...ringsX)-deltaX} ,${Math.min(...ringsY)-deltaY/2} ,${Math.max(...ringsX)+deltaX/2} ,${Math.max(...ringsY)+deltaY/2}`;// 16825418.912965454,-3995818.605369472,16826339.7402905,-3995067.3727009203 ${}` 
+      console.log("bbox=",bbox,ringsX)
+      // const newLayer = `, {"id":591,"source":{"mapLayerId":591,"type":"mapLayer"},"drawingInfo":{"showLabels":false,"transparency":0}}`
+      const newLayer = ``
 
+      const mu = `https://api-uat.apps1.nsw.gov.au/planning/arcgis/V1/rest/services/ePlanning/Planning_Portal_Principal_Planning/MapServer/export?bbox=${bbox}&bboxSR=102100&imageSR=102100&size=1542,1258&dpi=192&format=png32&transparent=true&dynamicLayers=[{%22id%22:603,%22source%22:{%22mapLayerId%22:603,%22type%22:%22mapLayer%22},%22drawingInfo%22:{%22showLabels%22:true,%22transparency%22:0}},
+        {%22id%22:19,%22source%22:{%22mapLayerId%22:19,%22type%22:%22mapLayer%22},%22drawingInfo%22:{%22showLabels%22:true,%22transparency%22:50}}${newLayer}]&f=image`
+      // const mu = `https://uat.planningportal.nsw.gov.au/bb60d395-a809-4753-9589-e600b48f5834`
+      // const dummy = await fetch(mu)
+      // console.log("dummy",await dummy.text())
+      // setMap(`https://api-uat.apps1.nsw.gov.au/planning/arcgis/V1/rest/services/ePlanning/Planning_Portal_Principal_Planning/MapServer/export?bbox=${bbox}&bboxSR=102100&imageSR=102100&size=1542,1258&dpi=192&format=png32&transparent=true&`+
+      // `dynamicLayers=[{"id":591,"source":{"mapLayerId":591,"type":"mapLayer"},"drawingInfo":{"showLabels":false,"transparency":0}}]&f=image`)
+     
+      setMap(mu)
       const result2 = await fetch('https://api-uat.apps1.nsw.gov.au/planning/viewersf/V1/ePlanningApi/council?propId='+propId)
       // setZone("B1") 
       const council = await result2.json()
       console.log(council)
       setLga(council[0])
-     
+
+   
      
       const result3 = await fetch('https://api-uat.apps1.nsw.gov.au/planning/viewersf/V1/ePlanningApi/layerintersect?type=property&id='+propId+'&layers=epi' , )
       // dynamicLayers:[{"id":591,"source":{"mapLayerId":591,"type":"mapLayer"},"drawingInfo":{"showLabels":false,"transparency":0}}]
@@ -62,10 +85,10 @@ function App() {
       // setAddresses(addressResult)
       // console.log("queried" + result2.status, await result2.json())
       console.log("queried layers" + result3.status)
-      const lotData = await result3.json()
-      console.log("lotdata="+lotData)
-      for (let index = 0; index < lotData.length; index++) {
-        const element = lotData[index];
+      const layerData = await result3.json()
+      // console.log("lotdata="+lotData)
+      for (let index = 0; index < layerData.length; index++) {
+        const element = layerData[index];
         console.log(element)
 
         if (element.id === '19') { // id = 19? 
@@ -83,22 +106,47 @@ function App() {
   }, [propId]);
 
   useEffect(()=>{
-    // todo: get right LUT from data for current Zone/LGA - refer to scrape_luts_from_qord.py
-    setLuts(newLandUseTables[0])
+    // todo: get right LUT from data for current Zone/LGA - refer to scrape_luts_from_word.py
+    const findDefaultNewZone = (z) => { 
+      for (let index = 0; index < mandatedLandUseTables.length; index++) {
+        const newZoneLUT = mandatedLandUseTables[index];
+        for (let i =0;i<newZoneLUT.from_keys.length;i++){
+          if (newZoneLUT.from_keys[i] === zone) {
+            return newZoneLUT.key }
+        }
+      }
+      console.log("no mmandated zone mapping")
+      return zone
+    }
+    const findNewLUT = (nz) => { 
+      for (let index = 0; index < newLandUseTables.length; index++) {
+        const newZoneLUT = newLandUseTables[index];
+        if ( (( newZoneLUT.LEP === lga) || true) && newZoneLUT.Zone && (newZoneLUT.Zone.split(" ")[1] === nz) ) { /// this will fail as LUTS as Zone names not codes and LEP <>LGA
+          return newZoneLUT
+        }
+      }
+      console.log("no match found using sample new zone")
+      setDebug("no match found using sample new zone")
+      return newLandUseTables[0]
+    }
+
+    const findOldLUT = (z) => { 
+      for (let index = 0; index < oldLandUseTables.length; index++) {
+        const oldZoneLUT = oldLandUseTables[index];
+        if ( (( oldZoneLUT.LEP === lga) || true) && oldZoneLUT.Zone && (oldZoneLUT.Zone.split(" ")[1] === z) ) { /// this will fail as LUTS as Zone names not codes and LEP <>LGA
+          return oldZoneLUT
+        }
+      }
+      console.log("no match found using sample old zone")
+      setDebug("no match found using sample old zone")
+      return oldLandUseTables[0]
+    }
+    setNewZone(findDefaultNewZone(zone))
+
+    setNewLuts(findNewLUT(zone))
+    setLuts(findOldLUT(zone))
   },[zone,lga])
 
-  // const b7 = (<div><b>1   Objectives of zone</b>
-  //   <li>  To provide a range of office and light industrial uses.</li>
-  //   <li> To encourage employment opportunities.</li>
-  //   <li>  To encourage uses in the arts, technology, production and design sectors.</li>
-  //   <b>2   Permitted without consent</b><br />
-  //   Home occupations<br />
-  //   <b>3   Permitted with consent</b><br />
-  //   Centre-based child care facilities; Food and drink premises; Garden centres; Hardware and building supplies; Light industries; Neighbourhood shops; Office premises; Oyster aquaculture; Passenger transport facilities; Respite day care centres; Roads; Tank-based aquaculture; Vehicle sales or hire premises; Warehouse or distribution centres; Any other development not specified in item 2 or 4<br />
-  //   <b>4   Prohibited</b><br />
-  //   Advertising structures; Agriculture; Air transport facilities; Airstrips; Amusement centres; Animal boarding or training establishments; Biosolids treatment facilities; Boat launching ramps; Boat sheds; Camping grounds; Caravan parks; Cemeteries; Charter and tourism boating facilities; Correctional centres; Crematoria; Depots; Eco-tourist facilities; Electricity generating works; Entertainment facilities; Environmental facilities; Environmental protection works; Exhibition homes; Exhibition villages; Extractive industries; Farm buildings; Forestry; Freight transport facilities; Heavy industrial storage establishments; Helipads; Highway service centres; Home-based child care; Home occupations (sex services); Industrial training facilities; Industries; Jetties; Marinas; Mooring pens; Moorings; Mortuaries; Open cut mining; Pond-based aquaculture; Port facilities; Recreation facilities (major); Recreation facilities (outdoor); Registered clubs; Research stations; Residential accommodation; Resource recovery facilities; Restricted premises; Retail premises; Rural industries; Sewage treatment plants; Sex services premises; Tourist and visitor accommodation; Transport depots; Truck depots; Vehicle body repair workshops; Vehicle repair stations; Waste disposal facilities; Water recreation structures; Water recycling facilities; Water supply systems; Wharf or boating facilities<br />
-  //   LUTS: {luts}<br />
-  //   <br /> </div>)
 
   return (
     <div className="App">
@@ -107,12 +155,7 @@ function App() {
       </header>
       <p>Address:
         
-        {/* <AutoComplete
-        apiKey={'AIzaSyBdeB3jK5qqCUotzuN5nLVA3EeeDBt9vGE'}
-        onPlaceSelected={(place) => { console.log(place); setZone("B7"); setLuts(b7); setQuery(place) }}
-      // options={{componentRestrictions:{country:'au'},fields:"geometry.location"}}
-      />
-       */}
+
       
       <AsyncTypeahead
         id="location"
@@ -131,27 +174,30 @@ function App() {
       <b>LGA </b>: {lga} <br />
       <b>Zone </b>: {zone} <br />
 <br/>
+
+<h2>{debug}</h2>
+
         <table>
           <thead>
-          <tr><th>Old</th><th>New</th></tr>
+          <tr><th>Old {zone} </th><th>New  {newLuts.zone} ({newZone})</th></tr>
           </thead>
           <tbody>
-          <tr> <td>{luts.objectives}</td><td>{luts.objectives} <br/><br/>
+          <tr> <td>{luts.objectives}</td><td>{newLuts.objectives} <br/><br/>
           <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
     <Form.Label>Feedback on Objective</Form.Label>
     <Form.Control as="textarea" rows={3} />
   </Form.Group></td></tr>
-          <tr> <td>{luts.permittedWithout}</td><td>{luts.permittedWithout}<br/><br/>
+          <tr> <td>{luts.permittedWithout}</td><td>{newLuts.permittedWithout}<br/><br/>
           <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
     <Form.Label>Feedback on Permitted without consent</Form.Label>
     <Form.Control as="textarea" rows={3} />
   </Form.Group></td></tr>
-          <tr> <td>{luts.permittedWith}</td><td>{luts.permittedWith}<br/><br/>
+          <tr> <td>{luts.permittedWith}</td><td>{newLuts.permittedWith}<br/><br/>
           <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
     <Form.Label>Feedback on permitted with consent</Form.Label>
     <Form.Control as="textarea" rows={3} />
   </Form.Group></td></tr>
-          <tr> <td>{luts.prohibited}</td><td>{luts.prohibited}<br/><br/>
+          <tr> <td>{luts.prohibited}</td><td>{newLuts.prohibited}<br/><br/>
           <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
     <Form.Label>Feedback on prohibited</Form.Label>
     <Form.Control as="textarea" rows={3} />
@@ -161,7 +207,13 @@ function App() {
 
 
 
-
+        <Form.Select aria-label="Default select example">
+  <option>Reason for interest</option>
+  <option value="1">Land owner</option>
+  <option value="2">Peak </option>
+  <option value="3">Academic</option>
+  <option value="3">Scraper</option>
+</Form.Select>
 
     <Form.Group className="mb-3" controlId="formBasicEmail">
     <Form.Label>Email address</Form.Label>
@@ -173,13 +225,12 @@ function App() {
 
   <Button variant="primary">Submit</Button>
 
-        <h2>{debug}</h2>
 
 
 
 
       </div>
-
+      {mapURL ? <img src={mapURL} /> : <div/>}
 
       {/* <iframe src={mapURL}></iframe> */}
       {/* 
