@@ -5,14 +5,88 @@ import { AsyncTypeahead } from 'react-bootstrap-typeahead';
 import 'react-bootstrap-typeahead/css/Typeahead.css';
 import { newLandUseTables,mandatedLandUseTables } from './data/landUseTables';
 import { oldLandUseTables } from './data/oldLandUseTables';
+import {allLandUseTerms, allLandUseTermsGrouped} from './data/allLandUseTerms'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form'
+import { renderIntoDocument } from 'react-dom/cjs/react-dom-test-utils.production.min';
+
+// const findGroupTerm = (groupsTerms,term) =>{
+
+//   groupsTerms.forEach((element)=>{
+//     if (element.term === term){
+//       console.log("Found group term" + term)
+//       return element
+//     }else if (element.children){
+//       return (findGroupTerm(element.children,term))
+//     }else{
+//       return null;
+//     }
+//   })
+
+// }
+
+export const renderChildTerms = (term,luts,black) =>{
+
+  // const out =  allLandUseTermsGrouped.map((element) => {
+  //   if (element.term === term){
+  //     console.log("Parent term"+term)
+  //     return (element.children.map((child)=>{console.log("rendering term "+ child.term);newLanduseTerm(child.term)}) )
+  //   }
+  // });
+  var i=1
+  const out = []
+  // const groupTerm = findGroupTerm(allLandUseTermsGrouped,term)
+  
+  allLandUseTermsGrouped.forEach((element)=>{
 
 
+    // console.log("Parents scan"+element.term)
+    if (element.term === term){
+      console.log("Parent term:"+term)
+      if(element.children){
+      out.push(element.children.map((child)=>{console.log("rendering term "+ child.term);return newLanduseTerm(child.term,i++,luts,black)}))
+      }
+    }else {
+      // console.log("scanning children" + element.term )
+      element.children.forEach((childElement)=>{
+        // console.log("child scan term:"+ childElement.term )
+        if (childElement.term === term){
+          // console.log("child found term:"+term)
+          if (childElement.children){ 
+            out.push(childElement.children.map((child)=>{console.log("rendering term "+ child.term);return newLanduseTerm(child.term,i++,luts,black)}))
+          }
+        }
+        })
+    }
+  })
+  if (out.length >0){
+    console.log("out" + out)
+    return (<ul>{out}</ul>)
+  }
+}
 
+export const  newLanduseTerm = (term,i,luts,black=false)=> {
+  if ( black || mandatedLandUseTables[0].permitted_with.includes(term )){ // todo: find the right zone
+    return  (<li key={i}>{term} {isNew(term,luts.permittedWith)} {renderChildTerms(term,luts,true)}  </li>)
+  }else{
+    return  (<li key={i}><font color="blue">{term} {isNew(term,luts.permittedWith)}  </font> {renderChildTerms(term,luts)}</li>)
+  }
+}
 
-function App() {
+const  oldLanduseTerm = (term,i)=> {
+  
+    return  (<li key={i}>{term} </li>)
+  
+}
+const isNew = (landUse,previous)=>{
+  if (previous.includes(landUse)){
+    return("=")
+  }
+  return (<font color="green" >+</font>)
+}
+
+export function App() {
 
   const [zone, setZone] = useState("");
   const [newZone, setNewZone] = useState("");
@@ -148,6 +222,10 @@ function App() {
   },[zone,lga])
 
 
+
+
+ 
+
   return (
     <div className="App">
       <header className="App-header">
@@ -182,17 +260,32 @@ function App() {
           <tr><th>Old {zone} </th><th>New  {newLuts.zone} ({newZone})</th></tr>
           </thead>
           <tbody>
-          <tr> <td>{luts.objectives}</td><td>{newLuts.objectives} <br/><br/>
+          <tr> <td>{luts.objectives}</td><td><div dangerouslySetInnerHTML={{ __html: newLuts.objectives}}></div> <br/><br/>
           <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
     <Form.Label>Feedback on Objective</Form.Label>
     <Form.Control as="textarea" rows={3} />
   </Form.Group></td></tr>
-          <tr> <td>{luts.permittedWithout}</td><td>{newLuts.permittedWithout}<br/><br/>
+          <tr><td>{luts.permittedWithout}</td><td>{newLuts.permittedWithout}<br/><br/>
           <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
     <Form.Label>Feedback on Permitted without consent</Form.Label>
     <Form.Control as="textarea" rows={3} />
   </Form.Group></td></tr>
-          <tr> <td>{luts.permittedWith}</td><td>{newLuts.permittedWith}<br/><br/>
+          <tr> <td>
+          <ul>
+          {luts && luts.permittedWith && luts.permittedWith ? luts.permittedWith.replace("3   Permitted with consent","").split(";").map((term,i) => {
+          return oldLanduseTerm(term,i)
+           }
+          ) : "empty"}
+          </ul>
+            
+            </td><td>
+          <b>Permitted with Consent:</b> 
+          <ul>
+          { luts && newLuts && newLuts.permittedWith ? newLuts.permittedWith.map((term,i) => {
+          return newLanduseTerm(term,i,luts)
+           }
+          ) : "empty"}
+          </ul><br/><br/>
           <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
     <Form.Label>Feedback on permitted with consent</Form.Label>
     <Form.Control as="textarea" rows={3} />
