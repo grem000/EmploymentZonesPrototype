@@ -1,0 +1,46 @@
+[
+    {
+        "LEP": "Coolamon Local Environmental Plan 2011",
+        "zone": "Zone E4 General Industrial",
+        "objectives": "<br>To provide a range of industrial, warehouse, logistics and related land uses.  <br>To ensure the efficient and viable use of land for industrial uses.  <br>To minimise any adverse effect of industry on other land uses.  <br>To encourage employment opportunities.  <br>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
+        "permittedWithout": [
+            "Home businesses",
+            "Home occupations",
+            "Roads"
+        ],
+        "permittedWith": [
+            "Building identification signs",
+            "Business identification signs",
+            "Depots",
+            "Freight transport facilities",
+            "Funeral homes",
+            "Garden centres",
+            "General industries",
+            "Goods repair and reuse premises",
+            "Hardware and building supplies",
+            "Industrial retail outlets",
+            "Industrial training facilities",
+            "Kiosks",
+            "Landscaping material supplies",
+            "Light industries",
+            "Local distribution premises",
+            "Neighbourhood shops",
+            "Oyster aquaculture",
+            "Places of public worship",
+            "Plant nurseries",
+            "Recreation facilities (indoor)",
+            "Rural supplies",
+            "Self-storage units",
+            "Take away food and drink premises",
+            "Tank-based aquaculture",
+            "Timber yards",
+            "Vehicle repair stations",
+            "Vehicle sales or hire premises",
+            "Veterinary hospitals",
+            "Warehouse or distribution centres"
+        ],
+        "prohibited": [
+            "4 Prohibited Any other development not specified in item 2 or 3"
+        ]
+    }
+]
