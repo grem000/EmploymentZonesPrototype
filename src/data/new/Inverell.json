@@ -3,7 +3,7 @@
         "LGA": "Inverell",
         "LEP": "Inverell Local Environmental Plan 2012",
         "zone": "Zone E1 Local Centre",
-        "objectives": "<br>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  <br>To encourage investment in local commercial development that generates employment opportunities and economic growth.  <br>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  <br>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
+        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
         "permittedWithout": [
             "Flood mitigation works",
             "Home occupations",
@@ -81,7 +81,7 @@
         "LGA": "Inverell",
         "LEP": "Inverell Local Environmental Plan 2012",
         "zone": "Zone E2 Commercial Centre",
-        "objectives": "<br>To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity.  <br>To encourage investment in commercial development that generates employment opportunities and economic growth.  <br>To encourage development that has a high level of accessibility and amenity, particularly for pedestrians.  <br>To enable residential development that is consistent with the Council's strategic planning for residential development in the area.  <br>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.",
+        "objectives": "To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity.  To encourage investment in commercial development that generates employment opportunities and economic growth.  To encourage development that has a high level of accessibility and amenity, particularly for pedestrians.  To enable residential development that is consistent with the Council's strategic planning for residential development in the area.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.",
         "permittedWithout": [
             "Flood mitigation works",
             "Home occupations",
@@ -154,7 +154,7 @@
         "LGA": "Inverell",
         "LEP": "Inverell Local Environmental Plan 2012",
         "zone": "Zone E4 General Industrial",
-        "objectives": "<br>To provide a range of industrial, warehouse, logistics and related land uses.  <br>To ensure the efficient and viable use of land for industrial uses.  <br>To minimise any adverse effect of industry on other land uses.  <br>To encourage employment opportunities.  <br>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
+        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
         "permittedWithout": [
             "Flood mitigation works",
             "Roads"
@@ -232,7 +232,7 @@
         "LGA": "Inverell",
         "LEP": "Inverell Local Environmental Plan 2012",
         "zone": "Zone SP4 Enterprise",
-        "objectives": "<br>To provide for development and land uses that support enterprise and productivity. <br>To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.",
+        "objectives": "To provide for development and land uses that support enterprise and productivity. To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.",
         "permittedWithout": [
             "Flood mitigation works",
             "Roads"

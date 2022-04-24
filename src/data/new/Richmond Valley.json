@@ -3,7 +3,7 @@
         "LGA": "Richmond Valley",
         "LEP": "Richmond Valley Local Environmental Plan 2012",
         "zone": "Zone E1 Local Centre",
-        "objectives": "<br>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  <br>To encourage investment in local commercial development that generates employment opportunities and economic growth.  <br>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  <br>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  <br>To provide for limited residential and other accommodation in conjunction with retail or business premises to support local business.",
+        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
         "permittedWithout": [
             "Home occupations"
         ],
@@ -96,7 +96,7 @@
         "LGA": "Richmond Valley",
         "LEP": "Richmond Valley Local Environmental Plan 2012",
         "zone": "Zone E2 Commercial Centre",
-        "objectives": "<br>To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity.  <br>To encourage investment in commercial development that generates employment opportunities and economic growth.  <br>To encourage development that has a high level of accessibility and amenity, particularly for pedestrians.  <br>To enable residential development that is consistent with the Council's strategic planning for residential development in the area.  <br>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.",
+        "objectives": "To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity.  To encourage investment in commercial development that generates employment opportunities and economic growth.  To encourage development that has a high level of accessibility and amenity, particularly for pedestrians.  To enable residential development that is consistent with the Council's strategic planning for residential development in the area.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.",
         "permittedWithout": [
             "Home occupations"
         ],
@@ -193,7 +193,7 @@
         "LGA": "Richmond Valley",
         "LEP": "Richmond Valley Local Environmental Plan 2012",
         "zone": "Zone E4 General Industrial",
-        "objectives": "<br>To provide a range of industrial, warehouse, logistics and related land uses.  <br>To ensure the efficient and viable use of land for industrial uses.  <br>To minimise any adverse effect of industry on other land uses.  <br>To encourage employment opportunities.  <br>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.  <br>To enable development that is associated with, ancillary to, or supportive of, industry or industrial employees.",
+        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
         "permittedWithout": [
             "Nil"
         ],
@@ -265,7 +265,7 @@
         "LGA": "Richmond Valley",
         "LEP": "Richmond Valley Local Environmental Plan 2012",
         "zone": "Zone W4 Working Waterfront",
-        "objectives": "<br>To retain and encourage industrial and maritime activities on foreshores.  <br>To identify sites for maritime purposes and for activities requiring direct foreshore access.  <br>To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore.  <br>To encourage employment opportunities.  <br>To minimise any adverse effect of development on land uses in other zones.",
+        "objectives": "To retain and encourage industrial and maritime activities on foreshores.  To identify sites for maritime purposes and for activities requiring direct foreshore access.  To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore.  To encourage employment opportunities.  To minimise any adverse effect of development on land uses in other zones.",
         "permittedWithout": [
             "Nil"
         ],

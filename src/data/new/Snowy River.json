@@ -3,7 +3,7 @@
         "LGA": "Snowy River",
         "LEP": "Snowy River Local Environmental Plan 2013",
         "zone": "Zone E1 Local Centre",
-        "objectives": "<br>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  <br>To encourage investment in local commercial development that generates employment opportunities and economic growth.  <br>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  <br>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  <br>To ensure that development is well designed and of a scale and character consistent with the surrounding area and does not adversely affect the amenity of surrounding residential areas.  <br>To ensure that development is of a neighbourhood scale and does not detract from the viability of the Town Centre as the primary business, retail and commercial area.",
+        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To ensure that development is well designed and of a scale and character consistent with the surrounding area and does not adversely affect the amenity of surrounding residential areas.",
         "permittedWithout": [
             "Environmental protection works",
             "Home-based child care",
@@ -88,7 +88,7 @@
         "LGA": "Snowy River",
         "LEP": "Snowy River Local Environmental Plan 2013",
         "zone": "Zone E4 General Industrial",
-        "objectives": "<br>To provide a range of industrial, warehouse, logistics and related land uses.  <br>To ensure the efficient and viable use of land for industrial uses.  <br>To minimise any adverse effect of industry on other land uses.  <br>To encourage employment opportunities.  <br>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
+        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
         "permittedWithout": [
             "Environmental protection works"
         ],

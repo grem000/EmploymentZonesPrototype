@@ -3,7 +3,7 @@
         "LGA": "Hunters Hill",
         "LEP": "Hunters Hill Local Environmental Plan 2012",
         "zone": "Zone E1 Local Centre",
-        "objectives": "<br>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  <br>To encourage investment in local commercial development that generates employment opportunities and economic growth.  <br>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  <br>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
+        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
         "permittedWithout": [
             "Roads"
         ],
@@ -45,7 +45,7 @@
         "LGA": "Hunters Hill",
         "LEP": "Hunters Hill Local Environmental Plan 2012",
         "zone": "Zone MU1 Mixed Use",
-        "objectives": "<br>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities.  <br>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  <br>To minimise conflict between land uses within this zone and land uses within adjoining zones.  <br>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  <br>To ensure that new buildings provide an appropriate transition between the commercial zones and surrounding residential localities.",
+        "objectives": "To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To minimise conflict between land uses within this zone and land uses within adjoining zones.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To ensure that new buildings provide an appropriate transition between the commercial zones and surrounding residential localities.",
         "permittedWithout": [
             "Roads"
         ],
@@ -91,7 +91,7 @@
         "LGA": "Hunters Hill",
         "LEP": "Hunters Hill Local Environmental Plan 2012",
         "zone": "Zone W4 Working Waterfront",
-        "objectives": "<br>To retain and encourage industrial and maritime activities on foreshores.  <br>To identify sites for maritime purposes and for activities requiring direct foreshore access.  <br>To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore.  <br>To encourage employment opportunities.  <br>To minimise any adverse effect of development on land uses in other zones.",
+        "objectives": "To retain and encourage industrial and maritime activities on foreshores.  To identify sites for maritime purposes and for activities requiring direct foreshore access.  To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore.  To encourage employment opportunities.  To minimise any adverse effect of development on land uses in other zones.",
         "permittedWithout": [
             "Nil"
         ],

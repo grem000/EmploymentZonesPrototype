@@ -3,7 +3,7 @@
         "LGA": "Bogan",
         "LEP": "Bogan Local Environmental Plan 2011",
         "zone": "Zone E1 Local Centre",
-        "objectives": "<br>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  <br>To encourage investment in local commercial development that generates employment opportunities and economic growth.  <br>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  <br>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
+        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
         "permittedWithout": [
             "Environmental protection works",
             "Home occupations",
@@ -85,7 +85,7 @@
         "LGA": "Bogan",
         "LEP": "Bogan Local Environmental Plan 2011",
         "zone": "Zone E3 Productivity Support",
-        "objectives": "<br>To provide a range of facilities and services, light industries, warehouses and offices.  <br>To provide for land uses that are compatible with, but do not compete with, land uses in surrounding local and commercial centres.  <br>To maintain the economic viability of local and commercial centres by limiting certain retail and commercial activity.  <br>To provide for land uses that meet the needs of the community, businesses and industries but that are not suited to locations in other employment zones.  <br>To provide opportunities for new and emerging light industries.  <br>To enable other land uses that provide facilities and services to meet the day to day needs of workers, to sell goods of a large size, weight or quantity or to sell goods manufactured on-site.  <br>To provide for residential uses, but only as part of a mixed-use development.",
+        "objectives": "To provide a range of facilities and services, light industries, warehouses and offices.  To provide for land uses that are compatible with, but do not compete with, land uses in surrounding local and commercial centres.  To maintain the economic viability of local and commercial centres by limiting certain retail and commercial activity.  To provide for land uses that meet the needs of the community, businesses and industries but that are not suited to locations in other employment zones.  To provide opportunities for new and emerging light industries.  To enable other land uses that provide facilities and services to meet the day to day needs of workers, to sell goods of a large size, weight or quantity or to sell goods manufactured on-site.  To provide for residential uses, but only as part of a mixed-use development.",
         "permittedWithout": [
             "Environmental protection works",
             "Home occupations",
@@ -186,7 +186,7 @@
         "LGA": "Bogan",
         "LEP": "Bogan Local Environmental Plan 2011",
         "zone": "Zone E4 General Industrial",
-        "objectives": "<br>To provide a range of industrial, warehouse, logistics and related land uses.  <br>To ensure the efficient and viable use of land for industrial uses.  <br>To minimise any adverse effect of industry on other land uses.  <br>To encourage employment opportunities.  <br>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
+        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
         "permittedWithout": [
             "Environmental protection works",
             "Roads"

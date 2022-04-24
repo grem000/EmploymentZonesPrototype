@@ -3,7 +3,7 @@
         "LGA": "Maitland",
         "LEP": "Maitland Local Environmental Plan 2011",
         "zone": "Zone E1 Local Centre",
-        "objectives": "<br>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  <br>To encourage investment in local commercial development that generates employment opportunities and economic growth.  <br>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  <br>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  <br>To provide retail, business and community facilities to meet the needs of a growing  population <br>To recognise the unique role of the Morpeth local centre as a tourist destination.",
+        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.    To recognise the unique role of the Morpeth local centre as a tourist destination.",
         "permittedWithout": [
             "Home businesses",
             "Home industries",
@@ -94,7 +94,7 @@
         "LGA": "Maitland",
         "LEP": "Maitland Local Environmental Plan 2011",
         "zone": "Zone E2 Commercial Centre",
-        "objectives": "<br>To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity.  <br>To encourage investment in commercial development that generates employment opportunities and economic growth.  <br>To encourage development that has a high level of accessibility and amenity, particularly for pedestrians.  <br>To enable residential development that is consistent with the Council's strategic planning for residential development in the area.  <br>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  <br>To recognise Council's preferred hierarchy of activity centres and precincts, by ensuring that existing and future development\u2014(a) at Greenhills continues to promote reinforces the regional significance of this retail precinct, and (b) at Central Maitland supports the integration and inclusion of promotes business development to reinforce its significance as a major regional centre.",
+        "objectives": "To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity.  To encourage investment in commercial development that generates employment opportunities and economic growth.  To encourage development that has a high level of accessibility and amenity, particularly for pedestrians.  To enable residential development that is consistent with the Council's strategic planning for residential development in the area.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To recognise Council's preferred hierarchy of activity centres and precincts, by ensuring that existing and future development\u2014(a) at Greenhills  reinforces the regional significance of this retail precinct, and (b) at Central Maitland  promotes business development to reinforce its significance as a major regional centre.",
         "permittedWithout": [
             "Nil"
         ],
@@ -187,7 +187,7 @@
         "LGA": "Maitland",
         "LEP": "Maitland Local Environmental Plan 2011",
         "zone": "Zone E3 Productivity Support",
-        "objectives": "<br>To provide a range of facilities and services, light industries, warehouses and offices.  <br>To provide for land uses that are compatible with, but do not compete with, land uses in surrounding local and commercial centres.  <br>To maintain the economic viability of local and commercial centres by limiting certain retail and commercial activity.  <br>To provide for land uses that meet the needs of the community, businesses and industries but that are not suited to locations in other employment zones.  <br>To provide opportunities for new and emerging light industries.  <br>To enable other land uses that provide facilities and services to meet the day to day needs of workers, to sell goods of a large size, weight or quantity or to sell goods manufactured on-site.  <br>To minimise conflict between land uses within the zone and with adjoining zones.  <br>To provide for residential uses, but only as part of a mixed-use development.",
+        "objectives": "To provide a range of facilities and services, light industries, warehouses and offices.  To provide for land uses that are compatible with, but do not compete with, land uses in surrounding local and commercial centres.  To maintain the economic viability of local and commercial centres by limiting certain retail and commercial activity.  To provide for land uses that meet the needs of the community, businesses and industries but that are not suited to locations in other employment zones.  To provide opportunities for new and emerging light industries.  To enable other land uses that provide facilities and services to meet the day to day needs of workers, to sell goods of a large size, weight or quantity or to sell goods manufactured on-site.  To minimise conflict between land uses within the zone and with adjoining zones.",
         "permittedWithout": [
             "Home industries"
         ],
@@ -300,7 +300,7 @@
         "LGA": "Maitland",
         "LEP": "Maitland Local Environmental Plan 2011",
         "zone": "Zone E4 General Industrial",
-        "objectives": "<br>To provide a range of industrial, warehouse, logistics and related land uses.  <br>To ensure the efficient and viable use of land for industrial uses.  <br>To minimise any adverse effect of industry on other land uses.  <br>To encourage employment opportunities.  <br>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.   <br>To provide a limited range of retailing activities that accommodate the everyday needs of employees within the zone and do not adversely affect the viability of centres.",
+        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
         "permittedWithout": [
             "Nil"
         ],
@@ -389,7 +389,7 @@
         "LGA": "Maitland",
         "LEP": "Maitland Local Environmental Plan 2011",
         "zone": "Zone MU1 Mixed Use",
-        "objectives": "<br>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities.  <br>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  <br>To minimise conflict between land uses within this zone and land uses within adjoining zones.  <br>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
+        "objectives": "To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To minimise conflict between land uses within this zone and land uses within adjoining zones.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
         "permittedWithout": [
             "Home industries"
         ],
