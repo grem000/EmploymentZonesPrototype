@@ -3,10 +3,8 @@
         "LGA": "Hunters Hill",
         "LEP": "Hunters Hill Local Environmental Plan 2012",
         "zone": "Zone E1 Local Centre",
-        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
-        "permittedWithout": [
-            "Roads"
-        ],
+        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li>",
+        "permittedWithout": [],
         "permittedWith": [
             "Amusement centres",
             "Bed and breakfast accommodation",
@@ -45,10 +43,8 @@
         "LGA": "Hunters Hill",
         "LEP": "Hunters Hill Local Environmental Plan 2012",
         "zone": "Zone MU1 Mixed Use",
-        "objectives": "To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To minimise conflict between land uses within this zone and land uses within adjoining zones.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To ensure that new buildings provide an appropriate transition between the commercial zones and surrounding residential localities.",
-        "permittedWithout": [
-            "Roads"
-        ],
+        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure that new buildings provide an appropriate transition between the commercial zones and surrounding residential localities. </li>",
+        "permittedWithout": [],
         "permittedWith": [
             "Amusement centres",
             "Boarding houses",
@@ -91,10 +87,8 @@
         "LGA": "Hunters Hill",
         "LEP": "Hunters Hill Local Environmental Plan 2012",
         "zone": "Zone W4 Working Waterfront",
-        "objectives": "To retain and encourage industrial and maritime activities on foreshores.  To identify sites for maritime purposes and for activities requiring direct foreshore access.  To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore.  To encourage employment opportunities.  To minimise any adverse effect of development on land uses in other zones.",
-        "permittedWithout": [
-            "Nil"
-        ],
+        "objectives": "<li>To retain and encourage industrial and maritime activities on foreshores. </li> <li>To identify sites for maritime purposes and for activities requiring direct foreshore access. </li> <li>To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore. </li> <li>To encourage employment opportunities. </li> <li>To minimise any adverse effect of development on land uses in other zones. </li>",
+        "permittedWithout": [],
         "permittedWith": [
             "Aquaculture",
             "Boat building and repair facilities",

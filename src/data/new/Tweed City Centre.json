@@ -3,7 +3,7 @@
         "LGA": "Tweed City Centre",
         "LEP": "Tweed City Centre Local Environmental Plan 2012",
         "zone": "Zone E1 Local Centre",
-        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To encourage development of a scale consistent with surrounding neighbourhoods, that promotes a sense of place and focal points for the local community",
+        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To encourage development of a scale consistent with surrounding neighbourhoods, that promotes a sense of place and focal points for the local community</li>",
         "permittedWithout": [
             "Environmental facilities",
             "Environmental protection works",
@@ -83,7 +83,7 @@
         "LGA": "Tweed City Centre",
         "LEP": "Tweed City Centre Local Environmental Plan 2012",
         "zone": "Zone E2 Commercial Centre",
-        "objectives": "To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity.  To encourage investment in commercial development that generates employment opportunities and economic growth.  To encourage development that has a high level of accessibility and amenity, particularly for pedestrians.  To enable residential development that is consistent with the Council's strategic planning for residential development in the area.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To encourage upper floor residential or tourist accommodation that does not compromise the commercial use of the land.",
+        "objectives": "<li>To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity. </li> <li>To encourage investment in commercial development that generates employment opportunities and economic growth. </li> <li>To encourage development that has a high level of accessibility and amenity, particularly for pedestrians. </li> <li>To enable residential development that is consistent with the Council's strategic planning for residential development in the area. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To encourage upper floor residential or tourist accommodation that does not compromise the commercial use of the land.\u00a0\u00a0</li>",
         "permittedWithout": [
             "Environmental facilities",
             "Environmental protection works",
@@ -169,7 +169,7 @@
         "LGA": "Tweed City Centre",
         "LEP": "Tweed City Centre Local Environmental Plan 2012",
         "zone": "Zone MU1 Mixed Use",
-        "objectives": "To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To minimise conflict between land uses within this zone and land uses within adjoining zones.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.",
+        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.</li>",
         "permittedWithout": [
             "Environmental facilities",
             "Environmental protection works",
@@ -252,7 +252,7 @@
         "LGA": "Tweed City Centre",
         "LEP": "Tweed City Centre Local Environmental Plan 2012",
         "zone": "Zone W4 Working Waterfront",
-        "objectives": "To retain and encourage industrial and maritime activities on foreshores.  To identify sites for maritime purposes and for activities requiring direct foreshore access.  To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore.  To encourage employment opportunities.  To minimise any adverse effect of development on land uses in other zones.",
+        "objectives": "<li>To retain and encourage industrial and maritime activities on foreshores. </li> <li>To identify sites for maritime purposes and for activities requiring direct foreshore access. </li> <li>To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore. </li> <li>To encourage employment opportunities. </li> <li>To minimise any adverse effect of development on land uses in other zones. </li>",
         "permittedWithout": [
             "Environmental facilities",
             "Environmental protection works"

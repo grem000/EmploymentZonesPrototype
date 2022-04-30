@@ -3,7 +3,7 @@
         "LGA": "Central Darling",
         "LEP": "Central Darling Local Environmental Plan 2012",
         "zone": "Zone RU5\u00a0Village",
-        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.  To encourage a\u00a0range of rural industry uses that serve the needs of the rural community and the people\u00a0who live, work or visit the area.",
+        "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To encourage a\u00a0range of rural industry uses that serve the needs of the rural community and the people\u00a0who live, work or visit the area.\u00a0</li>",
         "permittedWithout": [
             "Environmental protection works",
             "Roads",
@@ -41,35 +41,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4 Prohibited Airstrips",
-            "Amusement centres",
-            "Camping grounds",
-            "Caravan parks",
-            "Cemeteries",
-            "Centre-based child care facilities",
-            "Eco-tourist facilities",
-            "Educational establishments",
-            "Entertainment facilities",
-            "Exhibition homes",
-            "Exhibition villages",
-            "Forestry",
-            "Function centres",
-            "Health services facilities",
-            "Home businesses",
-            "Home occupations",
-            "Home occupations (sex services)",
-            "Home-based child care",
-            "Information and education facilities",
-            "Marinas",
-            "Mooring pens",
-            "Moorings",
-            "Open cut mining",
-            "Public administration buildings",
-            "Registered clubs",
-            "Residential accommodation",
-            "Respite day care centres",
-            "Tourist and visitor accommodation",
-            "Wharf or boating facilities"
+            "4 Prohibited"
         ]
     }
 ]

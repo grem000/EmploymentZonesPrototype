@@ -3,7 +3,7 @@
         "LGA": "Gundagai",
         "LEP": "Gundagai Local Environmental Plan 2011",
         "zone": "Zone E1 Local Centre",
-        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To promote the enhancement and conservation of heritage items.  To ensure new development occurs in a manner that does not compromise the values of existing heritage items.  To encourage high quality urban design.",
+        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To promote the enhancement and conservation of heritage items. </li> <li>To ensure new development occurs in a manner that does not compromise the values of existing heritage items. </li> <li>To encourage high quality urban design. </li>",
         "permittedWithout": [
             "Home occupations"
         ],
@@ -85,10 +85,8 @@
         "LGA": "Gundagai",
         "LEP": "Gundagai Local Environmental Plan 2011",
         "zone": "Zone E4 General Industrial",
-        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
-        "permittedWithout": [
-            "Nil"
-        ],
+        "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li>",
+        "permittedWithout": [],
         "permittedWith": [
             "Building identification signs",
             "Business identification signs",
@@ -176,7 +174,7 @@
         "LGA": "Gundagai",
         "LEP": "Gundagai Local Environmental Plan 2011",
         "zone": "Zone MU1 Mixed Use",
-        "objectives": "To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To minimise conflict between land uses within this zone and land uses within adjoining zones.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To promote appropriate development at South Gundagai having regard to its strategic relationship to the Hume Highway.",
+        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To promote appropriate development at South Gundagai having regard to its strategic relationship to the Hume Highway. </li>",
         "permittedWithout": [
             "Home occupations"
         ],
@@ -215,39 +213,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "Air transport facilities",
-            "Animal boarding or training establishments",
-            "Boat building and repair facilities",
-            "Boat sheds",
-            "Cemeteries",
-            "Charter and tourism boating facilities",
-            "Correctional centres",
-            "Crematoria",
-            "Eco-tourist facilities",
-            "Electricity generating works",
-            "Exhibition homes",
-            "Exhibition villages",
-            "Extractive industries",
-            "Farm buildings",
-            "Flood mitigation works",
-            "Forestry",
-            "Hazardous storage establishments",
-            "Industrial training facilities",
-            "Industries",
-            "Marinas",
-            "Mooring pens",
-            "Moorings",
-            "Offensive storage establishments",
-            "Open cut mining",
-            "Pond-based aquaculture",
-            "Research stations",
-            "Rural industries",
-            "Rural workers' dwellings",
-            "Sewerage systems",
-            "Waste or resource management facilities",
-            "Water recreation structures",
-            "Water treatment facilities",
-            "Wharf or boating facilities"
+            "4 Prohibited"
         ]
     }
 ]

@@ -3,7 +3,7 @@
         "LGA": "Cabonne",
         "LEP": "Cabonne Local Environmental Plan 2012",
         "zone": "Zone E1 Local Centre",
-        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
+        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li>",
         "permittedWithout": [
             "Environmental protection works",
             "Home occupations",
@@ -85,7 +85,7 @@
         "LGA": "Cabonne",
         "LEP": "Cabonne Local Environmental Plan 2012",
         "zone": "Zone E3 Productivity Support",
-        "objectives": "To provide a range of facilities and services, light industries, warehouses and offices.  To provide for land uses that are compatible with, but do not compete with, land uses in surrounding local and commercial centres.  To maintain the economic viability of local and commercial centres by limiting certain retail and commercial activity.  To provide for land uses that meet the needs of the community, businesses and industries but that are not suited to locations in other employment zones.  To provide opportunities for new and emerging light industries.  To enable other land uses that provide facilities and services to meet the day to day needs of workers, to sell goods of a large size, weight or quantity or to sell goods manufactured on-site.",
+        "objectives": "<li>To provide a range of facilities and services, light industries, warehouses and offices. </li> <li>To provide for land uses that are compatible with, but do not compete with, land uses in surrounding local and commercial centres. </li> <li>To maintain the economic viability of local and commercial centres by limiting certain retail and commercial activity. </li> <li>To provide for land uses that meet the needs of the community, businesses and industries but that are not suited to locations in other employment zones. </li> <li>To provide opportunities for new and emerging light industries. </li> <li>To enable other land uses that provide facilities and services to meet the day to day needs of workers, to sell goods of a large size, weight or quantity or to sell goods manufactured on-site. </li>",
         "permittedWithout": [
             "Environmental protection works"
         ],
@@ -193,7 +193,7 @@
         "LGA": "Cabonne",
         "LEP": "Cabonne Local Environmental Plan 2012",
         "zone": "Zone E4 General Industrial",
-        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
+        "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li>",
         "permittedWithout": [
             "Environmental protection works"
         ],
@@ -287,10 +287,8 @@
         "LGA": "Cabonne",
         "LEP": "Cabonne Local Environmental Plan 2012",
         "zone": "\nZone E5 Heavy Industrial",
-        "objectives": "To provide areas for industries that need to be separated from other land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.",
-        "permittedWithout": [
-            "Nil"
-        ],
+        "objectives": "<li>To provide areas for industries that need to be separated from other land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li>",
+        "permittedWithout": [],
         "permittedWith": [
             "Building identification signs",
             "Business identification signs",
@@ -318,56 +316,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "Air transport facilities",
-            "Airstrips",
-            "Amusement centres",
-            "Animal boarding or training establishments",
-            "Boat launching ramps",
-            "Boat sheds",
-            "Camping grounds",
-            "Caravan parks",
-            "Cemeteries",
-            "Centre-based child care facilities",
-            "Charter and tourism boating facilities",
-            "Commercial premises",
-            "Community facilities",
-            "Correctional centres",
-            "Eco-tourist facilities",
-            "Educational establishments",
-            "Entertainment facilities",
-            "Exhibition homes",
-            "Exhibition villages",
-            "Farm buildings",
-            "Forestry",
-            "Function centres",
-            "Health services facilities",
-            "Highway service centres",
-            "Home businesses",
-            "Home occupations",
-            "Home occupations (sex services)",
-            "Home-based child care",
-            "Information and education facilities",
-            "Jetties",
-            "Marinas",
-            "Mooring pens",
-            "Moorings",
-            "Passenger transport facilities",
-            "Public administration buildings",
-            "Recreation facilities (indoor)",
-            "Recreation facilities (major)",
-            "Recreation facilities (outdoor)",
-            "Registered clubs",
-            "Residential accommodation",
-            "Respite day care centres",
-            "Restricted premises",
-            "Service stations",
-            "Sex services premises",
-            "Stock and sale yards",
-            "Tourist and visitor accommodation",
-            "Veterinary hospitals",
-            "Water recreation structures",
-            "Wharf or boating facilities",
-            "Wholesale supplies"
+            "4 Prohibited"
         ]
     }
 ]

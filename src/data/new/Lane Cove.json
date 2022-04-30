@@ -3,7 +3,7 @@
         "LGA": "Lane Cove",
         "LEP": "Lane Cove Local Environmental Plan 2009",
         "zone": "Zone E1 Local Centre",
-        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To ensure that  the Lane Cove village functions as a Town Centre in the retail hierarchy .    To encourage urban design maximising attractive public domain and adequate circulation space through the Lane Cove local centres for current and future users To ensure that landscaping is a significant element in public and private development viewed from the public domain.  To ensure development is commensurate with the size and strategic intent of the individual local centre, and consistent with the Council's strategic planning for commercial development in the area. To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure that  the Lane Cove village functions as a Town Centre in the retail hierarchy . </li> <li>To encourage urban design maximising attractive public domain and adequate circulation space through the Lane Cove local centres for current and future users</li> <li>To ensure that landscaping is a significant element in public and private development viewed from the public domain. </li> <li>To ensure development is commensurate with the size and strategic intent of the individual local centre, and consistent with the Council's strategic planning for commercial development in the area.</li> <li>To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
             "Home occupations"
         ],
@@ -49,7 +49,7 @@
         "LGA": "Lane Cove",
         "LEP": "Lane Cove Local Environmental Plan 2009",
         "zone": "Zone E2 Commercial Centre",
-        "objectives": "To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity.  To encourage investment in commercial development that generates employment opportunities and economic growth.  To encourage development that has a high level of accessibility and amenity, particularly for pedestrians.  To enable residential development that is consistent with the Council's strategic planning for residential development in the area.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To strengthen the role of St Leonards as a strategic centre, a health and education precinct, and an urban renewal corridor.    To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li>To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity. </li> <li>To encourage investment in commercial development that generates employment opportunities and economic growth. </li> <li>To encourage development that has a high level of accessibility and amenity, particularly for pedestrians. </li> <li>To enable residential development that is consistent with the Council's strategic planning for residential development in the area. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To strengthen the role of St Leonards as a strategic centre, a health and education precinct, and an urban renewal corridor.</li> <li>To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
             "Home occupations"
         ],
@@ -96,10 +96,8 @@
         "LGA": "Lane Cove",
         "LEP": "Lane Cove Local Environmental Plan 2009",
         "zone": "Zone E4 General Industrial",
-        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.      To provide support in particular for innovative technologies and creative industries. To ensure that landscaping is a significant element in development viewed from the public domain and neighbouring properties.",
-        "permittedWithout": [
-            "Nil"
-        ],
+        "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To provide support in particular for innovative technologies and creative industries.</li> <li>To ensure that landscaping is a significant element in development viewed from the public domain and neighbouring properties. </li>",
+        "permittedWithout": [],
         "permittedWith": [
             "Building identification signs",
             "Business identification signs",
@@ -143,10 +141,8 @@
         "LGA": "Lane Cove",
         "LEP": "Lane Cove Local Environmental Plan 2009",
         "zone": "Zone MU1 Mixed Use",
-        "objectives": "To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To minimise conflict between land uses within this zone and land uses within adjoining zones.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To ensure the mixture of land uses are compatible. To integrate development in accessible locations so as to maximise public transport patronage and encourage walking and cycling. To maximise sunlight for surrounding properties and the public domain.",
-        "permittedWithout": [
-            "Nil"
-        ],
+        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure the mixture of land uses are compatible.</li> <li>To integrate development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li>To maximise sunlight for surrounding properties and the public domain. </li>",
+        "permittedWithout": [],
         "permittedWith": [
             "Amusement centres",
             "Boarding houses",
@@ -190,7 +186,7 @@
         "LGA": "Lane Cove",
         "LEP": "Lane Cove Local Environmental Plan 2009",
         "zone": "Zone W4 Working Waterfront",
-        "objectives": "To retain and encourage industrial and maritime activities on foreshores.  To identify sites for maritime purposes and for activities requiring direct foreshore access.  To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore.  To encourage employment opportunities.  To minimise any adverse effect of development on land uses in other zones.",
+        "objectives": "<li>To retain and encourage industrial and maritime activities on foreshores. </li> <li>To identify sites for maritime purposes and for activities requiring direct foreshore access. </li> <li>To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore. </li> <li>To encourage employment opportunities. </li> <li>To minimise any adverse effect of development on land uses in other zones. </li>",
         "permittedWithout": [
             "Environmental protection works"
         ],

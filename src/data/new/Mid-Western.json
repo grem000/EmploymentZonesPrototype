@@ -3,7 +3,7 @@
         "LGA": "Mid-Western",
         "LEP": "Mid-Western Local Environmental Plan 2012",
         "zone": "Zone E1 Local Centre",
-        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To maintain the built integrity of the area by enabling development that is sympathetic to the existing heritage buildings and features.   To ensure a form of development that is consistent with the residential nature of the surrounding area.  To ensure non-residential development is compatible with the residential amenity of the surrounding area.",
+        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To maintain the built integrity of the area by enabling development that is sympathetic to the existing heritage buildings and features. </li> <li>To ensure a form of development that is consistent with the residential nature of the surrounding area. </li> <li>To ensure non-residential development is compatible with the residential amenity of the surrounding area. </li>",
         "permittedWithout": [
             "Home occupations",
             "Roads",
@@ -102,7 +102,7 @@
         "LGA": "Mid-Western",
         "LEP": "Mid-Western Local Environmental Plan 2012",
         "zone": "Zone E2 Commercial Centre",
-        "objectives": "To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity.  To encourage investment in commercial development that generates employment opportunities and economic growth.  To encourage development that has a high level of accessibility and amenity, particularly for pedestrians.  To enable residential development that is consistent with the Council's strategic planning for residential development in the area.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To promote the central business district of Mudgee as the major focus for retail and commercial activity in Mid-Western Regional.   To ensure that new development is compatible with the historic architectural character and streetscapes of the Mudgee commercial core area.",
+        "objectives": "<li>To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity. </li> <li>To encourage investment in commercial development that generates employment opportunities and economic growth. </li> <li>To encourage development that has a high level of accessibility and amenity, particularly for pedestrians. </li> <li>To enable residential development that is consistent with the Council's strategic planning for residential development in the area. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To promote the central business district of Mudgee as the major focus for retail and commercial activity in Mid-Western Regional. </li> <li>To ensure that new development is compatible with the historic architectural character and streetscapes of the Mudgee commercial core area. </li>",
         "permittedWithout": [
             "Roads",
             "Water reticulation systems"
@@ -203,7 +203,7 @@
         "LGA": "Mid-Western",
         "LEP": "Mid-Western Local Environmental Plan 2012",
         "zone": "Zone E3 Productivity Support",
-        "objectives": "To provide a range of facilities and services, light industries, warehouses and offices.  To provide for land uses that are compatible with, but do not compete with, land uses in surrounding local and commercial centres.  To maintain the economic viability of local and commercial centres by limiting certain retail and commercial activity.  To provide for land uses that meet the needs of the community, businesses and industries but that are not suited to locations in other employment zones.  To provide opportunities for new and emerging light industries.  To enable other land uses that provide facilities and services to meet the day to day needs of workers, to sell goods of a large size, weight or quantity or to sell goods manufactured on-site.  To promote a visually attractive entry point into Mudgee from the south east.  To enable development that does not undermine the primary retailing role of the Mudgee commercial core area.",
+        "objectives": "<li>To provide a range of facilities and services, light industries, warehouses and offices. </li> <li>To provide for land uses that are compatible with, but do not compete with, land uses in surrounding local and commercial centres. </li> <li>To maintain the economic viability of local and commercial centres by limiting certain retail and commercial activity. </li> <li>To provide for land uses that meet the needs of the community, businesses and industries but that are not suited to locations in other employment zones. </li> <li>To provide opportunities for new and emerging light industries. </li> <li>To enable other land uses that provide facilities and services to meet the day to day needs of workers, to sell goods of a large size, weight or quantity or to sell goods manufactured on-site. </li> <li>To promote a visually attractive entry point into Mudgee from the south east. </li> <li>To enable development that does not undermine the primary retailing role of the Mudgee commercial core area. </li>",
         "permittedWithout": [
             "Roads",
             "Water reticulation systems"
@@ -309,7 +309,7 @@
         "LGA": "Mid-Western",
         "LEP": "Mid-Western Local Environmental Plan 2012",
         "zone": "Zone E4 General Industrial",
-        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.  To promote a safe and efficient network for the movement of heavy vehicles and to minimise the intrusion of heavy vehicles into nearby residential areas.",
+        "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To promote a safe and efficient network for the movement of heavy vehicles and to minimise the intrusion of heavy vehicles into nearby residential areas. </li>",
         "permittedWithout": [
             "Roads",
             "Water reticulation systems"
@@ -395,7 +395,7 @@
         "LGA": "Mid-Western",
         "LEP": "Mid-Western Local Environmental Plan 2012",
         "zone": "Zone E5 Heavy Industrial",
-        "objectives": "To provide areas for industries that need to be separated from other land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To provide for heavy industry and other industrial development in association with resource-based industries such as mining.",
+        "objectives": "<li>To provide areas for industries that need to be separated from other land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To provide for heavy industry and other industrial development in association with resource-based industries such as mining.  </li>",
         "permittedWithout": [
             "Roads",
             "Water reticulation systems"
@@ -483,7 +483,7 @@
         "LGA": "Mid-Western",
         "LEP": "Mid-Western Local Environmental Plan 2012",
         "zone": "Zone MU1 Mixed Use",
-        "objectives": "To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To minimise conflict between land uses within this zone and land uses within adjoining zones.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To ensure a form of development that is consistent with the character of the adjoining residential neighbourhoods.",
+        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure a form of development that is consistent with the character of the adjoining residential neighbourhoods. </li>",
         "permittedWithout": [
             "Home-based child care",
             "Home occupations",

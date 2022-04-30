@@ -3,7 +3,7 @@
         "LGA": "Liverpool Plains",
         "LEP": "Liverpool Plains Local Environmental Plan 2011",
         "zone": "Zone E1 Local Centre",
-        "objectives": "To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area.  To encourage investment in local commercial development that generates employment opportunities and economic growth.  To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.  To generally conserve and enhance the unique sense of place of business centre precincts by ensuring that new development integrates with the distinct urban scale, character, cultural heritage and landscape setting of those places.  To ensure that adequate provision is made for infrastructure that supports the viability of business centre precincts.",
+        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To generally conserve and enhance the unique sense of place of business centre precincts by ensuring that new development integrates with the distinct urban scale, character, cultural heritage and landscape setting of those places. </li> <li>To ensure that adequate provision is made for infrastructure that supports the viability of business centre precincts. </li>",
         "permittedWithout": [
             "Building identification signs",
             "Environmental protection works",
@@ -100,7 +100,7 @@
         "LGA": "Liverpool Plains",
         "LEP": "Liverpool Plains Local Environmental Plan 2011",
         "zone": "Zone E4 General Industrial",
-        "objectives": "To provide a range of industrial, warehouse, logistics and related land uses.  To ensure the efficient and viable use of land for industrial uses.  To minimise any adverse effect of industry on other land uses.  To encourage employment opportunities.  To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers.",
+        "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li>",
         "permittedWithout": [
             "Building identification signs",
             "Environmental protection works",
@@ -204,10 +204,8 @@
         "LGA": "Liverpool Plains",
         "LEP": "Liverpool Plains Local Environmental Plan 2011",
         "zone": "Zone MU1 Mixed Use",
-        "objectives": "To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities.  To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces.  To minimise conflict between land uses within this zone and land uses within adjoining zones.  To encourage business, retail, community and other non-residential land uses on the ground floor of buildings.",
-        "permittedWithout": [
-            "Roads"
-        ],
+        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li>",
+        "permittedWithout": [],
         "permittedWith": [
             "Amusement centres",
             "Attached dwellings",
@@ -243,29 +241,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "Air transport facilities",
-            "Animal boarding or training establishments",
-            "Cemeteries",
-            "Correctional centres",
-            "Crematoria",
-            "Depots",
-            "Eco-tourist facilities",
-            "Farm buildings",
-            "Forestry",
-            "Freight transport facilities",
-            "Heavy industrial storage establishments",
-            "Industrial training facilities",
-            "Industries",
-            "Open cut mining",
-            "Recreation facilities (major)",
-            "Recreation facilities (outdoor)",
-            "Residential accommodation",
-            "Rural industries",
-            "Sex services premises",
-            "Storage premises",
-            "Vehicle body repair workshops",
-            "Waste or resource management facilities",
-            "Wharf or boating facilities"
+            "4 Prohibited"
         ]
     }
 ]
