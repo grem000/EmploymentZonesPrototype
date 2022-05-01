@@ -1,0 +1,197 @@
+[
+    {
+        "LEP": "North Sydney Local Environmental Plan 2013",
+        "zone": "B1",
+        "LGA": "North Sydney",
+        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To encourage active street life while maintaining high levels of residential amenity.\u2022\u00a0\u00a0To encourage development for the purpose of shop top housing.",
+        "permittedWithout": [
+            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+        ],
+        "permittedWith": [
+            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Business premises",
+            "Centre-based child care facilities",
+            "Community facilities",
+            "Entertainment facilities",
+            "Health services facilities",
+            "Information and education facilities",
+            "Kiosks",
+            "Medical centres",
+            "Neighbourhood shops",
+            "Neighbourhood supermarkets",
+            "Office premises",
+            "Oyster aquaculture",
+            "Places of public worship",
+            "Public administration buildings",
+            "Recreation areas",
+            "Recreation facilities (indoor)",
+            "Respite day care centres",
+            "Restaurants or cafes",
+            "Roads",
+            "Shops",
+            "Shop top housing",
+            "Signage",
+            "Tank-based aquaculture",
+            "Take away food and drink premises Veterinary hospitals"
+        ],
+        "prohibited": [
+            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Any other development not specified in item 2 or 3"
+        ]
+    },
+    {
+        "LEP": "North Sydney Local Environmental Plan 2013",
+        "zone": "B3",
+        "LGA": "North Sydney",
+        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To prohibit further residential development in the core of the North Sydney Centre.\u2022\u00a0\u00a0To minimise the adverse effects of development on residents and occupiers of existing and new development.",
+        "permittedWithout": [
+            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+        ],
+        "permittedWith": [
+            "3\u00a0\u00a0\u00a0Permitted with consentAmusement centres",
+            "Backpackers' accommodation",
+            "Centre-based child care facilities",
+            "Commercial premises",
+            "Community facilities",
+            "Educational establishments",
+            "Entertainment facilities",
+            "Function centres",
+            "Hotel or motel accommodation",
+            "Information and education facilities",
+            "Medical centres",
+            "Oyster aquaculture",
+            "Passenger transport facilities",
+            "Places of public worship",
+            "Recreation areas",
+            "Recreation facilities (indoor)",
+            "Registered clubs",
+            "Respite day care centres",
+            "Restricted premises",
+            "Roads",
+            "Sex services premises",
+            "Signage",
+            "Tank-based aquaculture",
+            "Vehicle repair stations",
+            "Veterinary hospitals"
+        ],
+        "prohibited": [
+            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Any other development not specified in item 2 or 3"
+        ]
+    },
+    {
+        "LEP": "North Sydney Local Environmental Plan 2013",
+        "zone": "B4",
+        "LGA": "North Sydney",
+        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To create interesting and vibrant mixed use centres with safe, high quality urban environments with residential amenity.\u2022\u00a0\u00a0To maintain existing commercial space and allow for residential development in mixed use buildings, with non-residential uses concentrated on the lower levels and residential uses predominantly on the higher levels.",
+        "permittedWithout": [
+            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+        ],
+        "permittedWith": [
+            "3\u00a0\u00a0\u00a0Permitted with consentAmusement centres",
+            "Backpackers' accommodation",
+            "Boarding houses",
+            "Car parks",
+            "Centre-based child care facilities",
+            "Commercial premises",
+            "Community facilities",
+            "Educational establishments",
+            "Entertainment facilities",
+            "Function centres",
+            "Hostels",
+            "Hotel or motel accommodation",
+            "Information and education facilities",
+            "Medical centres",
+            "Oyster aquaculture",
+            "Passenger transport facilities",
+            "Places of public worship",
+            "Recreation areas",
+            "Recreation facilities (indoor)",
+            "Registered clubs",
+            "Residential flat buildings",
+            "Respite day care centres",
+            "Restricted premises",
+            "Roads",
+            "Seniors housing",
+            "Serviced apartments",
+            "Sex services premises",
+            "Shop top housing",
+            "Signage",
+            "Tank-based aquaculture",
+            "Vehicle repair stations",
+            "Veterinary hospitals"
+        ],
+        "prohibited": [
+            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Any other development not specified in item 2 or 3"
+        ]
+    },
+    {
+        "LEP": "North Sydney Local Environmental Plan 2013",
+        "zone": "IN2",
+        "LGA": "North Sydney",
+        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To encourage a mix of lower scale housing types.\u2022\u00a0\u00a0To permit development that is compatible with the scale and character of the surrounding residential area.",
+        "permittedWithout": [
+            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+        ],
+        "permittedWith": [
+            "3\u00a0\u00a0\u00a0Permitted with consentAttached dwellings",
+            "Boarding houses",
+            "Centre-based child care facilities",
+            "Depots",
+            "Dual occupancies (attached)",
+            "Dwelling houses",
+            "Educational establishments",
+            "Entertainment facilities",
+            "Garden centres",
+            "Hardware and building supplies",
+            "Health services facilities",
+            "Industrial training facilities",
+            "Information and education facilities",
+            "Light industries",
+            "Multi dwelling housing",
+            "Neighbourhood shops",
+            "Office premises",
+            "Oyster aquaculture",
+            "Places of public worship",
+            "Recreation areas",
+            "Recreation facilities (indoor)",
+            "Respite day care centres",
+            "Roads",
+            "Secondary dwellings",
+            "Semi-detached dwellings",
+            "Seniors housing",
+            "Signage",
+            "Tank-based aquaculture",
+            "Warehouse or distribution centres"
+        ],
+        "prohibited": [
+            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Any other development not specified in item 2 or 3"
+        ]
+    },
+    {
+        "LEP": "North Sydney Local Environmental Plan 2013",
+        "zone": "IN4",
+        "LGA": "North Sydney",
+        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To identify sites for maritime purposes and for activities that require direct waterfront access.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of development on land uses in other zones.",
+        "permittedWithout": [
+            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+        ],
+        "permittedWith": [
+            "3\u00a0\u00a0\u00a0Permitted with consentAquaculture",
+            "Boat building and repair facilities",
+            "Boat launching ramps",
+            "Charter and tourism boating facilities",
+            "Jetties",
+            "Kiosks",
+            "Light industries",
+            "Marinas",
+            "Roads",
+            "Signage"
+        ],
+        "prohibited": [
+            "4\u00a0\u00a0\u00a0ProhibitedAny development not specified in item 2 or 3"
+        ]
+    }
+]
