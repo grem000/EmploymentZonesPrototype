@@ -40,6 +40,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Air transport facilities",
             "Animal boarding or training establishments",
             "Boat building and repair facilities",
@@ -109,6 +110,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -212,8 +214,6 @@
             "Vehicle repair stations",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": [
-            "4 Prohibited"
-        ]
+        "prohibited": []
     }
 ]

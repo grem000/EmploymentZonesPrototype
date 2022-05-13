@@ -40,8 +40,6 @@
             "Veterinary hospitals",
             "Warehouse or distribution centres"
         ],
-        "prohibited": [
-            "4 Prohibited"
-        ]
+        "prohibited": []
     }
 ]

@@ -42,7 +42,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4 Prohibited Advertising structures",
+            "Advertising structures",
             "Agriculture",
             "Camping grounds",
             "Caravan parks",
@@ -98,7 +98,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4 Prohibited Camping grounds",
+            "Camping grounds",
             "Caravan parks",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -166,8 +166,6 @@
             "Wholesale supplies",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": [
-            "4 Prohibited"
-        ]
+        "prohibited": []
     }
 ]

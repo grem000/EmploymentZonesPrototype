@@ -43,6 +43,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -122,6 +123,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Camping grounds",
             "Caravan parks",
             "Commercial premises",
@@ -188,7 +190,7 @@
             "Water supply systems"
         ],
         "prohibited": [
-            "4 Prohibited Pond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -259,9 +261,7 @@
             "Wharf or boating facilities",
             "Wholesale supplies"
         ],
-        "prohibited": [
-            "4 Prohibited"
-        ]
+        "prohibited": []
     }
 ][
     {
@@ -309,6 +309,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -389,7 +390,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4 Prohibited Airstrip",
+            "Airstrip",
             "Air transport facilities",
             "Agriculture",
             "Camping grounds",
@@ -461,7 +462,7 @@
             "Water supply systems"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -535,8 +536,6 @@
             "Wharf or boating facilities",
             "Wholesale supplies"
         ],
-        "prohibited": [
-            "4 Prohibited"
-        ]
+        "prohibited": []
     }
 ]

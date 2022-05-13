@@ -57,7 +57,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -135,7 +135,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -200,7 +200,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4 Prohibited Rural worker's dwelling",
+            "Rural worker's dwelling",
             "Any other development not specified in item 2 or 3"
         ]
     }

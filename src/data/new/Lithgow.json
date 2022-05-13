@@ -38,6 +38,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -163,7 +164,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -225,7 +226,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -266,7 +267,7 @@
             "Water storage facilities"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -308,7 +309,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4 Prohibited Advertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",

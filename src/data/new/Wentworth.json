@@ -50,7 +50,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4 Prohibited Farm stay accommodation",
+            "Farm stay accommodation",
             "Any other development not listed in item 2 or 3"
         ]
     },
@@ -120,6 +120,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Camping grounds",
@@ -189,8 +190,6 @@
             "Warehouse or distribution centres",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": [
-            "4 Prohibited"
-        ]
+        "prohibited": []
     }
 ]

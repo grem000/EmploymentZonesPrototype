@@ -53,7 +53,7 @@
             "Waste or resource transfer station"
         ],
         "prohibited": [
-            "4 Prohibited Water treatment facilities",
+            "Water treatment facilities",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -133,7 +133,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4 Prohibited Water treatment facilities",
+            "Water treatment facilities",
             "Any other development not specified in item 2 or 3"
         ]
     }

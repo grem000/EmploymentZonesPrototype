@@ -46,6 +46,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Air transport facilities",
             "Animal boarding or training establishments",
             "Camping grounds",
@@ -126,6 +127,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Air transport facilities",
             "Animal boarding or training establishments",
             "Camping grounds",
@@ -225,7 +227,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4 Prohibited Agricultural produce industries",
+            "Agricultural produce industries",
             "Agriculture",
             "Air transport facilities",
             "Cemeteries",
@@ -290,7 +292,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4 Prohibited Advertising structures",
+            "Advertising structures",
             "Camping grounds",
             "Caravan parks",
             "Centre-based child care facilities",
@@ -341,8 +343,6 @@
             "Warehouse or distribution centres",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": [
-            "4 Prohibited"
-        ]
+        "prohibited": []
     }
 ]

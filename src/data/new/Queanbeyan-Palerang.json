@@ -54,7 +54,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -103,6 +103,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Bed and breakfast accommodation",
@@ -222,7 +223,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -301,7 +302,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -361,8 +362,6 @@
             "Tourist and visitor accommodation",
             "Vehicle repair stations"
         ],
-        "prohibited": [
-            "4 Prohibited"
-        ]
+        "prohibited": []
     }
 ]

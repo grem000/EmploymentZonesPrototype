@@ -58,6 +58,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
+            "Agriculture",
             "Airports",
             "Airstrips",
             "Amusement centres",
@@ -148,7 +149,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4 Prohibited Airports",
+            "Airports",
             "Airstrips",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -234,8 +235,6 @@
             "Water reticulation systems",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": [
-            "4 Prohibited"
-        ]
+        "prohibited": []
     }
 ]

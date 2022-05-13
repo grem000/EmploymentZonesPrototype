@@ -54,7 +54,7 @@
             "Water reticulation systems"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -136,7 +136,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -196,7 +196,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -254,7 +254,7 @@
             "Water reticulation systems"
         ],
         "prohibited": [
-            "4 Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     },
     {
@@ -287,7 +287,7 @@
             "Wharf or boating facilities"
         ],
         "prohibited": [
-            "4 Prohibited Any development not specified in item 2 or 3"
+            "Any development not specified in item 2 or 3"
         ]
     },
     {
@@ -338,8 +338,6 @@
             "Water reticulation systems",
             "Water treatment facilities"
         ],
-        "prohibited": [
-            "4 Prohibited"
-        ]
+        "prohibited": []
     }
 ]
