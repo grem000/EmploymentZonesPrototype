@@ -54,7 +54,9 @@
         "LEP": "Liverpool Local Environmental Plan 2008",
         "zone": "Zone E2 Commercial Centre",
         "objectives": "<li>To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity. </li> <li>To encourage investment in commercial development that generates employment opportunities and economic growth. </li> <li>To encourage development that has a high level of accessibility and amenity, particularly for pedestrians. </li> <li>To enable residential development that is consistent with the Council's strategic planning for residential development in the area. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To strengthen the role of Liverpool city centre as the regional business, retail and cultural centre of south western Sydney. </li> <li>To ensure that, for key land in the Liverpool city centre, opportunities for retail, business and office uses exist in the longer term. </li> <li>To facilitate a high standard of urban design and exceptional public amenity.</li> <li>To maximise public transport patronage and encourage walking and cycling. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Amusement centres",
             "Artisan food and drink industries",
@@ -177,7 +179,9 @@
         "LEP": "Liverpool Local Environmental Plan 2008",
         "zone": "Zone E4 General Industrial",
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To allow other land uses that are compatible with industry and that can buffer heavy industrial zones while not detracting from centres of activity. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Animal boarding or training establishments",
             "Boat building and repair facilities",
@@ -238,7 +242,9 @@
         "LEP": "Liverpool Local Environmental Plan 2008",
         "zone": "Zone E5 Heavy Industrial",
         "objectives": "<li>To provide areas for industries that need to be separated from other land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To preserve opportunities for a wide range of industries and similar land uses by prohibiting land uses that detract from or undermine such opportunities. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Boat building and repair facilities",
             "Building identification signs",

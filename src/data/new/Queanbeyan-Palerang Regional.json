@@ -362,6 +362,8 @@
             "Tourist and visitor accommodation",
             "Vehicle repair stations"
         ],
-        "prohibited": []
+        "prohibited": [
+            "Any other development not specified in item 2 or 3"
+        ]
     }
 ]

@@ -96,7 +96,9 @@
         "LEP": "Maitland Local Environmental Plan 2011",
         "zone": "Zone E2 Commercial Centre",
         "objectives": "<li>To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity. </li> <li>To encourage investment in commercial development that generates employment opportunities and economic growth. </li> <li>To encourage development that has a high level of accessibility and amenity, particularly for pedestrians. </li> <li>To enable residential development that is consistent with the Council's strategic planning for residential development in the area. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To recognise Council's preferred hierarchy of activity centres and precincts, by ensuring that existing and future development\u2014(a) at Greenhills reinforces the regional significance of this retail precinct, and (b) at Central Maitland promotes business development to reinforce its significance as a major regional centre. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Amusement centres",
             "Artisan food and drink industries",
@@ -302,7 +304,9 @@
         "LEP": "Maitland Local Environmental Plan 2011",
         "zone": "Zone E4 General Industrial",
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Building identification signs",
             "Business identification signs",
@@ -429,6 +433,54 @@
             "Vehicle repair stations",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": []
+        "prohibited": [
+            "Agriculture",
+            "Air transport facilities",
+            "Airstrips",
+            "Animal boarding or training establishments",
+            "Biosolids treatment facilities",
+            "Boat launching ramps",
+            "Boat sheds",
+            "Camping grounds",
+            "Caravan parks",
+            "Cemeteries",
+            "Charter and tourism boating facilities",
+            "Correctional centres",
+            "Crematoria",
+            "Depots",
+            "Eco-tourist facilities",
+            "Exhibition homes",
+            "Exhibition villages",
+            "Extractive industries",
+            "Farm buildings",
+            "Forestry",
+            "Freight transport facilities",
+            "Heavy industrial storage establishments",
+            "Helipads",
+            "Highway service centres",
+            "Home occupations (sex services)",
+            "Industrial training facilities",
+            "Industries",
+            "Jetties",
+            "Marinas",
+            "Mooring pens",
+            "Moorings",
+            "Open cut mining",
+            "Recreation facilities (major)",
+            "Residential accommodation",
+            "Resource recovery facilities",
+            "Rural industries",
+            "Sewage treatment plants",
+            "Sex services premises",
+            "Transport depots",
+            "Truck depots",
+            "Vehicle body repair workshops",
+            "Warehouse or distribution centres",
+            "Waste disposal facilities",
+            "Water recreation structures",
+            "Water recycling facilities",
+            "Wharf or boating facilities",
+            "Wholesale supplies"
+        ]
     }
 ]

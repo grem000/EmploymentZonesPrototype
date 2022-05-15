@@ -346,7 +346,9 @@
         "LEP": "Wollongong Local Environmental Plan 2009",
         "zone": "Zone W4 Working Waterfront",
         "objectives": "<li>To retain and encourage industrial and maritime activities on foreshores. </li> <li>To identify sites for maritime purposes and for activities requiring direct foreshore access. </li> <li>To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore. </li> <li>To encourage employment opportunities. </li> <li>To minimise any adverse effect of development on land uses in other zones. </li> <li>To encourage development that is compatible with the characteristics of Wollongong Harbour and Belmore Basin.</li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Aquaculture",
             "Boat building and repair facilities",

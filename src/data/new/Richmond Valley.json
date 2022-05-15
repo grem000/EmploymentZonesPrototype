@@ -194,7 +194,9 @@
         "LEP": "Richmond Valley Local Environmental Plan 2012",
         "zone": "Zone E4 General Industrial",
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Building identification signs",
             "Business identification signs",
@@ -265,7 +267,9 @@
         "LEP": "Richmond Valley Local Environmental Plan 2012",
         "zone": "Zone W4 Working Waterfront",
         "objectives": "<li>To retain and encourage industrial and maritime activities on foreshores. </li> <li>To identify sites for maritime purposes and for activities requiring direct foreshore access. </li> <li>To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore. </li> <li>To encourage employment opportunities. </li> <li>To minimise any adverse effect of development on land uses in other zones. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Aquaculture",
             "Boat building and repair facilities",
@@ -280,6 +284,50 @@
             "Take away food and drink premises",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": []
+        "prohibited": [
+            "Agriculture",
+            "Air transport facilities",
+            "Airstrips",
+            "Amusement centres",
+            "Animal boarding or training establishments",
+            "Camping grounds",
+            "Caravan parks",
+            "Cemeteries",
+            "Commercial premises",
+            "Correctional centres",
+            "Crematoria",
+            "Early education and care facilities",
+            "Eco-tourist facilities",
+            "Entertainment facilities",
+            "Exhibition homes",
+            "Exhibition villages",
+            "Extractive industries",
+            "Farm buildings",
+            "Forestry",
+            "Function centres",
+            "Health services facilities",
+            "Heavy industrial storage facilities",
+            "Heavy industries",
+            "Highway service centres",
+            "Home business",
+            "Home occupations",
+            "Home occupation (sex services)",
+            "Mortuaries",
+            "Open cut mining",
+            "Places of public worship",
+            "Recreation facilities (indoor)",
+            "Recreation facilities (major)",
+            "Recreation facilities (outdoor)",
+            "Registered clubs",
+            "Residential accommodation",
+            "Respite day care centres",
+            "Restricted premises",
+            "Sawmill or log processing industries",
+            "Schools",
+            "Self-storage units",
+            "Sewerage systems",
+            "Stock and sale yards",
+            "Tourist and visitor accommodation"
+        ]
     }
 ]

@@ -322,7 +322,9 @@
         "LEP": "Strathfield Local Environmental Plan 2012",
         "zone": "Zone E4 General Industrial",
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To minimise fragmentation of valuable industrial land and provide large sites for integrated and large floorplate activities. </li> <li>To allow for a higher proportion of ancillary office floor space to support high technology, light industrial and small-scale warehouse-related land uses. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Agricultural produce industries",
             "Animal boarding or training establishments",

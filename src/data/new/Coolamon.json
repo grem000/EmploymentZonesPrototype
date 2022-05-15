@@ -40,6 +40,8 @@
             "Veterinary hospitals",
             "Warehouse or distribution centres"
         ],
-        "prohibited": []
+        "prohibited": [
+            "Any other development not specified in item 2 or 3"
+        ]
     }
 ]

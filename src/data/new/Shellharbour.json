@@ -329,7 +329,9 @@
         "LEP": "Shellharbour Local Environmental Plan 2013",
         "zone": "Zone E4 General Industrial",
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To encourage the development of industries and to diversify the industrial base of Shellharbour recognising the importance of the Shellharbour Airport. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Agricultural produce industries",
             "Building identification signs",

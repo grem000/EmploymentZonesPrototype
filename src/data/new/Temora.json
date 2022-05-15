@@ -4,7 +4,9 @@
         "LEP": "Temora Local Environmental Plan 2010",
         "zone": "Zone E1 Local Centre",
         "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To promote the enhancement and conservation of heritage items. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Roads"
+        ],
         "permittedWith": [
             "Amusement centres",
             "Attached dwellings",
@@ -208,7 +210,9 @@
         "LEP": "Temora Local Environmental Plan 2010",
         "zone": "Zone E4 General Industrial",
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To encourage a range of uses that provide specialist goods and services to the region's farmers and agricultural enterprises. </li> <li>To protect local groundwater aquifers from contaminating activities. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Roads"
+        ],
         "permittedWith": [
             "Agricultural produce industries",
             "Building identification signs",

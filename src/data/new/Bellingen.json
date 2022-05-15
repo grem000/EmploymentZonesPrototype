@@ -91,7 +91,9 @@
         "LEP": "Bellingen Local Environmental Plan 2010",
         "zone": "Zone E4 General Industrial",
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To minimise any adverse effect of industry on the surrounding environment, with particular regard to the on-site disposal of effluent and the generation of stormwater. </li> <li>To ensure that industrial development is adequately screened from the view of classified roads.</li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Building identification signs",
             "Business identification signs",

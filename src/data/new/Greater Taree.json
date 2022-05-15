@@ -328,7 +328,9 @@
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "Zone E5 Heavy Industrial",
         "objectives": "<li>To provide areas for industries that need to be separated from other land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To support and create opportunities for heavy industrial development with access to transport and infrastructure networks.</li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Agriculture",
             "Boat building and repair facilities",

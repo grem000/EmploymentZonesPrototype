@@ -105,7 +105,9 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "Zone E2 Commercial Centre",
         "objectives": "<li>To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity. </li> <li>To encourage investment in commercial development that generates employment opportunities and economic growth. </li> <li>To encourage development that has a high level of accessibility and amenity, particularly for pedestrians. </li> <li>To enable residential development that is consistent with the Council's strategic planning for residential development in the area. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To ensure built form and land uses are commensurate with the level of accessibility, to and from the centre, by public transport, walking and cycling</li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Amusement centres",
             "Artisan food and drink industries",
@@ -321,7 +323,9 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "Zone E4 General Industrial",
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To ensure adequate protection of industrial land and uses, in line with the strategic direction to retain and manage industrial and urban services land.</li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Building identification signs",
             "Business identification signs",

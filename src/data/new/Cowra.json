@@ -266,6 +266,8 @@
             "Water supply systems",
             "Wholesale supplies"
         ],
-        "prohibited": []
+        "prohibited": [
+            "Any other development not specified in item 2 or 3"
+        ]
     }
 ]

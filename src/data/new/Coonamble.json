@@ -175,7 +175,9 @@
         "LEP": "Coonamble Local Environmental Plan 2011",
         "zone": "Zone E4 General Industrial",
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Building identification signs",
             "Business identification signs",
@@ -203,6 +205,39 @@
             "Warehouse or distribution centres",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": []
+        "prohibited": [
+            "Agriculture",
+            "Air transport facilities",
+            "Airstrips",
+            "Amusement centres",
+            "Camping grounds",
+            "Car parks",
+            "Caravan parks",
+            "Centre-based child care facilities",
+            "Commercial premises",
+            "Community facilities",
+            "Eco-tourist facilities",
+            "Entertainment facilities",
+            "Exhibition homes",
+            "Exhibition villages",
+            "Farm buildings",
+            "Forestry",
+            "Function centres",
+            "Health services facilities",
+            "Highway service centres",
+            "Home occupations (sex services)",
+            "Home-based child care",
+            "Information and education facilities",
+            "Mooring pens",
+            "Port facilities",
+            "Public administration buildings",
+            "Recreation facilities (major)",
+            "Registered clubs",
+            "Residential accommodation",
+            "Respite day care centres",
+            "Schools",
+            "Tourist and visitor accommodation",
+            "Wharf or boating facilities"
+        ]
     }
 ]

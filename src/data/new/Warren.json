@@ -251,6 +251,37 @@
             "Warehouse or distribution centres",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": []
+        "prohibited": [
+            "Agriculture",
+            "Amusement centres",
+            "Camping grounds",
+            "Caravan parks",
+            "Cemeteries",
+            "Centre-based child care facilities",
+            "Commercial premises",
+            "Community facilities",
+            "Eco-tourist facilities",
+            "Educational establishments",
+            "Entertainment facilities",
+            "Environmental facilities",
+            "Exhibition homes",
+            "Exhibition villages",
+            "Farm buildings",
+            "Forestry",
+            "Function centres",
+            "Health services facilities",
+            "Home occupations (sex services)",
+            "Information and education facilities",
+            "Marinas",
+            "Mooring pens",
+            "Moorings",
+            "Places of public worship",
+            "Public administration buildings",
+            "Registered clubs",
+            "Residential accommodation",
+            "Respite day care centres",
+            "Tourist and visitor accommodation",
+            "Wharf or boating facilities"
+        ]
     }
 ]

@@ -4,7 +4,9 @@
         "LEP": "Parramatta (Consolidated) Local Environmental Plan 20XX",
         "zone": "Zone E1 Local Centre",
         "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure the scale and type of development does not adversely affect the amenity of the surrounding neighbourhood. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Amusement centres",
             "Boarding houses",
@@ -103,7 +105,9 @@
         "LEP": "Parramatta (Consolidated) Local Environmental Plan 20XX",
         "zone": "Zone E2 Commercial Centre",
         "objectives": "<li>To strengthen the role of the commercial centre as the centre of business, retail, community and cultural activity. </li> <li>To encourage investment in commercial development that generates employment opportunities and economic growth. </li> <li>To encourage development that has a high level of accessibility and amenity, particularly for pedestrians. </li> <li>To enable residential development that is consistent with the Council's strategic planning for residential development in the area. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To strengthen the role of the Parramatta City Centre as the regional business, retail and cultural centre, and as a primary retail centre in the Greater Metropolitan Region. </li> <li>. </li> <li>To provide for the retention and creation of view corridors. </li> <li>To protect and enhance the unique qualities and character of special areas and heritage values within the Parramatta City Centre. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Amusement centres",
             "Artisan food and drink industries",
@@ -151,7 +155,9 @@
         "LEP": "Parramatta (Consolidated) Local Environmental Plan 20XX",
         "zone": "Zone E3 Productivity Support",
         "objectives": "<li>To provide a range of facilities and services, light industries, warehouses and offices. </li> <li>To provide for land uses that are compatible with, but do not compete with, land uses in surrounding local and commercial centres. </li> <li>To maintain the economic viability of local and commercial centres by limiting certain retail and commercial activity. </li> <li>To provide for land uses that meet the needs of the community, businesses and industries but that are not suited to locations in other employment zones. </li> <li>To provide opportunities for new and emerging light industries. </li> <li>To enable other land uses that provide facilities and services to meet the day to day needs of workers, to sell goods of a large size, weight or quantity or to sell goods manufactured on-site. </li> <li>To encourage a range of tourism, recreation, function and entertainment uses in proximity to major community infrastructure. </li> <li>To provide for automotive businesses, trades and services to reinforce the existing functions of land within the zone. </li> <li>To ensure that development is arranged and carried out in a way that does not intrude on the amenity of adjoining residential areas. </li> <li>To encourage creation of well-designed and sustainable business park developments. </li> <li>To provide the flexibility required to encourage a range of office uses in the zone. </li> <li>To create an accessible and safe public domain. </li> <li>To maximise opportunities to increase walking, cycling and public transport use. </li> <li>To minimise adverse effects on the natural environment. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Animal boarding or training establishments",
             "Boat building and repair facilities",
@@ -262,7 +268,9 @@
         "LEP": "Parramatta (Consolidated) Local Environmental Plan 20XX",
         "zone": "Zone E4 General Industrial",
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To minimise adverse effects on the natural environment. </li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Building identification signs",
             "Business identification signs",
@@ -346,7 +354,9 @@
         "LEP": "Parramatta (Consolidated) Local Environmental Plan 20XX",
         "zone": "Zone E5 Heavy Industrial",
         "objectives": "<li>To provide areas for industries that need to be separated from other land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To ensure that opportunities are not lost for realising potential foreshore access on land that is contaminated and currently not suitable for public access.</li>",
-        "permittedWithout": [],
+        "permittedWithout": [
+            "Nil"
+        ],
         "permittedWith": [
             "Agricultural produce industries",
             "Building identification signs",
@@ -468,6 +478,63 @@
             "Water recycling facilities",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": []
+        "prohibited": [
+            "Agriculture",
+            "Air transport facilities",
+            "Airstrips",
+            "Animal boarding or training establishments",
+            "Boat building and repair facilities",
+            "Boat launching ramps",
+            "Boat sheds",
+            "Camping grounds",
+            "Caravan parks",
+            "Cemeteries",
+            "Charter and tourism boating facilities",
+            "Crematoria",
+            "Depots",
+            "Dual occupancies",
+            "Dwelling houses",
+            "Eco-tourist facilities",
+            "Electricity generating works",
+            "Exhibition homes",
+            "Exhibition villages",
+            "Extractive industries",
+            "Farm buildings",
+            "Forestry",
+            "Freight transport facilities",
+            "Heavy industrial storage establishments",
+            "Helipads",
+            "Highway service centres",
+            "Home occupations (sex services)",
+            "Industrial retail outlets",
+            "Industrial training facilities",
+            "Industries",
+            "Jetties",
+            "Marinas",
+            "Mooring pens",
+            "Moorings",
+            "Mortuaries",
+            "Open cut mining",
+            "Port facilities",
+            "Recreation facilities (major)",
+            "Research stations",
+            "Rural industries",
+            "Rural workers' dwellings",
+            "Secondary dwellings",
+            "Semi-detached dwellings",
+            "Sewerage systems",
+            "Sex services premises",
+            "Signage",
+            "Storage premises",
+            "Transport depots",
+            "Truck depots",
+            "Vehicle body repair workshops",
+            "Warehouse or distribution centres",
+            "Waste or resource management facilities",
+            "Water recreation structures",
+            "Water supply systems",
+            "Wharf or boating facilities",
+            "Wholesale supplies"
+        ]
     }
 ]

@@ -405,6 +405,38 @@
             "Vehicle repair stations",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": []
+        "prohibited": [
+            "Agriculture",
+            "Air transport facilities",
+            "Airstrips",
+            "Animal boarding or training establishments",
+            "Biosolids treatment facilities",
+            "Cemeteries",
+            "Crematoria",
+            "Eco-tourist facilities",
+            "Electricity generating works",
+            "Exhibition homes",
+            "Extractive industries",
+            "Farm buildings",
+            "Forestry",
+            "Heavy industrial storage establishments",
+            "Industrial training facilities",
+            "Industries",
+            "Marinas",
+            "Mooring pens",
+            "Moorings",
+            "Open cut mining",
+            "Recreation facilities (major)",
+            "Recreation facilities (outdoor)",
+            "Residential accommodation",
+            "Rural industries",
+            "Sewage treatment plants",
+            "Sex services premises",
+            "Storage premises",
+            "Waste disposal facilities",
+            "Water recycling facilities",
+            "Water reticulation systems",
+            "Wharf or boating facilities"
+        ]
     }
 ]

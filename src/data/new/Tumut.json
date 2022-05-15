@@ -166,6 +166,13 @@
             "Wholesale supplies",
             "Any other development not specified in item 2 or 4"
         ],
-        "prohibited": []
+        "prohibited": [
+            "Heavy industrial storage establishments",
+            "Heavy industries",
+            "Home occupations (sex services)",
+            "Intensive livestock agriculture",
+            "Pond-based aquaculture",
+            "Sex services premises"
+        ]
     }
 ]
