@@ -28,7 +28,7 @@
             "Medical centres",
             "Oyster aquaculture",
             "Places of public worship",
-            "Public administration\u00a0buildings",
+            "Public administration buildings",
             "Recreation areas",
             "Recreation facilities (indoor)",
             "Respite day care centres",
@@ -113,7 +113,7 @@
             "Plant nurseries",
             "Recreation areas",
             "Recreation facilities (indoor)",
-            "Recreation\u00a0facilities (major)",
+            "Recreation facilities (major)",
             "Recreation facilities (outdoor)",
             "Research stations",
             "Respite day care centres",
@@ -195,7 +195,7 @@
         "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To ensure new development is sustainable and will not impact on land with high biodiversity value. </li> <li>To maintain the efficient operation of the regional and local road network. </li> <li>To support the health and well-being of the community by providing services and employment close to housing. </li> <li>To ensure development does not impact on the viability of local centres. </li>",
         "permittedWithout": [],
         "permittedWith": [
-            "Building identification\u00a0signs",
+            "Building identification signs",
             "Business identification signs",
             "Depots",
             "Freight transport facilities",
@@ -246,7 +246,7 @@
             "Farm buildings",
             "Forestry",
             "Function centres",
-            "Heavy\u00a0industrial storage establishments",
+            "Heavy industrial storage establishments",
             "Highway service centres",
             "Home occupations (sex services)",
             "Industries",
@@ -274,7 +274,7 @@
             "Business identification signs",
             "Data centres",
             "Depots",
-            "Freight\u00a0transport\u00a0facilities",
+            "Freight transport facilities",
             "General industries",
             "Hazardous storage establishments",
             "Heavy industries",
@@ -324,7 +324,7 @@
             "Respite day care centres",
             "Restricted premises",
             "Retail premises",
-            "Self-storage\u00a0units",
+            "Self-storage units",
             "Sex services premises",
             "Timber yards",
             "Tourist and visitor accommodation",
@@ -350,7 +350,7 @@
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
-            "Educational\u00a0establishments",
+            "Educational establishments",
             "Entertainment facilities",
             "Function centres",
             "Home industries",
@@ -398,7 +398,7 @@
             "Rural industries",
             "Sex services premises",
             "Storage premises",
-            "Vehicle\u00a0body repair workshops",
+            "Vehicle body repair workshops",
             "Waste disposal facilities",
             "Water recreation structures",
             "Wharf or boating facilities"
@@ -407,13 +407,13 @@
     {
         "LGA": "Wollondilly",
         "LEP": "Wollondilly Local Environmental Plan 2011",
-        "zone": "Zone RU5\u00a0Village",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone <li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To enable limited residential development that contributes to a vibrant and active rural Village and is consistent with the Council's strategic planning for residential development in the area.</li> <li>To maintain the rural character of the village and ensure buildings and works are designed to be in sympathy with the character of the village.</li> <li>To ensure that development does not detract from the existing rural character or create unreasonable demands for the provision or extension of public amenities and services</li> <li>To support the health and well-being of the community by providing appropriate land uses within walking and cycling distance of housing. </li> <li>  </li>",
+        "zone": "Zone RU5 Village",
+        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To enable limited residential development that contributes to a vibrant and active rural Village and is consistent with the Council's strategic planning for residential development in the area.</li> <li>To maintain the rural character of the village and ensure buildings and works are designed to be in sympathy with the character of the village.</li> <li>To ensure that development does not detract from the existing rural character or create unreasonable demands for the provision or extension of public amenities and services</li> <li>To support the health and well-being of the community by providing appropriate land uses within walking and cycling distance of housing. </li> <li> </li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consent Home occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consent Artisan food and drink industry",
+            "Artisan food and drink industry",
             "Boarding houses",
             "Building identification signs",
             "Business identification signs",
@@ -456,7 +456,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0Prohibited Any other development not specified in item 2 or 3"
+            "Any other development not specified in item 2 or 3"
         ]
     }
 ]

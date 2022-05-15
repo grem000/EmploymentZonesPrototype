@@ -3,7 +3,7 @@
         "LGA": "Greater Taree",
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "Zone E1 Local Centre",
-        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>  </li> <li>  </li> <li>To ensure that traffic generation from development can be managed in a way that avoids conflict with the desired pedestrian environment.</li> <li>To maximise public transport patronage and encourage walking and cycling.</li> <li>To encourage employment opportunities in accessible locations.</li>",
+        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To encourage investment in local commercial development that generates employment opportunities and economic growth. </li> <li>To enable residential development that contributes to a vibrant and active local centre and is consistent with the Council's strategic planning for residential development in the area. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li> </li> <li> </li> <li>To ensure that traffic generation from development can be managed in a way that avoids conflict with the desired pedestrian environment.</li> <li>To maximise public transport patronage and encourage walking and cycling.</li> <li>To encourage employment opportunities in accessible locations.</li>",
         "permittedWithout": [
             "Home occupations"
         ],
@@ -257,7 +257,7 @@
         "LGA": "Greater Taree",
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "Zone E4 General Industrial",
-        "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To encourage innovation and sustainability in industry.  </li>",
+        "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To encourage innovation and sustainability in industry. </li>",
         "permittedWithout": [
             "Home occupations"
         ],

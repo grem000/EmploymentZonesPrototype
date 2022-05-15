@@ -2,17 +2,17 @@
     {
         "LGA": "Central Darling",
         "LEP": "Central Darling Local Environmental Plan 2012",
-        "zone": "Zone RU5\u00a0Village",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone <li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To retain and facilitate expansion and redevelopment of the existing  centres of Menindee and Ivanhoe and to further strengthen the core commercial functions of those areas  </li> <li>To ensure that development retains and enhances the existing village character.  </li>",
+        "zone": "Zone RU5 Village",
+        "objectives": "<li>To provide a range of retail, business and community uses that serve the needs of people who live, work or visit the area. </li> <li>To retain and facilitate expansion and redevelopment of the existing centres of Menindee and Ivanhoe and to further strengthen the core commercial functions of those areas </li> <li>To ensure that development retains and enhances the existing village character. </li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consent Environmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations",
             "Roads",
             "Water reticulation systems"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consent Air transport facilities",
+            "Air transport facilities",
             "Centre-based child care facilities",
             "Community facilities",
             "Dwelling houses",
@@ -30,7 +30,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0Prohibited Extractive industries",
+            "Extractive industries",
             "Forestry",
             "Heavy industrial storage establishments",
             "Heavy industries",
@@ -42,7 +42,7 @@
         "LGA": "Central Darling",
         "LEP": "Central Darling Local Environmental Plan 2012",
         "zone": "Zone E4 General Industrial",
-        "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To encourage a\u00a0range of rural industry uses that serve the needs of the rural community and the people\u00a0who live, work or visit the area.\u00a0</li>",
+        "objectives": "<li>To provide a range of industrial, warehouse, logistics and related land uses. </li> <li>To ensure the efficient and viable use of land for industrial uses. </li> <li>To minimise any adverse effect of industry on other land uses. </li> <li>To encourage employment opportunities. </li> <li>To enable limited non-industrial land uses that provide facilities and services to meet the needs of businesses and workers. </li> <li>To encourage a range of rural industry uses that serve the needs of the rural community and the people who live, work or visit the area. </li>",
         "permittedWithout": [
             "Environmental protection works",
             "Roads",

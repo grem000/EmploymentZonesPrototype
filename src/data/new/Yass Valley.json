@@ -48,7 +48,7 @@
         ],
         "prohibited": [
             "Agriculture",
-            "Air\u00a0transport\u00a0facilities",
+            "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
             "Boat building and repair facilities",
@@ -147,7 +147,7 @@
             "Public administration buildings",
             "Recreation areas",
             "Recreation facilities (indoor)",
-            "Recreation\u00a0facilities (major)",
+            "Recreation facilities (major)",
             "Recreation facilities (outdoor)",
             "Research stations",
             "Respite day care centres",
@@ -218,7 +218,7 @@
             "Shops",
             "Transport depots",
             "Waste or resource management facilities",
-            "Water\u00a0recreation structures",
+            "Water recreation structures",
             "Water treatment facilities",
             "Wharf or boating facilities"
         ]

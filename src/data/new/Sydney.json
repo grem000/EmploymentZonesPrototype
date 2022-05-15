@@ -346,7 +346,7 @@
         "LGA": "Sydney",
         "LEP": "Sydney Local Environmental Plan 2012",
         "zone": "Zone MU1 Mixed Use",
-        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure uses support the viability of centres. </li> <li>To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.  </li>",
+        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure uses support the viability of centres. </li> <li>To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling. </li>",
         "permittedWithout": [
             "Home occupations"
         ],
@@ -389,138 +389,141 @@
             "Heavy industries",
             "Pond-based aquaculture"
         ]
-    }
-][
-    {
-        "LGA": "Sydney",
-        "LEP": "Sydney Local Environmental Plan (Green Square Town Centre \u2013 Stage 2) 2013",
-        "zone": "Zone MU1 Mixed Use",
-        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure uses support the viability of centres.</li> <li>To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling. </li>",
-        "permittedWithout": [
-            "Home occupations"
-        ],
-        "permittedWith": [
-            "Amusement centres",
-            "Boarding houses",
-            "Building identification signs",
-            "Business identification signs",
-            "Car parks",
-            "Centre-based child care facilities",
-            "Commercial premises",
-            "Community facilities",
-            "Educational establishments",
-            "Entertainment facilities",
-            "Function centres",
-            "Home industries",
-            "Information and education facilities",
-            "Light industries",
-            "Local distribution premises",
-            "Medical centres",
-            "Oyster aquaculture",
-            "Passenger transport facilities",
-            "Places of public worship",
-            "Recreation areas",
-            "Recreation facilities (indoor)",
-            "Registered clubs",
-            "Respite day care centres",
-            "Restricted premises",
-            "Roads",
-            "Seniors housing",
-            "Shop top housing",
-            "Tank-based aquaculture",
-            "Tourist and visitor accommodation",
-            "Vehicle repair stations",
-            "Any other development not specified in items 2 or 4"
-        ],
-        "prohibited": []
-    }
-][
-    {
-        "LGA": "Sydney",
-        "LEP": "Sydney Local Environmental Plan (Harold Park) 2011",
-        "zone": "Zone MU1 Mixed Use",
-        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure uses support the viability of centres.\u00a0</li> <li>To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling. </li>",
-        "permittedWithout": [
-            "Home occupations",
-            "Horticulture"
-        ],
-        "permittedWith": [
-            "Amusement centres",
-            "Boarding houses",
-            "Building identification signs",
-            "Business identification signs",
-            "Car parks",
-            "Centre-based child care facilities",
-            "Commercial premises",
-            "Community facilities",
-            "Educational establishments",
-            "Entertainment facilities",
-            "Function centres",
-            "Home industries",
-            "Information and education facilities",
-            "Light industries",
-            "Local distribution premises",
-            "Medical centres",
-            "Oyster aquaculture",
-            "Passenger transport facilities",
-            "Places of public worship",
-            "Recreation areas",
-            "Recreation facilities (indoor)",
-            "Registered clubs",
-            "Respite day care centres",
-            "Restricted premises",
-            "Roads",
-            "Seniors housing",
-            "Shop top housing",
-            "Tank-based aquaculture",
-            "Tourist and visitor accommodation",
-            "Vehicle repair stations",
-            "Any other development not specified in item 2 or 4"
-        ],
-        "prohibited": []
-    }
-][
-    {
-        "LGA": "Sydney",
-        "LEP": "Sydney Local Environmental Plan (Green Square Town Centre) 2013",
-        "zone": "Zone MU1 Mixed Use",
-        "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure uses support the viability of centres. </li> <li>To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
-        "permittedWithout": [
-            "Home occupations"
-        ],
-        "permittedWith": [
-            "Amusement centres",
-            "Boarding houses",
-            "Building identification signs",
-            "Business identification signs",
-            "Car parks",
-            "Centre-based child care facilities",
-            "Commercial premises",
-            "Community facilities",
-            "Educational establishments",
-            "Entertainment facilities",
-            "Function centres",
-            "Home industries",
-            "Information and education facilities",
-            "Light industries",
-            "Local distribution premises",
-            "Medical centres",
-            "Oyster aquaculture",
-            "Passenger transport facilities",
-            "Places of public worship",
-            "Recreation areas",
-            "Recreation facilities (indoor)",
-            "Registered clubs",
-            "Respite day care centres",
-            "Restricted premises",
-            "Roads",
-            "Seniors housing",
-            "Shop top housing",
-            "Tank-based aquaculture",
-            "Tourist and visitor accommodation",
-            "Vehicle repair stations",
-            "Any other development not specified in items 2 or 4"
-        ],
-        "prohibited": []
-    }
+    },
+    [
+        {
+            "LGA": "Sydney",
+            "LEP": "Sydney Local Environmental Plan (Green Square Town Centre \u2013 Stage 2) 2013",
+            "zone": "Zone MU1 Mixed Use",
+            "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure uses support the viability of centres.</li> <li>To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling. </li>",
+            "permittedWithout": [
+                "Home occupations"
+            ],
+            "permittedWith": [
+                "Amusement centres",
+                "Boarding houses",
+                "Building identification signs",
+                "Business identification signs",
+                "Car parks",
+                "Centre-based child care facilities",
+                "Commercial premises",
+                "Community facilities",
+                "Educational establishments",
+                "Entertainment facilities",
+                "Function centres",
+                "Home industries",
+                "Information and education facilities",
+                "Light industries",
+                "Local distribution premises",
+                "Medical centres",
+                "Oyster aquaculture",
+                "Passenger transport facilities",
+                "Places of public worship",
+                "Recreation areas",
+                "Recreation facilities (indoor)",
+                "Registered clubs",
+                "Respite day care centres",
+                "Restricted premises",
+                "Roads",
+                "Seniors housing",
+                "Shop top housing",
+                "Tank-based aquaculture",
+                "Tourist and visitor accommodation",
+                "Vehicle repair stations",
+                "Any other development not specified in items 2 or 4"
+            ],
+            "prohibited": []
+        }
+    ],
+    [
+        {
+            "LGA": "Sydney",
+            "LEP": "Sydney Local Environmental Plan (Harold Park) 2011",
+            "zone": "Zone MU1 Mixed Use",
+            "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure uses support the viability of centres. </li> <li>To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling. </li>",
+            "permittedWithout": [
+                "Home occupations",
+                "Horticulture"
+            ],
+            "permittedWith": [
+                "Amusement centres",
+                "Boarding houses",
+                "Building identification signs",
+                "Business identification signs",
+                "Car parks",
+                "Centre-based child care facilities",
+                "Commercial premises",
+                "Community facilities",
+                "Educational establishments",
+                "Entertainment facilities",
+                "Function centres",
+                "Home industries",
+                "Information and education facilities",
+                "Light industries",
+                "Local distribution premises",
+                "Medical centres",
+                "Oyster aquaculture",
+                "Passenger transport facilities",
+                "Places of public worship",
+                "Recreation areas",
+                "Recreation facilities (indoor)",
+                "Registered clubs",
+                "Respite day care centres",
+                "Restricted premises",
+                "Roads",
+                "Seniors housing",
+                "Shop top housing",
+                "Tank-based aquaculture",
+                "Tourist and visitor accommodation",
+                "Vehicle repair stations",
+                "Any other development not specified in item 2 or 4"
+            ],
+            "prohibited": []
+        }
+    ],
+    [
+        {
+            "LGA": "Sydney",
+            "LEP": "Sydney Local Environmental Plan (Green Square Town Centre) 2013",
+            "zone": "Zone MU1 Mixed Use",
+            "objectives": "<li>To encourage a diversity of business, retail, office and light industrial land uses that generate employment opportunities. </li> <li>To ensure that new development provides diverse and active street frontages to attract pedestrian traffic and to contribute to vibrant, diverse and functional streets and public spaces. </li> <li>To minimise conflict between land uses within this zone and land uses within adjoining zones. </li> <li>To encourage business, retail, community and other non-residential land uses on the ground floor of buildings. </li> <li>To ensure uses support the viability of centres. </li> <li>To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
+            "permittedWithout": [
+                "Home occupations"
+            ],
+            "permittedWith": [
+                "Amusement centres",
+                "Boarding houses",
+                "Building identification signs",
+                "Business identification signs",
+                "Car parks",
+                "Centre-based child care facilities",
+                "Commercial premises",
+                "Community facilities",
+                "Educational establishments",
+                "Entertainment facilities",
+                "Function centres",
+                "Home industries",
+                "Information and education facilities",
+                "Light industries",
+                "Local distribution premises",
+                "Medical centres",
+                "Oyster aquaculture",
+                "Passenger transport facilities",
+                "Places of public worship",
+                "Recreation areas",
+                "Recreation facilities (indoor)",
+                "Registered clubs",
+                "Respite day care centres",
+                "Restricted premises",
+                "Roads",
+                "Seniors housing",
+                "Shop top housing",
+                "Tank-based aquaculture",
+                "Tourist and visitor accommodation",
+                "Vehicle repair stations",
+                "Any other development not specified in items 2 or 4"
+            ],
+            "prohibited": []
+        }
+    ]
 ]
