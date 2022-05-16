@@ -3,12 +3,12 @@
         "LEP": "Queanbeyan Local Environmental Plan 2012",
         "zone": "B1",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To allow for limited high density residential uses that are compatible with the neighbourhood centre.\u2022\u00a0\u00a0To provide for active retail, business or other non-residential uses at street level.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To allow for limited high density residential uses that are compatible with the neighbourhood centre.</li> <li> To provide for active retail, business or other non-residential uses at street level.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Car parks",
             "Centre-based child care facilities",
@@ -47,7 +47,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -55,12 +55,12 @@
         "LEP": "Queanbeyan Local Environmental Plan 2012",
         "zone": "B2",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage some limited high density residential uses to create vitality in town centres.\u2022\u00a0\u00a0To recognise town centres as important retail centres, which support the Queanbeyan central business district.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage some limited high density residential uses to create vitality in town centres.</li> <li> To recognise town centres as important retail centres, which support the Queanbeyan central business district.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAmusement centres",
+            "Amusement centres",
             "Boarding houses",
             "Car parks",
             "Centre-based child care facilities",
@@ -98,7 +98,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -106,12 +106,12 @@
         "LEP": "Queanbeyan Local Environmental Plan 2012",
         "zone": "B3",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To recognise the Queanbeyan central business district as the main commercial and retail centre of Queanbeyan and to reinforce its commercial and retail primacy in Queanbeyan.\u2022\u00a0\u00a0To encourage some high density residential uses in conjunction with retail or employment uses where appropriate.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To recognise the Queanbeyan central business district as the main commercial and retail centre of Queanbeyan and to reinforce its commercial and retail primacy in Queanbeyan.</li> <li> To encourage some high density residential uses in conjunction with retail or employment uses where appropriate.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
             "Educational establishments",
@@ -131,7 +131,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Attached dwellings",
@@ -203,12 +203,12 @@
         "LEP": "Queanbeyan Local Environmental Plan 2012",
         "zone": "B4",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBackpackers' accommodation",
+            "Backpackers' accommodation",
             "Boarding houses",
             "Car parks",
             "Centre-based child care facilities",
@@ -240,7 +240,7 @@
             "Tank-based aquaculture"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -248,12 +248,12 @@
         "LEP": "Queanbeyan Local Environmental Plan 2012",
         "zone": "B5",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To maintain the economic strength of existing business centres by limiting the retailing of food or clothing.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To maintain the economic strength of existing business centres by limiting the retailing of food or clothing.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCar parks",
+            "Car parks",
             "Centre-based child care facilities",
             "Community facilities",
             "Flood mitigation works",
@@ -275,7 +275,7 @@
             "Warehouse or distribution centres"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -283,12 +283,12 @@
         "LEP": "Queanbeyan Local Environmental Plan 2012",
         "zone": "IN1",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Boat building and repair facilities",
             "Car parks",
             "Centre-based child care facilities",
@@ -339,7 +339,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedCellar door premises",
+            "Cellar door premises",
             "Office premises",
             "Plant nurseries",
             "Pond-based aquaculture Pubs",
@@ -353,12 +353,12 @@
         "LEP": "Queanbeyan Local Environmental Plan 2012",
         "zone": "IN2",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoat building and repair facilities",
+            "Boat building and repair facilities",
             "Business premises",
             "Car parks",
             "Centre-based child care facilities",
@@ -398,7 +398,7 @@
             "Warehouse or distribution centres"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     }
@@ -407,13 +407,13 @@
         "LEP": "Queanbeyan Local Environmental Plan (South Jerrabomberra) 2012",
         "zone": "B1",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To provide the opportunity for small scale non-residential uses that will provide goods and services to meet the day-to-day needs of people who live and work in the surrounding neighbourhood.\u2022\u00a0\u00a0To provide for active retail, business or other non-residential uses at street level.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To provide the opportunity for small scale non-residential uses that will provide goods and services to meet the day-to-day needs of people who live and work in the surrounding neighbourhood.</li> <li> To provide for active retail, business or other non-residential uses at street level.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Car parks",
             "Centre-based child care facilities",
@@ -441,7 +441,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedHardware and building supplies",
+            "Hardware and building supplies",
             "Pond-based aquaculture Rural supplies",
             "Specialised retail premises",
             "Timber yards",
@@ -453,13 +453,13 @@
         "LEP": "Queanbeyan Local Environmental Plan (South Jerrabomberra) 2012",
         "zone": "B4",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBackpackers' accommodation",
+            "Backpackers' accommodation",
             "Boarding houses",
             "Car parks",
             "Centre-based child care facilities",
@@ -490,7 +490,7 @@
             "Tank-based aquaculture"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     }
@@ -499,12 +499,12 @@
         "LEP": "Queanbeyan Local Environmental Plan (West Jerrabomberra) 2013",
         "zone": "B1",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To permit small-scale non-residential uses that will provide goods and services to meet the day-to-day needs of people who live and work in the surrounding neighbourhood.\u2022\u00a0\u00a0To provide active land uses at street level.\u2022\u00a0\u00a0To ensure that residential development does not compromise the existing and future operations of the Canberra Airport.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To permit small-scale non-residential uses that will provide goods and services to meet the day-to-day needs of people who live and work in the surrounding neighbourhood.</li> <li> To provide active land uses at street level.</li> <li> To ensure that residential development does not compromise the existing and future operations of the Canberra Airport.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -539,7 +539,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -547,12 +547,12 @@
         "LEP": "Queanbeyan Local Environmental Plan (West Jerrabomberra) 2013",
         "zone": "B7",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To provide for a well-designed business park development that appropriately responds to site constraints and adjoining residential development.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To provide for a well-designed business park development that appropriately responds to site constraints and adjoining residential development.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
             "Educational establishments",
@@ -576,7 +576,7 @@
             "Water recycling facilities"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -584,12 +584,12 @@
         "LEP": "Queanbeyan Local Environmental Plan (West Jerrabomberra) 2013",
         "zone": "IN2",
         "LGA": "Queanbeyan",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoat building and repair facilities",
+            "Boat building and repair facilities",
             "Business premises",
             "Car parks",
             "Centre-based child care facilities",
@@ -629,7 +629,7 @@
             "Warehouse or distribution centres"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     }

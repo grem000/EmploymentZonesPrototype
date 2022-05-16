@@ -3,15 +3,15 @@
         "LEP": "Bland Local Environmental Plan 2011",
         "zone": "B1",
         "LGA": "Bland",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To promote the heritage character of Wyalong.\u2022\u00a0\u00a0To encourage tourism opportunities in Wyalong.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To promote the heritage character of Wyalong.</li> <li> To encourage tourism opportunities in Wyalong.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -28,7 +28,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -96,15 +96,15 @@
         "LEP": "Bland Local Environmental Plan 2011",
         "zone": "B2",
         "LGA": "Bland",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To maintain the status, and encourage the future growth, of the established business centre in West Wyalong.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To maintain the status, and encourage the future growth, of the established business centre in West Wyalong.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -127,7 +127,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -179,14 +179,14 @@
         "LEP": "Bland Local Environmental Plan 2011",
         "zone": "B5",
         "LGA": "Bland",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Landscaping material supplies",
@@ -200,7 +200,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -265,14 +265,14 @@
         "LEP": "Bland Local Environmental Plan 2011",
         "zone": "B6",
         "LGA": "Bland",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To provide for residential uses, but only as part of a mixed use development.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To provide for residential uses, but only as part of a mixed use development.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Community facilities",
             "Garden centres",
             "Hardware and building supplies",
@@ -288,7 +288,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -344,13 +344,13 @@
         "LEP": "Bland Local Environmental Plan 2011",
         "zone": "IN1",
         "LGA": "Bland",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Funeral homes",
             "Garden centres",
@@ -372,7 +372,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -418,13 +418,13 @@
         "LEP": "Bland Local Environmental Plan 2011",
         "zone": "IN2",
         "LGA": "Bland",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Funeral homes",
             "Garden centres",
             "Hardware and building supplies",
@@ -446,7 +446,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

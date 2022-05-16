@@ -3,13 +3,13 @@
         "LEP": "Shellharbour Local Environmental Plan 2013",
         "zone": "B1",
         "LGA": "Shellharbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To allow for shop top housing while maintaining retail, business or other non-residential uses at street level.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To allow for shop top housing while maintaining retail, business or other non-residential uses at street level.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome businesses",
+            "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
@@ -29,7 +29,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -110,13 +110,13 @@
         "LEP": "Shellharbour Local Environmental Plan 2013",
         "zone": "B2",
         "LGA": "Shellharbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To allow for a limited range of residential accommodation while maintaining retail, business or other non-residential active uses at street level.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To allow for a limited range of residential accommodation while maintaining retail, business or other non-residential active uses at street level.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome businesses",
+            "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -143,7 +143,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -202,13 +202,13 @@
         "LEP": "Shellharbour Local Environmental Plan 2013",
         "zone": "B3",
         "LGA": "Shellharbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To strengthen the role of the Shellharbour City Centre to ensure that it continues to develop as a major regional centre with retail, entertainment, commercial, cultural and residential uses.\u2022\u00a0\u00a0To allow for a limited range of residential accommodation while maintaining retail, business or other non-residential active uses at street level.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To strengthen the role of the Shellharbour City Centre to ensure that it continues to develop as a major regional centre with retail, entertainment, commercial, cultural and residential uses.</li> <li> To allow for a limited range of residential accommodation while maintaining retail, business or other non-residential active uses at street level.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome businesses",
+            "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -234,7 +234,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -300,13 +300,13 @@
         "LEP": "Shellharbour Local Environmental Plan 2013",
         "zone": "B4",
         "LGA": "Shellharbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To minimise conflict between land uses on land in the zone and land uses on land in adjoining zones.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To minimise conflict between land uses on land in the zone and land uses on land in adjoining zones.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome businesses",
+            "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -332,7 +332,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -401,13 +401,13 @@
         "LEP": "Shellharbour Local Environmental Plan 2013",
         "zone": "B5",
         "LGA": "Shellharbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To ensure that development does not detract from the function or viability of other business, commercial or retail centres.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To ensure that development does not detract from the function or viability of other business, commercial or retail centres.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome businesses",
+            "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Landscaping material supplies",
@@ -424,7 +424,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -495,12 +495,12 @@
         "LEP": "Shellharbour Local Environmental Plan 2013",
         "zone": "B7",
         "LGA": "Shellharbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To ensure that land uses on land in the zone are not unduly affected in an adverse manner by proximity to the Bass Point quarry, having regard to the normal course of the quarries operations, and will not pose an unacceptable restriction on the nature of operations in the quarry.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To ensure that land uses on land in the zone are not unduly affected in an adverse manner by proximity to the Bass Point quarry, having regard to the normal course of the quarries operations, and will not pose an unacceptable restriction on the nature of operations in the quarry.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Kiosks",
@@ -517,7 +517,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -591,12 +591,12 @@
         "LEP": "Shellharbour Local Environmental Plan 2013",
         "zone": "IN1",
         "LGA": "Shellharbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To encourage the development of industries and to diversify the industrial base of Shellharbour in a manner compatible with the use of the adjacent Illawarra Regional Airport.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To encourage the development of industries and to diversify the industrial base of Shellharbour in a manner compatible with the use of the adjacent Illawarra Regional Airport.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Backpackers' accommodation",
             "Depots",
             "Freight transport facilities",
@@ -621,7 +621,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -680,12 +680,12 @@
         "LEP": "Shellharbour Local Environmental Plan 2013",
         "zone": "IN2",
         "LGA": "Shellharbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Depots",
             "Garden centres",
             "Hardware and building supplies",
@@ -707,7 +707,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

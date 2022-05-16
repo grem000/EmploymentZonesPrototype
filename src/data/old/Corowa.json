@@ -3,15 +3,15 @@
         "LEP": "Corowa Local Environmental Plan 2012",
         "zone": "B1",
         "LGA": "Corowa",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -27,7 +27,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -97,15 +97,15 @@
         "LEP": "Corowa Local Environmental Plan 2012",
         "zone": "B2",
         "LGA": "Corowa",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -127,7 +127,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -179,14 +179,14 @@
         "LEP": "Corowa Local Environmental Plan 2012",
         "zone": "B4",
         "LGA": "Corowa",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To promote development that does not detract from commercial activities in the main streets of Corowa, Howlong and Mulwala.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To promote development that does not detract from commercial activities in the main streets of Corowa, Howlong and Mulwala.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -210,7 +210,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -253,15 +253,15 @@
         "LEP": "Corowa Local Environmental Plan 2012",
         "zone": "B6",
         "LGA": "Corowa",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To provide for residential uses, but only as part of a mixed use development.\u2022\u00a0\u00a0To facilitate a mix of business and retail development in the vicinity of the intersection of Federation Way and Honour Avenue that services the needs of the travelling public.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To provide for residential uses, but only as part of a mixed use development.</li> <li> To facilitate a mix of business and retail development in the vicinity of the intersection of Federation Way and Honour Avenue that services the needs of the travelling public.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBackpackers' accommodation",
+            "Backpackers' accommodation",
             "Business premises",
             "Community facilities",
             "Garden centres",
@@ -280,7 +280,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -331,13 +331,13 @@
         "LEP": "Corowa Local Environmental Plan 2012",
         "zone": "IN1",
         "LGA": "Corowa",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Funeral homes",
             "Garden centres",
@@ -360,7 +360,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

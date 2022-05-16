@@ -3,13 +3,13 @@
         "LEP": "Randwick Local Environmental Plan 2012 (2013 EPI 36)",
         "zone": "B1",
         "LGA": "Randwick",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To enable residential development that is well-integrated with, and supports the primary business function of, the zone.\u2022\u00a0\u00a0To minimise the impact of development and protect the amenity of residents in the zone and in the adjoining and nearby residential zones.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To enable residential development that is well-integrated with, and supports the primary business function of, the zone.</li> <li> To minimise the impact of development and protect the amenity of residents in the zone and in the adjoining and nearby residential zones.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations",
+            "Home occupations",
             "Recreation areas"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
@@ -36,7 +36,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -102,13 +102,13 @@
         "LEP": "Randwick Local Environmental Plan 2012 (2013 EPI 36)",
         "zone": "B2",
         "LGA": "Randwick",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To enable residential development that is well-integrated with, and supports the primary business function of, the zone.\u2022\u00a0\u00a0To facilitate a high standard of urban design and pedestrian amenity that contributes to achieving a sense of place for the local community.\u2022\u00a0\u00a0To minimise the impact of development and protect the amenity of residents in the zone and in the adjoining and nearby residential zones.\u2022\u00a0\u00a0To facilitate a safe public domain.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To enable residential development that is well-integrated with, and supports the primary business function of, the zone.</li> <li> To facilitate a high standard of urban design and pedestrian amenity that contributes to achieving a sense of place for the local community.</li> <li> To minimise the impact of development and protect the amenity of residents in the zone and in the adjoining and nearby residential zones.</li> <li> To facilitate a safe public domain.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations",
+            "Home occupations",
             "Recreation areas"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -136,7 +136,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -195,13 +195,13 @@
         "LEP": "Randwick Local Environmental Plan 2012 (2013 EPI 36)",
         "zone": "IN2",
         "LGA": "Randwick",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations",
+            "Home occupations",
             "Recreation areas"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Garden centres",
             "Hardware and building supplies",
             "Horticulture",
@@ -216,7 +216,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

@@ -3,12 +3,12 @@
         "LEP": "Nambucca Local Environmental Plan 2010",
         "zone": "B1",
         "LGA": "Nambucca",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -26,7 +26,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -64,12 +64,12 @@
         "LEP": "Nambucca Local Environmental Plan 2010",
         "zone": "B2",
         "LGA": "Nambucca",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -93,7 +93,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -129,12 +129,12 @@
         "LEP": "Nambucca Local Environmental Plan 2010",
         "zone": "B3",
         "LGA": "Nambucca",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
             "Educational establishments",
@@ -157,7 +157,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -193,12 +193,12 @@
         "LEP": "Nambucca Local Environmental Plan 2010",
         "zone": "B4",
         "LGA": "Nambucca",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -225,7 +225,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Camping grounds",
             "Caravan parks",
@@ -252,12 +252,12 @@
         "LEP": "Nambucca Local Environmental Plan 2010",
         "zone": "B7",
         "LGA": "Nambucca",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Centre-based child care facilities",
             "Depots",
             "Garden centres",
@@ -281,7 +281,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Animal boarding or training establishments",
             "Camping grounds",
@@ -312,12 +312,12 @@
         "LEP": "Nambucca Local Environmental Plan 2010",
         "zone": "IN1",
         "LGA": "Nambucca",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Garden centres",
             "General industries",
@@ -338,7 +338,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Business premises",
             "Camping grounds",
@@ -358,12 +358,12 @@
         "LEP": "Nambucca Local Environmental Plan 2010",
         "zone": "IN2",
         "LGA": "Nambucca",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Garden centres",
             "Hardware and building supplies",
             "Industrial retail outlets",
@@ -381,7 +381,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Business premises",
             "Camping grounds",

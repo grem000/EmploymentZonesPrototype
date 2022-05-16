@@ -3,14 +3,14 @@
         "LEP": "Byron Local Environmental Plan 2014",
         "zone": "B1",
         "LGA": "Byron",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -30,7 +30,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -103,14 +103,14 @@
         "LEP": "Byron Local Environmental Plan 2014",
         "zone": "B2",
         "LGA": "Byron",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage vibrant centres by allowing residential and tourist and visitor accommodation above commercial premises.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage vibrant centres by allowing residential and tourist and visitor accommodation above commercial premises.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -135,7 +135,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -195,14 +195,14 @@
         "LEP": "Byron Local Environmental Plan 2014",
         "zone": "B4",
         "LGA": "Byron",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -233,7 +233,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -295,12 +295,12 @@
         "LEP": "Byron Local Environmental Plan 2014",
         "zone": "B7",
         "LGA": "Byron",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To enable a range of other development compatible with or ancillary to industrial uses if such uses do not undermine the retail function of Byron Bay town centre.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To enable a range of other development compatible with or ancillary to industrial uses if such uses do not undermine the retail function of Byron Bay town centre.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
@@ -322,7 +322,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -383,12 +383,12 @@
         "LEP": "Byron Local Environmental Plan 2014",
         "zone": "IN1",
         "LGA": "Byron",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Depots",
             "Freight transport facilities",
             "Garden centres",
@@ -414,7 +414,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -473,13 +473,13 @@
         "LEP": "Byron Local Environmental Plan 2014",
         "zone": "IN2",
         "LGA": "Byron",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To provide for creative industrial uses such as artisan and cultural industries.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To provide for creative industrial uses such as artisan and cultural industries.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Depots",
             "Garden centres",
             "General industries",
@@ -504,7 +504,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

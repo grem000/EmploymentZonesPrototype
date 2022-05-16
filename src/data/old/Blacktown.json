@@ -3,12 +3,12 @@
         "LEP": "Blacktown Local Environmental Plan 2015",
         "zone": "B1",
         "LGA": "Blacktown",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To allow development that is compatible with the scale and form of the surrounding area.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To allow development that is compatible with the scale and form of the surrounding area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -24,7 +24,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -108,12 +108,12 @@
         "LEP": "Blacktown Local Environmental Plan 2015",
         "zone": "B2",
         "LGA": "Blacktown",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage the development of an active local centre that is commensurate with the nature of the surrounding area.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage the development of an active local centre that is commensurate with the nature of the surrounding area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -137,7 +137,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -201,12 +201,12 @@
         "LEP": "Blacktown Local Environmental Plan 2015",
         "zone": "B3",
         "LGA": "Blacktown",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage business and support activities in appropriate locations in the Blacktown central business district.\u2022\u00a0\u00a0To encourage and provide active street frontages and a network of pedestrian- friendly streets and lanes.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage business and support activities in appropriate locations in the Blacktown central business district.</li> <li> To encourage and provide active street frontages and a network of pedestrian- friendly streets and lanes.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
             "Educational establishments",
@@ -228,7 +228,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -294,12 +294,12 @@
         "LEP": "Blacktown Local Environmental Plan 2015",
         "zone": "B4",
         "LGA": "Blacktown",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -324,7 +324,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -383,12 +383,12 @@
         "LEP": "Blacktown Local Environmental Plan 2015",
         "zone": "B5",
         "LGA": "Blacktown",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To maintain the economic viability of centres by limiting general retailing and commercial activity.\u2022\u00a0\u00a0To allow development that is compatible with the scale and form of the surrounding area.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To maintain the economic viability of centres by limiting general retailing and commercial activity.</li> <li> To allow development that is compatible with the scale and form of the surrounding area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Centre-based child care facilities",
             "Food and drink premises",
@@ -414,7 +414,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -472,12 +472,12 @@
         "LEP": "Blacktown Local Environmental Plan 2015",
         "zone": "B7",
         "LGA": "Blacktown",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the scale and form of the surrounding area.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To ensure that development does not have an adverse impact on the scale and form of the surrounding area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Centre-based child care facilities",
             "Food and drink premises",
@@ -498,7 +498,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -558,12 +558,12 @@
         "LEP": "Blacktown Local Environmental Plan 2015",
         "zone": "IN1",
         "LGA": "Blacktown",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To minimise adverse impacts on the natural environment.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To minimise adverse impacts on the natural environment.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Depots",
             "Food and drink premises",
@@ -585,7 +585,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -634,12 +634,12 @@
         "LEP": "Blacktown Local Environmental Plan 2015",
         "zone": "IN2",
         "LGA": "Blacktown",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To minimise adverse impacts on the natural environment.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To minimise adverse impacts on the natural environment.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Depots",
             "Food and drink premises",
@@ -660,7 +660,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

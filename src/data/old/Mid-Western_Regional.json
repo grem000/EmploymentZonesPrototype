@@ -3,13 +3,13 @@
         "LEP": "Mid-Western Regional Local Environmental Plan 2012",
         "zone": "B1",
         "LGA": "Mid-Western Regional",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To ensure a form of development that is consistent with the residential nature of the surrounding area.\u2022\u00a0\u00a0To ensure non-residential development is compatible with the residential amenity of the surrounding area.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To ensure a form of development that is consistent with the residential nature of the surrounding area.</li> <li> To ensure non-residential development is compatible with the residential amenity of the surrounding area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads",
+            "Roads",
             "Water reticulation systems"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -24,7 +24,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -94,14 +94,14 @@
         "LEP": "Mid-Western Regional Local Environmental Plan 2012",
         "zone": "B2",
         "LGA": "Mid-Western Regional",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To maintain the built integrity of the area by enabling development that is sympathetic to the existing heritage buildings and features.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To maintain the built integrity of the area by enabling development that is sympathetic to the existing heritage buildings and features.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations",
+            "Home occupations",
             "Roads",
             "Water reticulation systems"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -124,7 +124,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -184,13 +184,13 @@
         "LEP": "Mid-Western Regional Local Environmental Plan 2012",
         "zone": "B3",
         "LGA": "Mid-Western Regional",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To promote the central business district of Mudgee as the major focus for retail and commercial activity in Mid-Western Regional.\u2022\u00a0\u00a0To consolidate business development in the Mudgee town centre and avoid unnecessary or inappropriate expansion of business-related land uses into surrounding residential neighbourhoods.\u2022\u00a0\u00a0To ensure that new development is compatible with the historic architectural character and streetscapes of the Mudgee commercial core area.\u2022\u00a0\u00a0To ensure that the form and layout of new development is designed to encourage free pedestrian movement and connectivity within the commercial core.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To promote the central business district of Mudgee as the major focus for retail and commercial activity in Mid-Western Regional.</li> <li> To consolidate business development in the Mudgee town centre and avoid unnecessary or inappropriate expansion of business-related land uses into surrounding residential neighbourhoods.</li> <li> To ensure that new development is compatible with the historic architectural character and streetscapes of the Mudgee commercial core area.</li> <li> To ensure that the form and layout of new development is designed to encourage free pedestrian movement and connectivity within the commercial core.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads",
+            "Roads",
             "Water reticulation systems"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -213,7 +213,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -276,15 +276,15 @@
         "LEP": "Mid-Western Regional Local Environmental Plan 2012",
         "zone": "B4",
         "LGA": "Mid-Western Regional",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To ensure a form of development that is consistent with the character of the adjoining residential neighbourhoods.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To ensure a form of development that is consistent with the character of the adjoining residential neighbourhoods.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations",
             "Roads",
             "Water reticulation systems"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -308,7 +308,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -360,13 +360,13 @@
         "LEP": "Mid-Western Regional Local Environmental Plan 2012",
         "zone": "B5",
         "LGA": "Mid-Western Regional",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To promote a visually attractive entry point into Mudgee from the south east.\u2022\u00a0\u00a0To enable development that does not undermine the primary retailing role of the Mudgee commercial core area.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To promote a visually attractive entry point into Mudgee from the south east.</li> <li> To enable development that does not undermine the primary retailing role of the Mudgee commercial core area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads",
+            "Roads",
             "Water reticulation systems"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
@@ -388,7 +388,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -443,13 +443,13 @@
         "LEP": "Mid-Western Regional Local Environmental Plan 2012",
         "zone": "IN1",
         "LGA": "Mid-Western Regional",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To promote a safe and efficient network for the movement of heavy vehicles and to minimise the intrusion of heavy vehicles into nearby residential areas.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To promote a safe and efficient network for the movement of heavy vehicles and to minimise the intrusion of heavy vehicles into nearby residential areas.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads",
+            "Roads",
             "Water reticulation systems"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Funeral homes",
             "Garden centres",
@@ -473,7 +473,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -522,13 +522,13 @@
         "LEP": "Mid-Western Regional Local Environmental Plan 2012",
         "zone": "IN2",
         "LGA": "Mid-Western Regional",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads",
+            "Roads",
             "Water reticulation systems"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Depots",
             "Food and drink premises",
             "Garden centres",
@@ -551,7 +551,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -606,13 +606,13 @@
         "LEP": "Mid-Western Regional Local Environmental Plan 2012",
         "zone": "IN3",
         "LGA": "Mid-Western Regional",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide suitable areas for those industries that need to be separated from other land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of heavy industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To promote the location of heavy industry and other development of an industrial nature, to complement the demand generated by resource-based industries such as mining.",
+        "objectives": "<li> To provide suitable areas for those industries that need to be separated from other land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of heavy industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To promote the location of heavy industry and other development of an industrial nature, to complement the demand generated by resource-based industries such as mining.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads",
+            "Roads",
             "Water reticulation systems"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Garden centres",
             "General industries",
@@ -632,7 +632,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

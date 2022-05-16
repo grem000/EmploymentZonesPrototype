@@ -3,15 +3,15 @@
         "LEP": "Bega Valley Local Environmental Plan 2013",
         "zone": "B1",
         "LGA": "Bega Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To minimise conflict between land uses on land in the zone and land uses on land in adjoining zones.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To minimise conflict between land uses on land in the zone and land uses on land in adjoining zones.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home businesses",
             "Home industries",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -28,7 +28,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -95,15 +95,15 @@
         "LEP": "Bega Valley Local Environmental Plan 2013",
         "zone": "B2",
         "LGA": "Bega Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To enable other land uses that are complementary to, and do not detract from, the viability of commercial uses within the zone.\u2022\u00a0\u00a0To minimise conflict between land uses on land in the zone and land uses on land in adjoining zones.\u2022\u00a0\u00a0To strengthen the viability of existing business centres as places for investment, employment and cultural activity.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To enable other land uses that are complementary to, and do not detract from, the viability of commercial uses within the zone.</li> <li> To minimise conflict between land uses on land in the zone and land uses on land in adjoining zones.</li> <li> To strengthen the viability of existing business centres as places for investment, employment and cultural activity.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home businesses",
             "Home industries",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentArtisan food and drink industries",
+            "Artisan food and drink industries",
             "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -127,7 +127,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -180,15 +180,15 @@
         "LEP": "Bega Valley Local Environmental Plan 2013",
         "zone": "B4",
         "LGA": "Bega Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home businesses",
             "Home industries",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentArtisan food and drink industries",
+            "Artisan food and drink industries",
             "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -212,7 +212,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -262,12 +262,12 @@
         "LEP": "Bega Valley Local Environmental Plan 2013",
         "zone": "B5",
         "LGA": "Bega Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To cater specifically for uses that require a high degree of visibility and accessibility to passing traffic and that generate a high proportion of single purpose vehicle trips.\u2022\u00a0\u00a0To enable the establishment of an aquaculture, agricultural produce and tourist precinct at Arthur Kaine Drive, Merimbula.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To cater specifically for uses that require a high degree of visibility and accessibility to passing traffic and that generate a high proportion of single purpose vehicle trips.</li> <li> To enable the establishment of an aquaculture, agricultural produce and tourist precinct at Arthur Kaine Drive, Merimbula.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Building identification signs",
             "Business identification signs",
             "Centre-based child care facilities",
@@ -302,7 +302,7 @@
             "Water supply systems"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -310,12 +310,12 @@
         "LEP": "Bega Valley Local Environmental Plan 2013",
         "zone": "IN1",
         "LGA": "Bega Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To allow a range of support services that do not have an adverse impact on the viability of business and commercial zones.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To allow a range of support services that do not have an adverse impact on the viability of business and commercial zones.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Garden centres",
             "General industries",
@@ -338,7 +338,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -383,12 +383,12 @@
         "LEP": "Bega Valley Local Environmental Plan 2013",
         "zone": "IN2",
         "LGA": "Bega Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To mitigate potential amenity conflicts between industrial uses and nearby residential uses.\u2022\u00a0\u00a0To ensure that development has regard to the environmental constraints of the land and minimises adverse impacts on biodiversity, water resources and natural landforms.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To mitigate potential amenity conflicts between industrial uses and nearby residential uses.</li> <li> To ensure that development has regard to the environmental constraints of the land and minimises adverse impacts on biodiversity, water resources and natural landforms.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Garden centres",
             "Hardware and building supplies",
             "Industrial training facilities",
@@ -403,7 +403,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -463,12 +463,12 @@
         "LEP": "Bega Valley Local Environmental Plan 2013",
         "zone": "IN4",
         "LGA": "Bega Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To identify sites for maritime purposes and for activities that require direct waterfront access.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of development on land uses in other zones.",
+        "objectives": "<li> To retain and encourage waterfront industrial and maritime activities.</li> <li> To identify sites for maritime purposes and for activities that require direct waterfront access.</li> <li> To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of development on land uses in other zones.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAquaculture",
+            "Aquaculture",
             "Boat building and repair facilities",
             "Boat launching ramps",
             "Charter and tourism boating facilities",
@@ -485,7 +485,7 @@
             "Wharf or boating facilities"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAny development not specified in item 2 or 3"
+            "Any development not specified in item 2 or 3"
         ]
     }
 ]

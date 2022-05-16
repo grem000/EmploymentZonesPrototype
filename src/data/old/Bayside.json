@@ -3,14 +3,14 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "B1",
         "LGA": "Bayside",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To ensure development within the zone does not detract from the economic viability of commercial centres.\u2022\u00a0\u00a0To ensure the scale of development is compatible with the existing streetscape and does not adversely impact on residential amenity.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To ensure development within the zone does not detract from the economic viability of commercial centres.</li> <li> To ensure the scale of development is compatible with the existing streetscape and does not adversely impact on residential amenity.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
@@ -29,7 +29,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -105,14 +105,14 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "B2",
         "LGA": "Bayside",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To create lively town centres with pedestrian focused public domain activated by adjacent building uses and landscape elements.\u2022\u00a0\u00a0To accommodate population growth in the Rockdale town centre through high density residential uses that complement retail, commercial and cultural premises in the town centre.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To create lively town centres with pedestrian focused public domain activated by adjacent building uses and landscape elements.</li> <li> To accommodate population growth in the Rockdale town centre through high density residential uses that complement retail, commercial and cultural premises in the town centre.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -139,7 +139,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -195,12 +195,12 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "B3",
         "LGA": "Bayside",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
             "Educational establishments",
@@ -220,7 +220,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -289,14 +289,14 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "B4",
         "LGA": "Bayside",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentArtisan food and drink industries",
+            "Artisan food and drink industries",
             "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -325,7 +325,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -380,12 +380,12 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "B5",
         "LGA": "Bayside",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Food and drink premises",
             "Garden centres",
             "Hardware and building supplies",
@@ -403,7 +403,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -474,12 +474,12 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "B6",
         "LGA": "Bayside",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To promote redevelopment that is likely to contribute to the locality, including by improving the visual character of the locality, improving access and parking, reducing land use conflicts and increasing amenity for nearby residential development.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To promote redevelopment that is likely to contribute to the locality, including by improving the visual character of the locality, improving access and parking, reducing land use conflicts and increasing amenity for nearby residential development.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAnimal boarding or training establishments",
+            "Animal boarding or training establishments",
             "Business premises",
             "Community facilities",
             "Garden centres",
@@ -504,7 +504,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -547,12 +547,12 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "B7",
         "LGA": "Bayside",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To encourage uses in the arts, technology, production and design sectors.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To encourage uses in the arts, technology, production and design sectors.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Food and drink premises",
             "Garden centres",
             "Hardware and building supplies",
@@ -569,7 +569,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -638,12 +638,12 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "IN1",
         "LGA": "Bayside",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Garden centres",
             "General industries",
@@ -662,7 +662,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -728,12 +728,12 @@
         "LEP": "Bayside Local Environmental Plan 2021",
         "zone": "IN2",
         "LGA": "Bayside",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Garden centres",
             "Hardware and building supplies",
             "Industrial training facilities",
@@ -752,7 +752,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",

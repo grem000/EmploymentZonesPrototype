@@ -3,12 +3,12 @@
         "LEP": "Lane Cove Local Environmental Plan 2009 (2010 EPI 49)",
         "zone": "B1",
         "LGA": "Lane Cove",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To encourage urban design maximising attractive public domain and adequate circulation space throughout the neighbourhood centres for current and future users.\u2022\u00a0\u00a0To ensure that landscaping is a significant element in public and private development viewed from the public domain.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To encourage urban design maximising attractive public domain and adequate circulation space throughout the neighbourhood centres for current and future users.</li> <li> To ensure that landscaping is a significant element in public and private development viewed from the public domain.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Car parks",
             "Centre-based child care facilities",
@@ -28,7 +28,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -36,12 +36,12 @@
         "LEP": "Lane Cove Local Environmental Plan 2009 (2010 EPI 49)",
         "zone": "B2",
         "LGA": "Lane Cove",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To ensure that this centre functions as a Town Centre in the hierarchy of Inner North Sub-region retailing.\u2022\u00a0\u00a0To permit development for the purposes of offices, community and other facilities.\u2022\u00a0\u00a0To encourage urban design maximising attractive public domain and adequate circulation space throughout the Lane Cove town centre for current and future users.\u2022\u00a0\u00a0To ensure that landscaping is a significant element in public and private development viewed from the public domain.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To ensure that this centre functions as a Town Centre in the hierarchy of Inner North Sub-region retailing.</li> <li> To permit development for the purposes of offices, community and other facilities.</li> <li> To encourage urban design maximising attractive public domain and adequate circulation space throughout the Lane Cove town centre for current and future users.</li> <li> To ensure that landscaping is a significant element in public and private development viewed from the public domain.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Car parks",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -65,7 +65,7 @@
             "Tourist and visitor accommodation"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -73,12 +73,12 @@
         "LEP": "Lane Cove Local Environmental Plan 2009 (2010 EPI 49)",
         "zone": "B3",
         "LGA": "Lane Cove",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To integrate business, retail and other development in accessible locations.\u2022\u00a0\u00a0To maximise sunlight for surrounding properties and the public domain.\u2022\u00a0\u00a0To encourage urban design maximising attractive public domain and adequate circulation space throughout the St Leonards commercial centre for current and future users.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To integrate business, retail and other development in accessible locations.</li> <li> To maximise sunlight for surrounding properties and the public domain.</li> <li> To encourage urban design maximising attractive public domain and adequate circulation space throughout the St Leonards commercial centre for current and future users.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCar parks",
+            "Car parks",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -99,7 +99,7 @@
             "Tank-based aquaculture"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -107,12 +107,12 @@
         "LEP": "Lane Cove Local Environmental Plan 2009 (2010 EPI 49)",
         "zone": "B4",
         "LGA": "Lane Cove",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage urban design maximising attractive public domain and adequate circulation space for current and future users.\u2022\u00a0\u00a0To maximise sunlight for surrounding properties and the public domain.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage urban design maximising attractive public domain and adequate circulation space for current and future users.</li> <li> To maximise sunlight for surrounding properties and the public domain.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Car parks",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -138,7 +138,7 @@
             "Tank-based aquaculture"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -146,12 +146,12 @@
         "LEP": "Lane Cove Local Environmental Plan 2009 (2010 EPI 49)",
         "zone": "IN2",
         "LGA": "Lane Cove",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To ensure that landscaping is a significant element in development viewed from the public domain and neighbouring properties.\u2022\u00a0\u00a0To recognise the close proximity of this zone to adjoining residential areas and seek to mitigate potential conflict between industrial and residential uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To ensure that landscaping is a significant element in development viewed from the public domain and neighbouring properties.</li> <li> To recognise the close proximity of this zone to adjoining residential areas and seek to mitigate potential conflict between industrial and residential uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCar parks",
+            "Car parks",
             "Centre-based child care facilities",
             "Community facilities",
             "Depots",
@@ -178,7 +178,7 @@
             "Warehouse or distribution centres"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -186,12 +186,12 @@
         "LEP": "Lane Cove Local Environmental Plan 2009 (2010 EPI 49)",
         "zone": "IN4",
         "LGA": "Lane Cove",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To identify sites for maritime purposes and for activities that require direct waterfront access.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of development on land uses in other zones.",
+        "objectives": "<li> To retain and encourage waterfront industrial and maritime activities.</li> <li> To identify sites for maritime purposes and for activities that require direct waterfront access.</li> <li> To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of development on land uses in other zones.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAquaculture",
+            "Aquaculture",
             "Boat building and repair facilities",
             "Boat launching ramps",
             "Heavy industries",
@@ -202,7 +202,7 @@
             "Signage"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedHazardous industries",
+            "Hazardous industries",
             "Offensive industries",
             "Any other development not specified in item 2 or 3"
         ]

@@ -3,13 +3,13 @@
         "LEP": "Hawkesbury Local Environmental Plan 2012",
         "zone": "B1",
         "LGA": "Hawkesbury",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To promote the development and expansion of business activities to meet the optimum employment and social needs of Hawkesbury.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To promote the development and expansion of business activities to meet the optimum employment and social needs of Hawkesbury.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
@@ -26,7 +26,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAirports",
+            "Airports",
             "Airstrips",
             "Biosolids treatment facilities",
             "Boat building and repair facilities",
@@ -74,13 +74,13 @@
         "LEP": "Hawkesbury Local Environmental Plan 2012",
         "zone": "B2",
         "LGA": "Hawkesbury",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To promote the development and expansion of business activities to meet the optimum employment and social needs of Hawkesbury.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To promote the development and expansion of business activities to meet the optimum employment and social needs of Hawkesbury.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -104,7 +104,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAirports",
+            "Airports",
             "Airstrips",
             "Biosolids treatment facilities",
             "Boat building and repair facilities",
@@ -149,13 +149,13 @@
         "LEP": "Hawkesbury Local Environmental Plan 2012",
         "zone": "B5",
         "LGA": "Hawkesbury",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Funeral homes",
             "Garden centres",
             "Hardware and building supplies",
@@ -171,7 +171,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAirports",
+            "Airports",
             "Airstrips",
             "Amusement centres",
             "Biosolids treatment facilities",
@@ -228,13 +228,13 @@
         "LEP": "Hawkesbury Local Environmental Plan 2012",
         "zone": "B6",
         "LGA": "Hawkesbury",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Community facilities",
             "Garden centres",
             "Hardware and building supplies",
@@ -251,7 +251,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAirports",
+            "Airports",
             "Airstrips",
             "Backpackers' accommodation",
             "Bed and breakfast accommodation",
@@ -306,13 +306,13 @@
         "LEP": "Hawkesbury Local Environmental Plan 2012",
         "zone": "IN1",
         "LGA": "Hawkesbury",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To allow commercial development for\u2014(a)\u00a0\u00a0uses ancillary to the main use of land in the zone, and(b)\u00a0\u00a0the day-to-day needs of the occupants and employees of the surrounding industrial area.\u2022\u00a0\u00a0To ensure that industrial development creates areas that are pleasant to work in and safe and efficient in terms of transportation, land utilisation and services distribution.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To allow commercial development for\u2014(a) uses ancillary to the main use of land in the zone, and(b) the day-to-day needs of the occupants and employees of the surrounding industrial area.</li> <li> To ensure that industrial development creates areas that are pleasant to work in and safe and efficient in terms of transportation, land utilisation and services distribution.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Funeral homes",
             "Garden centres",
@@ -331,7 +331,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAirports",
+            "Airports",
             "Airstrips",
             "Amusement centres",
             "Boat sheds",
@@ -379,13 +379,13 @@
         "LEP": "Hawkesbury Local Environmental Plan 2012",
         "zone": "IN2",
         "LGA": "Hawkesbury",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To ensure that industrial development creates areas that are pleasant to work in and safe and efficient in terms of transportation, land utilisation and services distribution.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To ensure that industrial development creates areas that are pleasant to work in and safe and efficient in terms of transportation, land utilisation and services distribution.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Funeral homes",
             "Garden centres",
             "Hardware and building supplies",
@@ -402,7 +402,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAirports",
+            "Airports",
             "Airstrips",
             "Amusement centres",
             "Biosolids treatment facilities",

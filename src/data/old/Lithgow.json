@@ -3,12 +3,12 @@
         "LEP": "Lithgow Local Environmental Plan 2014",
         "zone": "B1",
         "LGA": "Lithgow",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To ensure development within the area is of a scale consistent with the needs of the local community and will not detract from the role of the Lithgow core business areas as the primary centre.\u2022\u00a0\u00a0To maintain or improve the water quality of receiving water catchments.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To ensure development within the area is of a scale consistent with the needs of the local community and will not detract from the role of the Lithgow core business areas as the primary centre.</li> <li> To maintain or improve the water quality of receiving water catchments.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -33,7 +33,7 @@
             "Water reticulation systems"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -41,12 +41,12 @@
         "LEP": "Lithgow Local Environmental Plan 2014",
         "zone": "B2",
         "LGA": "Lithgow",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To maintain the built integrity of the area by enabling development that is sympathetic to the heritage character and significance of the area and surrounding streetscapes and features.\u2022\u00a0\u00a0To maintain or improve the water quality of receiving water catchments.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To maintain the built integrity of the area by enabling development that is sympathetic to the heritage character and significance of the area and surrounding streetscapes and features.</li> <li> To maintain or improve the water quality of receiving water catchments.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -71,7 +71,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -135,12 +135,12 @@
         "LEP": "Lithgow Local Environmental Plan 2014",
         "zone": "B4",
         "LGA": "Lithgow",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To promote development that does not detract from the role of the town centre core commercial precincts.\u2022\u00a0\u00a0To promote the retention and reuse of heritage items as well as the retention of established buildings that contribute positively to the heritage and cultural values of lands at Portland.\u2022\u00a0\u00a0To maintain or improve the water quality of receiving water catchments.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To promote development that does not detract from the role of the town centre core commercial precincts.</li> <li> To promote the retention and reuse of heritage items as well as the retention of established buildings that contribute positively to the heritage and cultural values of lands at Portland.</li> <li> To maintain or improve the water quality of receiving water catchments.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -164,7 +164,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -228,12 +228,12 @@
         "LEP": "Lithgow Local Environmental Plan 2014",
         "zone": "B6",
         "LGA": "Lithgow",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To maintain or improve the water quality of receiving water catchments.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To maintain or improve the water quality of receiving water catchments.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Business premises",
             "Car parks",
@@ -270,7 +270,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -278,12 +278,12 @@
         "LEP": "Lithgow Local Environmental Plan 2014",
         "zone": "B7",
         "LGA": "Lithgow",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To promote the retention and re-use of heritage items as well as the retention of established buildings that contribute positively to heritage and cultural values.\u2022\u00a0\u00a0To enable development that is compatible with the surrounding residential land use and that does not detract from the role of the Lithgow core business areas.\u2022\u00a0\u00a0To maintain or improve the water quality of receiving water catchments.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To promote the retention and re-use of heritage items as well as the retention of established buildings that contribute positively to heritage and cultural values.</li> <li> To enable development that is compatible with the surrounding residential land use and that does not detract from the role of the Lithgow core business areas.</li> <li> To maintain or improve the water quality of receiving water catchments.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBackpackers' accommodation",
+            "Backpackers' accommodation",
             "Car parks",
             "Centre-based child care facilities",
             "Community facilities",
@@ -316,7 +316,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -324,12 +324,12 @@
         "LEP": "Lithgow Local Environmental Plan 2014",
         "zone": "IN1",
         "LGA": "Lithgow",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To maintain or improve the water quality of receiving water catchments.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To maintain or improve the water quality of receiving water catchments.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBiosolids treatment facilities",
+            "Biosolids treatment facilities",
             "Boat building and repair facilities",
             "Car parks",
             "Community facilities",
@@ -374,7 +374,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -382,12 +382,12 @@
         "LEP": "Lithgow Local Environmental Plan 2014",
         "zone": "IN2",
         "LGA": "Lithgow",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To maintain or improve the water quality of receiving water catchments.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To maintain or improve the water quality of receiving water catchments.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoat building and repair facilities",
+            "Boat building and repair facilities",
             "Car parks",
             "Community facilities",
             "Depots",
@@ -430,7 +430,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -438,12 +438,12 @@
         "LEP": "Lithgow Local Environmental Plan 2014",
         "zone": "IN3",
         "LGA": "Lithgow",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide suitable areas for those industries that need to be separated from other land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of heavy industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To maintain or improve the water quality of receiving water catchments.",
+        "objectives": "<li> To provide suitable areas for those industries that need to be separated from other land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of heavy industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To maintain or improve the water quality of receiving water catchments.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCar parks",
+            "Car parks",
             "Depots",
             "Environmental protection works",
             "Flood mitigation works",
@@ -471,7 +471,7 @@
             "Water storage facilities"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     }

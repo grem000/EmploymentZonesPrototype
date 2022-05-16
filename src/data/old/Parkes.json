@@ -3,13 +3,13 @@
         "LEP": "Parkes Local Environmental Plan 2012",
         "zone": "B2",
         "LGA": "Parkes",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To preserve the dominance of the town centre of Parkes as the key subregional retail and commercial centre in Parkes.\u2022\u00a0\u00a0To support the consolidation of commercial and retail development in the town centre of Parkes.\u2022\u00a0\u00a0To encourage the expansion of post-secondary education and training facilities within the town centre of Parkes to service the education needs of the region.\u2022\u00a0\u00a0To improve the quality of urban design in the town centre of Parkes to ensure that the pedestrian environment is attractive and safe.\u2022\u00a0\u00a0To minimise conflict between land uses within the zone and land uses within adjoining zones.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To preserve the dominance of the town centre of Parkes as the key subregional retail and commercial centre in Parkes.</li> <li> To support the consolidation of commercial and retail development in the town centre of Parkes.</li> <li> To encourage the expansion of post-secondary education and training facilities within the town centre of Parkes to service the education needs of the region.</li> <li> To improve the quality of urban design in the town centre of Parkes to ensure that the pedestrian environment is attractive and safe.</li> <li> To minimise conflict between land uses within the zone and land uses within adjoining zones.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -32,7 +32,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -89,13 +89,13 @@
         "LEP": "Parkes Local Environmental Plan 2012",
         "zone": "B4",
         "LGA": "Parkes",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To minimise conflict between land uses within the zone and land uses within adjoining zones.\u2022\u00a0\u00a0To encourage development that supports or complements the primary office and retail functions of the local centre zone.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To minimise conflict between land uses within the zone and land uses within adjoining zones.</li> <li> To encourage development that supports or complements the primary office and retail functions of the local centre zone.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -118,7 +118,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -170,12 +170,12 @@
         "LEP": "Parkes Local Environmental Plan 2012",
         "zone": "IN1",
         "LGA": "Parkes",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To create high quality working and business environments.\u2022\u00a0\u00a0To locate industrial land that reinforces links between the Parkes Hub, the Parkes Industrial Estate and other key infrastructure.\u2022\u00a0\u00a0To encourage industrial development that responds to site characteristics, considers visual impacts of built form and does not conflict with adjoining land uses.\u2022\u00a0\u00a0To facilitate industrial development that supports regional economic influences.\u2022\u00a0\u00a0To support existing industry sectors in Parkes that are key economic drivers.\u2022\u00a0\u00a0To provide for industrial uses in close proximity to transport infrastructure.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To accommodate larger industries or those that could potentially create a nuisance in locations separated from residential areas but accessible to the workforce.\u2022\u00a0\u00a0To enable development that is associated with, ancillary to, or supportive of, industry or industrial employees.\u2022\u00a0\u00a0To encourage a range of uses that provide specialist goods and services to the region's farmers and agricultural enterprises.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To create high quality working and business environments.</li> <li> To locate industrial land that reinforces links between the Parkes Hub, the Parkes Industrial Estate and other key infrastructure.</li> <li> To encourage industrial development that responds to site characteristics, considers visual impacts of built form and does not conflict with adjoining land uses.</li> <li> To facilitate industrial development that supports regional economic influences.</li> <li> To support existing industry sectors in Parkes that are key economic drivers.</li> <li> To provide for industrial uses in close proximity to transport infrastructure.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To accommodate larger industries or those that could potentially create a nuisance in locations separated from residential areas but accessible to the workforce.</li> <li> To enable development that is associated with, ancillary to, or supportive of, industry or industrial employees.</li> <li> To encourage a range of uses that provide specialist goods and services to the region's farmers and agricultural enterprises.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Funeral homes",
             "Garden centres",
@@ -200,7 +200,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Airports",
             "Airstrips",
             "Amusement centres",

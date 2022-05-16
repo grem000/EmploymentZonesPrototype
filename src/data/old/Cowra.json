@@ -3,13 +3,13 @@
         "LEP": "Cowra Local Environmental Plan 2012 (2013 EPI 22)",
         "zone": "B1",
         "LGA": "Cowra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To ensure that the development of the neighbourhood centre in West Cowra is consistent with the commercial hierarchy of the Cowra township and does not involve major retailing activities or detract from the core commercial functions of the Cowra central business district.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To ensure that the development of the neighbourhood centre in West Cowra is consistent with the commercial hierarchy of the Cowra township and does not involve major retailing activities or detract from the core commercial functions of the Cowra central business district.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -27,7 +27,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -90,13 +90,13 @@
         "LEP": "Cowra Local Environmental Plan 2012 (2013 EPI 22)",
         "zone": "B2",
         "LGA": "Cowra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -120,7 +120,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -164,13 +164,13 @@
         "LEP": "Cowra Local Environmental Plan 2012 (2013 EPI 22)",
         "zone": "B5",
         "LGA": "Cowra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To ensure that commercial development in the Redfern Street area is consistent with the commercial hierarchy of the Cowra township and does not involve major retailing activities or detract from the core commercial functions of the Cowra central business district.\u2022\u00a0\u00a0To ensure that residential development does not undermine the commercial function of the locality.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To ensure that commercial development in the Redfern Street area is consistent with the commercial hierarchy of the Cowra township and does not involve major retailing activities or detract from the core commercial functions of the Cowra central business district.</li> <li> To ensure that residential development does not undermine the commercial function of the locality.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Dwelling houses",
             "Garden centres",
             "Hardware and building supplies",
@@ -188,7 +188,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -242,12 +242,12 @@
         "LEP": "Cowra Local Environmental Plan 2012 (2013 EPI 22)",
         "zone": "B7",
         "LGA": "Cowra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To enable a range of commercial and industrial uses that provide aviation-related services and facilities.\u2022\u00a0\u00a0To enable other compatible land uses that provide support services or facilities for aviation-related commercial and industrial development.\u2022\u00a0\u00a0To ensure that commercial development at the Cowra Airport is consistent with the commercial hierarchy of the Cowra township and does not involve major retailing activities or detract from the core commercial functions of the Cowra central business district.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To enable a range of commercial and industrial uses that provide aviation-related services and facilities.</li> <li> To enable other compatible land uses that provide support services or facilities for aviation-related commercial and industrial development.</li> <li> To ensure that commercial development at the Cowra Airport is consistent with the commercial hierarchy of the Cowra township and does not involve major retailing activities or detract from the core commercial functions of the Cowra central business district.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Food and drink premises",
             "Garden centres",
             "Hardware and building supplies",
@@ -263,7 +263,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Amusement centres",
             "Animal boarding or training establishments",
             "Biosolids treatment facilities",
@@ -323,12 +323,12 @@
         "LEP": "Cowra Local Environmental Plan 2012 (2013 EPI 22)",
         "zone": "IN1",
         "LGA": "Cowra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAnimal boarding or training establishments",
+            "Animal boarding or training establishments",
             "Boat building and repair facilities",
             "Car parks",
             "Community facilities",
@@ -382,7 +382,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -390,12 +390,12 @@
         "LEP": "Cowra Local Environmental Plan 2012 (2013 EPI 22)",
         "zone": "IN2",
         "LGA": "Cowra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAnimal boarding or training establishments",
+            "Animal boarding or training establishments",
             "Boat building and repair facilities",
             "Car parks",
             "Community facilities",
@@ -448,7 +448,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     }

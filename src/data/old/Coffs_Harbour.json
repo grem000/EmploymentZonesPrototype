@@ -3,15 +3,15 @@
         "LEP": "Coffs Harbour Local Environmental Plan 2013",
         "zone": "B1",
         "LGA": "Coffs Harbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To provide a community hub for the surrounding neighbourhood.\u2022\u00a0\u00a0To facilitate the development of neighbourhood-scale facilities and services that do not detract from the core commercial functions of the Coffs Harbour City Centre.\u2022\u00a0\u00a0To ensure that new buildings are consistent with the distinctive local character of the place and accords with any relevant Local Character Statement.\u2022\u00a0\u00a0To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.\u2022\u00a0\u00a0To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To provide a community hub for the surrounding neighbourhood.</li> <li> To facilitate the development of neighbourhood-scale facilities and services that do not detract from the core commercial functions of the Coffs Harbour City Centre.</li> <li> To ensure that new buildings are consistent with the distinctive local character of the place and accords with any relevant Local Character Statement.</li> <li> To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.</li> <li> To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentBuilding identification signs",
+            "Building identification signs",
             "Home-based child care",
             "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -35,7 +35,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -110,15 +110,15 @@
         "LEP": "Coffs Harbour Local Environmental Plan 2013",
         "zone": "B2",
         "LGA": "Coffs Harbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To facilitate the development of facilities and services at a sub-regional scale that do not detract from the core commercial functions of the Coffs Harbour City Centre.\u2022\u00a0\u00a0To provide for housing diversity and choice that supports the changing housing needs of the population.\u2022\u00a0\u00a0To ensure that new buildings are consistent with the distinctive local character of the place and accords with any relevant Local Character Statement.\u2022\u00a0\u00a0To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.\u2022\u00a0\u00a0To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To facilitate the development of facilities and services at a sub-regional scale that do not detract from the core commercial functions of the Coffs Harbour City Centre.</li> <li> To provide for housing diversity and choice that supports the changing housing needs of the population.</li> <li> To ensure that new buildings are consistent with the distinctive local character of the place and accords with any relevant Local Character Statement.</li> <li> To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.</li> <li> To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentBuilding identification signs",
+            "Building identification signs",
             "Home-based child care",
             "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -144,7 +144,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -199,15 +199,15 @@
         "LEP": "Coffs Harbour Local Environmental Plan 2013",
         "zone": "B3",
         "LGA": "Coffs Harbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To ensure that the scale and nature of development reinforces the role of the Coffs Harbour City Centre as the principal business, office, cultural, civic, entertainment and retail hub, while supporting the objectives of other business zones.\u2022\u00a0\u00a0To ensure that development makes a positive contribution to the streetscape through opportunities for improved pedestrian links, retention and creation of view corridors and the provision of a safe public domain.\u2022\u00a0\u00a0To promote the Coffs Harbour City Centre for higher density living to provide for housing diversity and choice that supports the changing housing needs of the population.\u2022\u00a0\u00a0To promote uses that activate and add to the vibrancy of the Coffs Harbour City Centre and contribute to the night-time economy.\u2022\u00a0\u00a0To ensure that development accords with the Coffs Harbour City Centre Masterplan.\u2022\u00a0\u00a0To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.\u2022\u00a0\u00a0To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To ensure that the scale and nature of development reinforces the role of the Coffs Harbour City Centre as the principal business, office, cultural, civic, entertainment and retail hub, while supporting the objectives of other business zones.</li> <li> To ensure that development makes a positive contribution to the streetscape through opportunities for improved pedestrian links, retention and creation of view corridors and the provision of a safe public domain.</li> <li> To promote the Coffs Harbour City Centre for higher density living to provide for housing diversity and choice that supports the changing housing needs of the population.</li> <li> To promote uses that activate and add to the vibrancy of the Coffs Harbour City Centre and contribute to the night-time economy.</li> <li> To ensure that development accords with the Coffs Harbour City Centre Masterplan.</li> <li> To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.</li> <li> To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentBuilding identification signs",
+            "Building identification signs",
             "Home-based child care",
             "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -234,7 +234,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -290,15 +290,15 @@
         "LEP": "Coffs Harbour Local Environmental Plan 2013",
         "zone": "B4",
         "LGA": "Coffs Harbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To facilitate the development of a mix of local-scale facilities and services that do not detract from the core commercial functions of the Coffs Harbour City Centre.\u2022\u00a0\u00a0To ensure that development makes a positive contribution to the streetscape through opportunities for improved pedestrian links, retention and creation of view corridors and the provision of a safe public domain.\u2022\u00a0\u00a0To provide for housing diversity and choice that supports the changing housing needs of the population.\u2022\u00a0\u00a0To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.\u2022\u00a0\u00a0To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To facilitate the development of a mix of local-scale facilities and services that do not detract from the core commercial functions of the Coffs Harbour City Centre.</li> <li> To ensure that development makes a positive contribution to the streetscape through opportunities for improved pedestrian links, retention and creation of view corridors and the provision of a safe public domain.</li> <li> To provide for housing diversity and choice that supports the changing housing needs of the population.</li> <li> To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.</li> <li> To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentBuilding identification signs",
+            "Building identification signs",
             "Home-based child care",
             "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -325,7 +325,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -382,15 +382,15 @@
         "LEP": "Coffs Harbour Local Environmental Plan 2013",
         "zone": "B5",
         "LGA": "Coffs Harbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.\u2022\u00a0\u00a0To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.</li> <li> To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentBuilding identification signs",
+            "Building identification signs",
             "Home-based child care",
             "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBackpackers' accommodation",
+            "Backpackers' accommodation",
             "Centre-based child care facilities",
             "Dwelling houses",
             "Garden centres",
@@ -415,7 +415,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -476,15 +476,15 @@
         "LEP": "Coffs Harbour Local Environmental Plan 2013",
         "zone": "B6",
         "LGA": "Coffs Harbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To provide for residential uses, but only as part of a mixed use development.\u2022\u00a0\u00a0To facilitate the development of small-scale business uses that do not detract from the core commercial functions of the Coffs Harbour City Centre.\u2022\u00a0\u00a0To allow for the development of small-scale office premises that support uses in the enterprise corridor zone but that do not detract from the primary commercial role of the Coffs Harbour City Centre.\u2022\u00a0\u00a0To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.\u2022\u00a0\u00a0To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To provide for residential uses, but only as part of a mixed use development.</li> <li> To facilitate the development of small-scale business uses that do not detract from the core commercial functions of the Coffs Harbour City Centre.</li> <li> To allow for the development of small-scale office premises that support uses in the enterprise corridor zone but that do not detract from the primary commercial role of the Coffs Harbour City Centre.</li> <li> To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.</li> <li> To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentBuilding identification signs",
+            "Building identification signs",
             "Home-based child care",
             "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAttached dwellings",
+            "Attached dwellings",
             "Boarding houses",
             "Business premises",
             "Community facilities",
@@ -514,7 +514,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -571,13 +571,13 @@
         "LEP": "Coffs Harbour Local Environmental Plan 2013",
         "zone": "IN1",
         "LGA": "Coffs Harbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area, but only if they do not compromise the land being used for industrial purposes.\u2022\u00a0\u00a0To allow for uses that are industrial in nature and which do not detract from the core commercial functions of the Coffs Harbour City Centre.\u2022\u00a0\u00a0To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.\u2022\u00a0\u00a0To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area, but only if they do not compromise the land being used for industrial purposes.</li> <li> To allow for uses that are industrial in nature and which do not detract from the core commercial functions of the Coffs Harbour City Centre.</li> <li> To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.</li> <li> To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentBuilding identification signs",
+            "Building identification signs",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Depots",
             "Dwelling houses",
             "Freight transport facilities",
@@ -603,7 +603,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -648,12 +648,12 @@
         "LEP": "Coffs Harbour Local Environmental Plan 2013",
         "zone": "IN3",
         "LGA": "Coffs Harbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide suitable areas for those industries that need to be separated from other land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of heavy industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To allow for uses that are industrial in nature and which do not detract from the core commercial functions of the Coffs Harbour City Centre.",
+        "objectives": "<li> To provide suitable areas for those industries that need to be separated from other land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of heavy industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To allow for uses that are industrial in nature and which do not detract from the core commercial functions of the Coffs Harbour City Centre.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentBuilding identification signs"
+            "Building identification signs"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "General industries",
             "Hazardous storage establishments",
@@ -669,7 +669,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -731,12 +731,12 @@
         "LEP": "Coffs Harbour Local Environmental Plan 2013",
         "zone": "IN4",
         "LGA": "Coffs Harbour",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To identify sites for maritime purposes and for activities that require direct waterfront access.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of development on land uses in other zones.\u2022\u00a0\u00a0To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.\u2022\u00a0\u00a0To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.",
+        "objectives": "<li> To retain and encourage waterfront industrial and maritime activities.</li> <li> To identify sites for maritime purposes and for activities that require direct waterfront access.</li> <li> To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of development on land uses in other zones.</li> <li> To encourage active living through the provision of healthy, walkable, green and safe built environments and streets, greener connections and walking and cycling infrastructure.</li> <li> To ensure that development reflects design excellence and is of a high visual quality in its presentation to the public realm.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentBuilding identification signs"
+            "Building identification signs"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAquaculture",
+            "Aquaculture",
             "Boat building and repair facilities",
             "Boat launching ramps",
             "Hotel or motel accommodation",
@@ -754,7 +754,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

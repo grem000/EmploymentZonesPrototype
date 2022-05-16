@@ -3,15 +3,15 @@
         "LEP": "Gloucester Local Environmental Plan 2010",
         "zone": "B2",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome businesses",
+            "Home businesses",
             "Home industries",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Car parks",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -38,7 +38,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Boat building and repair facilities",
             "Camping grounds",
@@ -73,15 +73,15 @@
         "LEP": "Gloucester Local Environmental Plan 2010",
         "zone": "B4",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome businesses",
+            "Home businesses",
             "Home industries",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -110,7 +110,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -118,12 +118,12 @@
         "LEP": "Gloucester Local Environmental Plan 2010",
         "zone": "IN1",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To conserve biological diversity and native vegetation corridors, and their scenic qualities, in an industrial setting.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To conserve biological diversity and native vegetation corridors, and their scenic qualities, in an industrial setting.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAnimal boarding and training establishments",
+            "Animal boarding and training establishments",
             "Depots",
             "Flood mitigation works",
             "Freight transport facilities",
@@ -161,7 +161,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Camping grounds",
             "Caravan parks",
             "Eco-tourist facilities",
@@ -186,12 +186,12 @@
         "LEP": "Gloucester Local Environmental Plan 2010",
         "zone": "IN3",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide suitable areas for those industries that need to be separated from other land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of heavy industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide suitable areas for those industries that need to be separated from other land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of heavy industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Flood mitigation works",
             "Freight transport facilities",
             "General industries",
@@ -205,7 +205,7 @@
             "Warehouse or distribution centres"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     }
@@ -214,12 +214,12 @@
         "LEP": "Great Lakes Local Environmental Plan 2014",
         "zone": "B1",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To enable a range of residential accommodation and tourist and visitor accommodation to be located above commercial uses to promote housing diversity and community activity within the business centre.\u2022\u00a0\u00a0To ensure that traffic generation from development can be managed in a way that avoids conflict with the desired pedestrian environment.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To enable a range of residential accommodation and tourist and visitor accommodation to be located above commercial uses to promote housing diversity and community activity within the business centre.</li> <li> To ensure that traffic generation from development can be managed in a way that avoids conflict with the desired pedestrian environment.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -235,7 +235,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -283,12 +283,12 @@
         "LEP": "Great Lakes Local Environmental Plan 2014",
         "zone": "B2",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To enable a range of residential accommodation and tourist and visitor accommodation to be located above commercial uses to promote housing diversity and community activity within the business centre.\u2022\u00a0\u00a0To ensure that traffic generation from development can be managed in a way that avoids conflict with the desired pedestrian environment.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To enable a range of residential accommodation and tourist and visitor accommodation to be located above commercial uses to promote housing diversity and community activity within the business centre.</li> <li> To ensure that traffic generation from development can be managed in a way that avoids conflict with the desired pedestrian environment.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -312,7 +312,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -359,12 +359,12 @@
         "LEP": "Great Lakes Local Environmental Plan 2014",
         "zone": "B4",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage development that does not prejudice the established business and industrial centres.\u2022\u00a0\u00a0To ensure that traffic generation from development can be managed in a way that avoids conflict with the desired pedestrian environment.\u2022\u00a0\u00a0To ensure the inclusion and integration of housing to promote housing diversity and community activity within the business centre.\u2022\u00a0\u00a0To enable a range of tourism-related uses that support the business centre.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage development that does not prejudice the established business and industrial centres.</li> <li> To ensure that traffic generation from development can be managed in a way that avoids conflict with the desired pedestrian environment.</li> <li> To ensure the inclusion and integration of housing to promote housing diversity and community activity within the business centre.</li> <li> To enable a range of tourism-related uses that support the business centre.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -389,7 +389,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -436,12 +436,12 @@
         "LEP": "Great Lakes Local Environmental Plan 2014",
         "zone": "B5",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
@@ -460,7 +460,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -506,12 +506,12 @@
         "LEP": "Great Lakes Local Environmental Plan 2014",
         "zone": "IN1",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day-to-day needs of workers in the area.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To enable other land uses that provide facilities or services to meet the day-to-day needs of workers in the area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoat building and repair facilities",
+            "Boat building and repair facilities",
             "Boat launching ramps",
             "Boat sheds",
             "Car parks",
@@ -574,7 +574,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -582,12 +582,12 @@
         "LEP": "Great Lakes Local Environmental Plan 2014",
         "zone": "IN2",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoat building and repair facilities",
+            "Boat building and repair facilities",
             "Boat launching ramps",
             "Boat sheds",
             "Business premises",
@@ -650,7 +650,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -658,12 +658,12 @@
         "LEP": "Great Lakes Local Environmental Plan 2014",
         "zone": "IN4",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To identify sites for maritime purposes and for activities that require direct waterfront access.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of development on land uses in other zones.",
+        "objectives": "<li> To retain and encourage waterfront industrial and maritime activities.</li> <li> To identify sites for maritime purposes and for activities that require direct waterfront access.</li> <li> To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of development on land uses in other zones.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAquaculture",
+            "Aquaculture",
             "Boat building and repair facilities",
             "Boat launching ramps",
             "Boat sheds",
@@ -691,7 +691,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAny development not specified in item 2 or 3"
+            "Any development not specified in item 2 or 3"
         ]
     }
 ][
@@ -699,12 +699,12 @@
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "B1",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses which serve the needs of people who live and work in the surrounding neighbourhood.\u2022\u00a0\u00a0To allow residential and tourist and visitor accommodation above retail, business and office uses to bring a higher level of vibrancy to the centre.\u2022\u00a0\u00a0To strengthen the local community and support the role of the local centres.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses which serve the needs of people who live and work in the surrounding neighbourhood.</li> <li> To allow residential and tourist and visitor accommodation above retail, business and office uses to bring a higher level of vibrancy to the centre.</li> <li> To strengthen the local community and support the role of the local centres.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -720,7 +720,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Boat building and repair facilities",
             "Camping grounds",
@@ -766,12 +766,12 @@
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "B2",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To allow residential and tourist and visitor accommodation above retail, business and office uses to bring a higher level of vibrancy to the centre.\u2022\u00a0\u00a0To support the role of the Taree central business district.\u2022\u00a0\u00a0To ensure quality of design of buildings and public spaces to achieve a locality that is safe and accessible.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To allow residential and tourist and visitor accommodation above retail, business and office uses to bring a higher level of vibrancy to the centre.</li> <li> To support the role of the Taree central business district.</li> <li> To ensure quality of design of buildings and public spaces to achieve a locality that is safe and accessible.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -795,7 +795,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Boat building and repair facilities",
             "Camping grounds",
@@ -832,12 +832,12 @@
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "B3",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses which serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage residential accommodation above retail, business and office uses to bring a higher level of vibrancy to the centre.\u2022\u00a0\u00a0To reinforce the role of the Taree central business district as the major regional centre.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses which serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage residential accommodation above retail, business and office uses to bring a higher level of vibrancy to the centre.</li> <li> To reinforce the role of the Taree central business district as the major regional centre.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
             "Educational establishments",
@@ -858,7 +858,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Bed and breakfast accommodation",
             "Camping grounds",
@@ -891,12 +891,12 @@
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "B4",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -920,7 +920,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Camping grounds",
             "Caravan parks",
@@ -951,12 +951,12 @@
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "B5",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To enable commercial and retail uses that require a large floor area for handling, display or storage and maintain the economic strength of centres by limiting the retailing of food and clothing.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To enable commercial and retail uses that require a large floor area for handling, display or storage and maintain the economic strength of centres by limiting the retailing of food and clothing.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Landscaping material supplies",
@@ -974,7 +974,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Boat building and repair facilities",
             "Camping grounds",
@@ -1015,12 +1015,12 @@
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "B6",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To provide for residential uses, but only as part of a mixed use development.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To provide for residential uses, but only as part of a mixed use development.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBackpackers' accommodation",
+            "Backpackers' accommodation",
             "Business premises",
             "Community facilities",
             "Garden centres",
@@ -1044,7 +1044,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Boat building and repair facilities",
             "Camping grounds",
@@ -1078,12 +1078,12 @@
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "IN1",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To encourage innovation and sustainability in industry.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To encourage innovation and sustainability in industry.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Garden centres",
             "General industries",
@@ -1106,7 +1106,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Camping grounds",
             "Caravan parks",
@@ -1137,12 +1137,12 @@
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "IN2",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To encourage innovation and sustainability in industry.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To encourage innovation and sustainability in industry.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Food and drink premises",
             "Garden centres",
             "Hardware and building supplies",
@@ -1163,7 +1163,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Camping grounds",
             "Caravan parks",
@@ -1196,12 +1196,12 @@
         "LEP": "Greater Taree Local Environmental Plan 2010",
         "zone": "IN4",
         "LGA": "Mid Coast",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To identify sites for maritime purposes and for activities that require direct waterfront access.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of development on land uses in other zones.",
+        "objectives": "<li> To retain and encourage waterfront industrial and maritime activities.</li> <li> To identify sites for maritime purposes and for activities that require direct waterfront access.</li> <li> To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of development on land uses in other zones.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAquaculture",
+            "Aquaculture",
             "Boat building and repair facilities",
             "Boat launching ramps",
             "Food and drink premises",
@@ -1219,7 +1219,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Animal boarding or training establishments",
             "Camping grounds",
             "Caravan parks",

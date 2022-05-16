@@ -3,12 +3,12 @@
         "LEP": "Woollahra Local Environmental Plan 2014 (2015 EPI 20)",
         "zone": "B1",
         "LGA": "Woollahra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To provide active ground floor uses to create vibrant centres.\u2022\u00a0\u00a0To provide for development of a scale and type that is compatible with the amenity of the surrounding residential area.\u2022\u00a0\u00a0To ensure that development is of a height and scale that achieves the desired future character of the neighbourhood.\u2022\u00a0\u00a0To provide for a range of other uses, including light industrial, that serve the surrounding neighbourhood without impacting on the amenity of the adjoining uses.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To provide active ground floor uses to create vibrant centres.</li> <li> To provide for development of a scale and type that is compatible with the amenity of the surrounding residential area.</li> <li> To ensure that development is of a height and scale that achieves the desired future character of the neighbourhood.</li> <li> To provide for a range of other uses, including light industrial, that serve the surrounding neighbourhood without impacting on the amenity of the adjoining uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Boarding houses",
             "Building identification signs",
             "Business identification signs",
@@ -43,7 +43,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -51,12 +51,12 @@
         "LEP": "Woollahra Local Environmental Plan 2014 (2015 EPI 20)",
         "zone": "B2",
         "LGA": "Woollahra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To attract new business and commercial opportunities.\u2022\u00a0\u00a0To provide active ground floor uses to create vibrant centres.\u2022\u00a0\u00a0To provide for development of a scale and type that is compatible with the amenity of the surrounding residential area.\u2022\u00a0\u00a0To ensure that development is of a height and scale that achieves the desired future character of the neighbourhood.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To attract new business and commercial opportunities.</li> <li> To provide active ground floor uses to create vibrant centres.</li> <li> To provide for development of a scale and type that is compatible with the amenity of the surrounding residential area.</li> <li> To ensure that development is of a height and scale that achieves the desired future character of the neighbourhood.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAmusement centres",
+            "Amusement centres",
             "Boarding houses",
             "Building identification signs",
             "Business identification signs",
@@ -90,7 +90,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -98,12 +98,12 @@
         "LEP": "Woollahra Local Environmental Plan 2014 (2015 EPI 20)",
         "zone": "B4",
         "LGA": "Woollahra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To provide active ground floor uses to create vibrant centres.\u2022\u00a0\u00a0To provide for development of a scale and type that is compatible with the amenity of the surrounding residential area.\u2022\u00a0\u00a0To ensure that development is of a height and scale that achieves the desired future character of the neighbourhood.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To provide active ground floor uses to create vibrant centres.</li> <li> To provide for development of a scale and type that is compatible with the amenity of the surrounding residential area.</li> <li> To ensure that development is of a height and scale that achieves the desired future character of the neighbourhood.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRoads"
+            "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Building identification signs",
             "Business identification signs",
             "Car parks",
@@ -139,7 +139,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     }

@@ -3,13 +3,13 @@
         "LEP": "Gosford Local Environmental Plan 2014",
         "zone": "B1",
         "LGA": "Gosford",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To allow for an increased residential population in neighbourhood centres where land is not required to serve local needs.\u2022\u00a0\u00a0To ensure that development is compatible with the desired future character of the zone.\u2022\u00a0\u00a0To promote ecologically, socially and economically sustainable development.\u2022\u00a0\u00a0To ensure that local nodes and neighbourhood centres are recognised as small-scale centres that provide a range of services and facilities commensurate with their local population catchments and that development is of a scale that is appropriate to meet local needs.\u2022\u00a0\u00a0To encourage residential development as either stand alone development or as part of mixed use development in local nodes and neighbourhood centres, while retaining opportunities for retail and service activities to serve the population in the immediate locality.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To allow for an increased residential population in neighbourhood centres where land is not required to serve local needs.</li> <li> To ensure that development is compatible with the desired future character of the zone.</li> <li> To promote ecologically, socially and economically sustainable development.</li> <li> To ensure that local nodes and neighbourhood centres are recognised as small-scale centres that provide a range of services and facilities commensurate with their local population catchments and that development is of a scale that is appropriate to meet local needs.</li> <li> To encourage residential development as either stand alone development or as part of mixed use development in local nodes and neighbourhood centres, while retaining opportunities for retail and service activities to serve the population in the immediate locality.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRecreation areas",
+            "Recreation areas",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -25,7 +25,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -106,12 +106,12 @@
         "LEP": "Gosford Local Environmental Plan 2014",
         "zone": "B2",
         "LGA": "Gosford",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To provide for residential uses, but only as part of a mixed use development.\u2022\u00a0\u00a0To ensure that development is compatible with the desired future character of the zone.\u2022\u00a0\u00a0To promote ecologically, socially and economically sustainable development.\u2022\u00a0\u00a0To ensure that the town centres of Erina and Woy Woy are recognised as providing a higher level, and greater diversity, of services and facilities to serve a wide population catchment from numerous localities and as key public transport nodes, secondary to Gosford City Centre.\u2022\u00a0\u00a0To ensure that village centres such as Avoca, East Gosford, Ettalong Beach, Kincumber, Lisarow, Niagara Park, Terrigal, Umina Beach, West Gosford and Wyoming are recognised as providing a broad range of services and facilities to serve the population of the locality.\u2022\u00a0\u00a0To ensure that villages are recognised as providing local level services and facilities and are developed at a scale that reflects their population catchment and as a focus for public transport routes.\u2022\u00a0\u00a0To ensure that the different roles of villages are recognised with some villages being key tourist destinations with boutique activities in addition to serving the needs of local residents, while other villages are purpose-built centres to serve the needs of the local population.\u2022\u00a0\u00a0To encourage the residential population of villages and town centres to contribute to the vitality of those locations.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To provide for residential uses, but only as part of a mixed use development.</li> <li> To ensure that development is compatible with the desired future character of the zone.</li> <li> To promote ecologically, socially and economically sustainable development.</li> <li> To ensure that the town centres of Erina and Woy Woy are recognised as providing a higher level, and greater diversity, of services and facilities to serve a wide population catchment from numerous localities and as key public transport nodes, secondary to Gosford City Centre.</li> <li> To ensure that village centres such as Avoca, East Gosford, Ettalong Beach, Kincumber, Lisarow, Niagara Park, Terrigal, Umina Beach, West Gosford and Wyoming are recognised as providing a broad range of services and facilities to serve the population of the locality.</li> <li> To ensure that villages are recognised as providing local level services and facilities and are developed at a scale that reflects their population catchment and as a focus for public transport routes.</li> <li> To ensure that the different roles of villages are recognised with some villages being key tourist destinations with boutique activities in addition to serving the needs of local residents, while other villages are purpose-built centres to serve the needs of the local population.</li> <li> To encourage the residential population of villages and town centres to contribute to the vitality of those locations.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRecreation areas"
+            "Recreation areas"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -134,7 +134,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Animal boarding or training establishments",
             "Biosolids treatment facilities",
@@ -194,12 +194,12 @@
         "LEP": "Gosford Local Environmental Plan 2014",
         "zone": "B3",
         "LGA": "Gosford",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage a diverse and compatible range of activities, including commercial and retail development, cultural and entertainment facilities, tourism, leisure and recreation facilities and social, education and health services.\u2022\u00a0\u00a0To provide for residential uses if compatible with neighbouring uses and employment opportunities.\u2022\u00a0\u00a0To provide for the retention and creation of view corridors.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage a diverse and compatible range of activities, including commercial and retail development, cultural and entertainment facilities, tourism, leisure and recreation facilities and social, education and health services.</li> <li> To provide for residential uses if compatible with neighbouring uses and employment opportunities.</li> <li> To provide for the retention and creation of view corridors.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
             "Educational establishments",
@@ -220,7 +220,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -283,12 +283,12 @@
         "LEP": "Gosford Local Environmental Plan 2014",
         "zone": "B4",
         "LGA": "Gosford",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage a diverse and compatible range of activities, including commercial and retail development, cultural and entertainment facilities, tourism, leisure and recreation facilities, social, education and health services and higher density residential development.\u2022\u00a0\u00a0To allow development in Point Frederick to take advantage of and retain view corridors while avoiding a continuous built edge along the waterfront.\u2022\u00a0\u00a0To enliven the Gosford waterfront by allowing a wide range of commercial, retail and residential activities immediately adjacent to it and increase opportunities for more interaction between public and private domains.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage a diverse and compatible range of activities, including commercial and retail development, cultural and entertainment facilities, tourism, leisure and recreation facilities, social, education and health services and higher density residential development.</li> <li> To allow development in Point Frederick to take advantage of and retain view corridors while avoiding a continuous built edge along the waterfront.</li> <li> To enliven the Gosford waterfront by allowing a wide range of commercial, retail and residential activities immediately adjacent to it and increase opportunities for more interaction between public and private domains.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -311,7 +311,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -382,12 +382,12 @@
         "LEP": "Gosford Local Environmental Plan 2014",
         "zone": "B5",
         "LGA": "Gosford",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To ensure that development is compatible with the desired future character of the zone.\u2022\u00a0\u00a0To provide and protect land for employment-generating activities.\u2022\u00a0\u00a0To encourage the location of business and other premises requiring large floor plates in appropriate locations to ensure they do not sterilise commercial or residential areas.\u2022\u00a0\u00a0To recognise the importance of business lands at Erina and locations supporting Gosford City Centre at West Gosford and Wyoming.\u2022\u00a0\u00a0To recognise small isolated business and commercial areas located throughout Gosford.\u2022\u00a0\u00a0To recognise the range of service activities located in business areas that support business development.\u2022\u00a0\u00a0To ensure that business areas are not sterilised by residential development.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To ensure that development is compatible with the desired future character of the zone.</li> <li> To provide and protect land for employment-generating activities.</li> <li> To encourage the location of business and other premises requiring large floor plates in appropriate locations to ensure they do not sterilise commercial or residential areas.</li> <li> To recognise the importance of business lands at Erina and locations supporting Gosford City Centre at West Gosford and Wyoming.</li> <li> To recognise small isolated business and commercial areas located throughout Gosford.</li> <li> To recognise the range of service activities located in business areas that support business development.</li> <li> To ensure that business areas are not sterilised by residential development.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Hotel or motel accommodation",
@@ -403,7 +403,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Biosolids treatment facilities",
@@ -469,12 +469,12 @@
         "LEP": "Gosford Local Environmental Plan 2014",
         "zone": "B6",
         "LGA": "Gosford",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To provide for residential uses, but only as part of a mixed use development.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To provide for residential uses, but only as part of a mixed use development.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Community facilities",
             "Garden centres",
             "Hardware and building supplies",
@@ -494,7 +494,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -561,12 +561,12 @@
         "LEP": "Gosford Local Environmental Plan 2014",
         "zone": "IN1",
         "LGA": "Gosford",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To promote ecologically, socially and economically sustainable development.\u2022\u00a0\u00a0To ensure that retail, commercial or service land uses in industrial areas are of an ancillary nature.\u2022\u00a0\u00a0To ensure that development is compatible with the desired future character of the zone.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To promote ecologically, socially and economically sustainable development.</li> <li> To ensure that retail, commercial or service land uses in industrial areas are of an ancillary nature.</li> <li> To ensure that development is compatible with the desired future character of the zone.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentRecreation areas"
+            "Recreation areas"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Garden centres",
             "General industries",
@@ -587,7 +587,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAmusement centres",
+            "Amusement centres",
             "Boat building and repair facilities",
             "Boat sheds",
             "Camping grounds",
@@ -635,12 +635,12 @@
         "LEP": "Gosford Local Environmental Plan 2014",
         "zone": "IN4",
         "LGA": "Gosford",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To identify sites for maritime purposes and for activities that require direct waterfront access.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of development on land uses in other zones.",
+        "objectives": "<li> To retain and encourage waterfront industrial and maritime activities.</li> <li> To identify sites for maritime purposes and for activities that require direct waterfront access.</li> <li> To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of development on land uses in other zones.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAquaculture",
+            "Aquaculture",
             "Boat building and repair facilities",
             "Boat launching ramps",
             "Jetties",
@@ -649,7 +649,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",

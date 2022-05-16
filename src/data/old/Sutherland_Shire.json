@@ -3,12 +3,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B1",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To allow small-scale office uses that provide local employment opportunities and services for residents.\u2022\u00a0\u00a0To allow residential accommodation while maintaining active retail, business or non-residential land uses at street level.\u2022\u00a0\u00a0To provide for pedestrian-friendly and safe shopping designed to cater for the needs of all ages and abilities.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To allow small-scale office uses that provide local employment opportunities and services for residents.</li> <li> To allow residential accommodation while maintaining active retail, business or non-residential land uses at street level.</li> <li> To provide for pedestrian-friendly and safe shopping designed to cater for the needs of all ages and abilities.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -23,7 +23,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -99,12 +99,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B2",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To create an attractive, vibrant and safe public domain that has both a high standard of urban design and public amenity that is designed to cater for the needs of all ages and abilities.\u2022\u00a0\u00a0To encourage housing suitable for the needs of an ageing population.\u2022\u00a0\u00a0To allow for residential dwellings while maintaining active land uses at street level.\u2022\u00a0\u00a0To provide a mix of compatible land uses and building forms that act as a transition to the surrounding residential neighbourhood.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To create an attractive, vibrant and safe public domain that has both a high standard of urban design and public amenity that is designed to cater for the needs of all ages and abilities.</li> <li> To encourage housing suitable for the needs of an ageing population.</li> <li> To allow for residential dwellings while maintaining active land uses at street level.</li> <li> To provide a mix of compatible land uses and building forms that act as a transition to the surrounding residential neighbourhood.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -127,7 +127,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -185,12 +185,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B3",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To strengthen the viability of existing commercial centres through increased economic activity, employment and resident population.\u2022\u00a0\u00a0To create an attractive, vibrant and safe public domain with a high standard of urban design and public amenity.\u2022\u00a0\u00a0To enhance commercial centres by encouraging incidental public domain areas that have a community focus and facilitate interaction, outdoor eating or landscaping.\u2022\u00a0\u00a0To provide for pedestrian-friendly and safe shopping designed to cater for the needs of all ages and abilities.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To strengthen the viability of existing commercial centres through increased economic activity, employment and resident population.</li> <li> To create an attractive, vibrant and safe public domain with a high standard of urban design and public amenity.</li> <li> To enhance commercial centres by encouraging incidental public domain areas that have a community focus and facilitate interaction, outdoor eating or landscaping.</li> <li> To provide for pedestrian-friendly and safe shopping designed to cater for the needs of all ages and abilities.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
             "Educational establishments",
@@ -210,7 +210,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -270,12 +270,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B4",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To permit light industrial uses that are compatible with the desired future residential amenity of the zone.\u2022\u00a0\u00a0To facilitate the re-vitalisation of the Kirrawee town centre and the Kirrawee railway station precinct.\u2022\u00a0\u00a0To ensure that any expansion of retail activity in the zone maintains the role and function of Kirrawee town centre and does not adversely impact on the sustainability of other centres in the Sutherland Shire.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To permit light industrial uses that are compatible with the desired future residential amenity of the zone.</li> <li> To facilitate the re-vitalisation of the Kirrawee town centre and the Kirrawee railway station precinct.</li> <li> To ensure that any expansion of retail activity in the zone maintains the role and function of Kirrawee town centre and does not adversely impact on the sustainability of other centres in the Sutherland Shire.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -297,7 +297,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -355,12 +355,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B5",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To promote uses that do not detract from the role and function of existing centres in the retail hierarchy of Sutherland Shire.\u2022\u00a0\u00a0To enhance the visual appearance of the area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the effective operation and safety of main roads.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To promote uses that do not detract from the role and function of existing centres in the retail hierarchy of Sutherland Shire.</li> <li> To enhance the visual appearance of the area by ensuring new development achieves high architectural and landscape standards.</li> <li> To ensure that development does not have an adverse impact on the effective operation and safety of main roads.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Landscaping material supplies",
@@ -374,7 +374,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -437,12 +437,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B6",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To enhance the visual appearance of the area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To ensure that development maintains the effective operation and function of main roads.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To enhance the visual appearance of the area by ensuring new development achieves high architectural and landscape standards.</li> <li> To ensure that development maintains the effective operation and function of main roads.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Community facilities",
             "Garden centres",
             "Hardware and building supplies",
@@ -460,7 +460,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -518,12 +518,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B7",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To prevent the fragmentation of large sites and to realise their economic strategic advantage.\u2022\u00a0\u00a0To provide opportunities for the erection of buildings requiring large floor areas and to discourage small-scale uses unless they are of an ancillary or service nature.\u2022\u00a0\u00a0To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To minimise the impact of development within the zone on areas of environmental or heritage significance.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To prevent the fragmentation of large sites and to realise their economic strategic advantage.</li> <li> To provide opportunities for the erection of buildings requiring large floor areas and to discourage small-scale uses unless they are of an ancillary or service nature.</li> <li> To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.</li> <li> To minimise the impact of development within the zone on areas of environmental or heritage significance.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Light industries",
@@ -539,7 +539,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -603,12 +603,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "IN1",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To minimise the impact of development in the zone on areas of environmental significance.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.</li> <li> To minimise the impact of development in the zone on areas of environmental significance.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Funeral homes",
             "Garden centres",
@@ -631,7 +631,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -686,12 +686,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "IN2",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To minimise the impact of development on areas of environmental significance.\u2022\u00a0\u00a0To minimise the impacts of development on surrounding residential or other sensitive land uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.</li> <li> To minimise the impact of development on areas of environmental significance.</li> <li> To minimise the impacts of development on surrounding residential or other sensitive land uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Funeral homes",
             "Garden centres",
             "Hardware and building supplies",
@@ -712,7 +712,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -769,12 +769,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "IN3",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide suitable areas for those industries that need to be separated from other land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of heavy industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide suitable areas for those industries that need to be separated from other land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of heavy industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "General industries",
             "Hazardous storage establishments",
@@ -790,7 +790,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -851,12 +851,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "IN4",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To identify sites for maritime purposes and for activities that require direct waterfront access.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of development on land uses in other zones.\u2022\u00a0\u00a0To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To ensure that development protects and enhances the long term sustainability of the local ecology, including the riparian zone, intertidal areas and bays.",
+        "objectives": "<li> To retain and encourage waterfront industrial and maritime activities.</li> <li> To identify sites for maritime purposes and for activities that require direct waterfront access.</li> <li> To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of development on land uses in other zones.</li> <li> To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.</li> <li> To ensure that development protects and enhances the long term sustainability of the local ecology, including the riparian zone, intertidal areas and bays.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAquaculture",
+            "Aquaculture",
             "Boat building and repair facilities",
             "Boat launching ramps",
             "Food and drink premises",
@@ -868,7 +868,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -938,12 +938,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B1",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To allow small-scale office uses that provide local employment opportunities and services for residents.\u2022\u00a0\u00a0To allow residential accommodation while maintaining active retail, business or non-residential land uses at street level.\u2022\u00a0\u00a0To provide for pedestrian-friendly and safe shopping designed to cater for the needs of all ages and abilities.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To allow small-scale office uses that provide local employment opportunities and services for residents.</li> <li> To allow residential accommodation while maintaining active retail, business or non-residential land uses at street level.</li> <li> To provide for pedestrian-friendly and safe shopping designed to cater for the needs of all ages and abilities.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -958,7 +958,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -1034,12 +1034,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B2",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To create an attractive, vibrant and safe public domain that has both a high standard of urban design and public amenity that is designed to cater for the needs of all ages and abilities.\u2022\u00a0\u00a0To encourage housing suitable for the needs of an ageing population.\u2022\u00a0\u00a0To allow for residential dwellings while maintaining active land uses at street level.\u2022\u00a0\u00a0To provide a mix of compatible land uses and building forms that act as a transition to the surrounding residential neighbourhood.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To create an attractive, vibrant and safe public domain that has both a high standard of urban design and public amenity that is designed to cater for the needs of all ages and abilities.</li> <li> To encourage housing suitable for the needs of an ageing population.</li> <li> To allow for residential dwellings while maintaining active land uses at street level.</li> <li> To provide a mix of compatible land uses and building forms that act as a transition to the surrounding residential neighbourhood.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -1062,7 +1062,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -1120,12 +1120,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B3",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To strengthen the viability of existing commercial centres through increased economic activity, employment and resident population.\u2022\u00a0\u00a0To create an attractive, vibrant and safe public domain with a high standard of urban design and public amenity.\u2022\u00a0\u00a0To enhance commercial centres by encouraging incidental public domain areas that have a community focus and facilitate interaction, outdoor eating or landscaping.\u2022\u00a0\u00a0To provide for pedestrian-friendly and safe shopping designed to cater for the needs of all ages and abilities.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To strengthen the viability of existing commercial centres through increased economic activity, employment and resident population.</li> <li> To create an attractive, vibrant and safe public domain with a high standard of urban design and public amenity.</li> <li> To enhance commercial centres by encouraging incidental public domain areas that have a community focus and facilitate interaction, outdoor eating or landscaping.</li> <li> To provide for pedestrian-friendly and safe shopping designed to cater for the needs of all ages and abilities.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
             "Educational establishments",
@@ -1145,7 +1145,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -1205,12 +1205,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B4",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To permit light industrial uses that are compatible with the desired future residential amenity of the zone.\u2022\u00a0\u00a0To facilitate the re-vitalisation of the Kirrawee town centre and the Kirrawee railway station precinct.\u2022\u00a0\u00a0To ensure that any expansion of retail activity in the zone maintains the role and function of Kirrawee town centre and does not adversely impact on the sustainability of other centres in the Sutherland Shire.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To permit light industrial uses that are compatible with the desired future residential amenity of the zone.</li> <li> To facilitate the re-vitalisation of the Kirrawee town centre and the Kirrawee railway station precinct.</li> <li> To ensure that any expansion of retail activity in the zone maintains the role and function of Kirrawee town centre and does not adversely impact on the sustainability of other centres in the Sutherland Shire.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -1232,7 +1232,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -1290,12 +1290,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B5",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To promote uses that do not detract from the role and function of existing centres in the retail hierarchy of Sutherland Shire.\u2022\u00a0\u00a0To enhance the visual appearance of the area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the effective operation and safety of main roads.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To promote uses that do not detract from the role and function of existing centres in the retail hierarchy of Sutherland Shire.</li> <li> To enhance the visual appearance of the area by ensuring new development achieves high architectural and landscape standards.</li> <li> To ensure that development does not have an adverse impact on the effective operation and safety of main roads.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Landscaping material supplies",
@@ -1309,7 +1309,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -1372,12 +1372,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B6",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To enhance the visual appearance of the area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To ensure that development maintains the effective operation and function of main roads.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To enhance the visual appearance of the area by ensuring new development achieves high architectural and landscape standards.</li> <li> To ensure that development maintains the effective operation and function of main roads.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Community facilities",
             "Garden centres",
             "Hardware and building supplies",
@@ -1395,7 +1395,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -1453,12 +1453,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "B7",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To prevent the fragmentation of large sites and to realise their economic strategic advantage.\u2022\u00a0\u00a0To provide opportunities for the erection of buildings requiring large floor areas and to discourage small-scale uses unless they are of an ancillary or service nature.\u2022\u00a0\u00a0To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To minimise the impact of development within the zone on areas of environmental or heritage significance.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To prevent the fragmentation of large sites and to realise their economic strategic advantage.</li> <li> To provide opportunities for the erection of buildings requiring large floor areas and to discourage small-scale uses unless they are of an ancillary or service nature.</li> <li> To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.</li> <li> To minimise the impact of development within the zone on areas of environmental or heritage significance.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Light industries",
@@ -1474,7 +1474,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -1538,12 +1538,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "IN1",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To minimise the impact of development in the zone on areas of environmental significance.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.</li> <li> To minimise the impact of development in the zone on areas of environmental significance.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Funeral homes",
             "Garden centres",
@@ -1566,7 +1566,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -1621,12 +1621,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "IN2",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To minimise the impact of development on areas of environmental significance.\u2022\u00a0\u00a0To minimise the impacts of development on surrounding residential or other sensitive land uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.</li> <li> To minimise the impact of development on areas of environmental significance.</li> <li> To minimise the impacts of development on surrounding residential or other sensitive land uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Funeral homes",
             "Garden centres",
             "Hardware and building supplies",
@@ -1647,7 +1647,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -1704,12 +1704,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "IN3",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide suitable areas for those industries that need to be separated from other land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of heavy industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide suitable areas for those industries that need to be separated from other land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of heavy industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "General industries",
             "Hazardous storage establishments",
@@ -1725,7 +1725,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",
@@ -1786,12 +1786,12 @@
         "LEP": "Sutherland Shire Local Environmental Plan 2015",
         "zone": "IN4",
         "LGA": "Sutherland Shire",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To identify sites for maritime purposes and for activities that require direct waterfront access.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of development on land uses in other zones.\u2022\u00a0\u00a0To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.\u2022\u00a0\u00a0To ensure that development protects and enhances the long term sustainability of the local ecology, including the riparian zone, intertidal areas and bays.",
+        "objectives": "<li> To retain and encourage waterfront industrial and maritime activities.</li> <li> To identify sites for maritime purposes and for activities that require direct waterfront access.</li> <li> To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of development on land uses in other zones.</li> <li> To enhance the visual appearance of the employment area by ensuring new development achieves high architectural and landscape standards.</li> <li> To ensure that development protects and enhances the long term sustainability of the local ecology, including the riparian zone, intertidal areas and bays.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAquaculture",
+            "Aquaculture",
             "Boat building and repair facilities",
             "Boat launching ramps",
             "Food and drink premises",
@@ -1803,7 +1803,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Airstrips",

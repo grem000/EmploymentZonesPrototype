@@ -3,14 +3,14 @@
         "LEP": "Wingecarribee Local Environmental Plan 2010",
         "zone": "B1",
         "LGA": "Wingecarribee",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To generally conserve and enhance the unique sense of place of business centre precincts in villages and towns by ensuring that new development integrates with the distinct village scale, character, cultural heritage and landscape setting of those places.\u2022\u00a0\u00a0To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To generally conserve and enhance the unique sense of place of business centre precincts in villages and towns by ensuring that new development integrates with the distinct village scale, character, cultural heritage and landscape setting of those places.</li> <li> To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -25,7 +25,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -93,14 +93,14 @@
         "LEP": "Wingecarribee Local Environmental Plan 2010",
         "zone": "B2",
         "LGA": "Wingecarribee",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To generally conserve and enhance the unique sense of place of business centre precincts by ensuring that new development integrates with the distinct urban scale, character, cultural heritage and landscape setting of those places.\u2022\u00a0\u00a0To provide opportunities for a compatible mix of residential living above retail, commercial, recreational, cultural and community activities at street level.\u2022\u00a0\u00a0To ensure that adequate provision is made for infrastructure that supports the viability of business centre precincts, including public car parking, traffic management facilities, public transport facilities, cyclist facilities, pedestrian access paths, amenities, facilities for older people and people with disabilities and general public conveniences.\u2022\u00a0\u00a0To maximise the efficient use of land in business centre precincts to promote more compact and accessible places.\u2022\u00a0\u00a0To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To generally conserve and enhance the unique sense of place of business centre precincts by ensuring that new development integrates with the distinct urban scale, character, cultural heritage and landscape setting of those places.</li> <li> To provide opportunities for a compatible mix of residential living above retail, commercial, recreational, cultural and community activities at street level.</li> <li> To ensure that adequate provision is made for infrastructure that supports the viability of business centre precincts, including public car parking, traffic management facilities, public transport facilities, cyclist facilities, pedestrian access paths, amenities, facilities for older people and people with disabilities and general public conveniences.</li> <li> To maximise the efficient use of land in business centre precincts to promote more compact and accessible places.</li> <li> To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -123,7 +123,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Animal boarding or training establishments",
             "Camping grounds",
@@ -166,14 +166,14 @@
         "LEP": "Wingecarribee Local Environmental Plan 2010",
         "zone": "B4",
         "LGA": "Wingecarribee",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -196,7 +196,7 @@
             "Tank-based aquaculture: Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -238,14 +238,14 @@
         "LEP": "Wingecarribee Local Environmental Plan 2010",
         "zone": "B5",
         "LGA": "Wingecarribee",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.</li> <li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Landscaping material supplies",
@@ -261,7 +261,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -313,14 +313,14 @@
         "LEP": "Wingecarribee Local Environmental Plan 2010",
         "zone": "B7",
         "LGA": "Wingecarribee",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Light industries",
@@ -335,7 +335,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Amusement centres",
             "Animal boarding or training establishments",
@@ -379,14 +379,14 @@
         "LEP": "Wingecarribee Local Environmental Plan 2010",
         "zone": "IN1",
         "LGA": "Wingecarribee",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To allow a range of non-industrial land uses, including selected commercial activities, that provide direct services to the industrial activities and their workforce or that, due to their type, nature or scale, are appropriately located in the zone without impacting on the viability of business and commercial centres in Wingecarribee.\u2022\u00a0\u00a0To ensure that new development and land uses incorporate measures that take account of their spatial context and mitigate any potential impacts on neighbourhood amenity and character, or the efficient operation of the local or regional road system.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To allow a range of non-industrial land uses, including selected commercial activities, that provide direct services to the industrial activities and their workforce or that, due to their type, nature or scale, are appropriately located in the zone without impacting on the viability of business and commercial centres in Wingecarribee.</li> <li> To ensure that new development and land uses incorporate measures that take account of their spatial context and mitigate any potential impacts on neighbourhood amenity and character, or the efficient operation of the local or regional road system.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Garden centres",
             "General industries",
@@ -408,7 +408,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -443,14 +443,14 @@
         "LEP": "Wingecarribee Local Environmental Plan 2010",
         "zone": "IN2",
         "LGA": "Wingecarribee",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To allow a range of non-industrial land uses, including selected commercial activities, that provide direct services to the industrial activities and their workforce or that, due to their type, nature or scale, are appropriately located in the zone without impacting on the viability of business and commercial centres in Wingecarribee.\u2022\u00a0\u00a0To ensure that new development and land uses incorporate measures that take account of their spatial context and mitigate any potential impacts on neighbourhood amenity and character or the efficient operation of the local or regional road system.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To allow a range of non-industrial land uses, including selected commercial activities, that provide direct services to the industrial activities and their workforce or that, due to their type, nature or scale, are appropriately located in the zone without impacting on the viability of business and commercial centres in Wingecarribee.</li> <li> To ensure that new development and land uses incorporate measures that take account of their spatial context and mitigate any potential impacts on neighbourhood amenity and character or the efficient operation of the local or regional road system.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Depots",
             "Garden centres",
             "Hardware and building supplies",
@@ -472,7 +472,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -510,12 +510,12 @@
         "LEP": "Wingecarribee Local Environmental Plan 2010",
         "zone": "IN3",
         "LGA": "Wingecarribee",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide suitable areas for those industries that need to be separated from other land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of heavy industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide suitable areas for those industries that need to be separated from other land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of heavy industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works"
+            "Environmental protection works"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "General industries",
             "Hazardous storage establishments",
@@ -528,7 +528,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

@@ -3,12 +3,12 @@
         "LEP": "Ashfield Local Environmental Plan 2013",
         "zone": "B1",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To ensure that new development has regard to the character and amenity of adjacent and nearby residential areas.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Boarding houses",
             "Business identification signs",
             "Business premises",
@@ -32,7 +32,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -102,12 +102,12 @@
         "LEP": "Ashfield Local Environmental Plan 2013",
         "zone": "B2",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage residential accommodation as part of mixed use development.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage residential accommodation as part of mixed use development.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business identification signs",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -134,7 +134,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -192,12 +192,12 @@
         "LEP": "Ashfield Local Environmental Plan 2013",
         "zone": "B4",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To enhance the viability, vitality and amenity of Ashfield town centre as the primary business activity, employment and civic centre of Ashfield.\u2022\u00a0\u00a0To encourage the orderly and efficient development of land through the consolidation of lots.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To enhance the viability, vitality and amenity of Ashfield town centre as the primary business activity, employment and civic centre of Ashfield.</li> <li> To encourage the orderly and efficient development of land through the consolidation of lots.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business identification signs",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -221,7 +221,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -274,12 +274,12 @@
         "LEP": "Ashfield Local Environmental Plan 2013",
         "zone": "B6",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness identification signs",
+            "Business identification signs",
             "Business premises",
             "Community facilities",
             "Garden centres",
@@ -304,7 +304,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -359,12 +359,12 @@
         "LEP": "Ashfield Local Environmental Plan 2013",
         "zone": "IN2",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness identification signs",
+            "Business identification signs",
             "Depots",
             "Garden centres",
             "Hardware and building supplies",
@@ -385,7 +385,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -446,12 +446,12 @@
         "LEP": "Leichhardt Local Environmental Plan 2013",
         "zone": "B1",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To ensure that development is appropriately designed to minimise amenity impacts.\u2022\u00a0\u00a0To allow appropriate residential uses to support the vitality of neighbourhood centres.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To ensure that development is appropriately designed to minimise amenity impacts.</li> <li> To allow appropriate residential uses to support the vitality of neighbourhood centres.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAttached dwellings",
+            "Attached dwellings",
             "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
@@ -473,7 +473,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -540,12 +540,12 @@
         "LEP": "Leichhardt Local Environmental Plan 2013",
         "zone": "B2",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To ensure that development is appropriately designed to minimise amenity impacts.\u2022\u00a0\u00a0To allow appropriate residential uses to support the vitality of local centres.\u2022\u00a0\u00a0To ensure that uses support the viability of local centres.\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To reinforce and enhance the role, function and identity of local centres by encouraging appropriate development to ensure that surrounding development does not detract from the function of local centres.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To ensure that development is appropriately designed to minimise amenity impacts.</li> <li> To allow appropriate residential uses to support the vitality of local centres.</li> <li> To ensure that uses support the viability of local centres.</li> <li> To provide a mixture of compatible land uses.</li> <li> To reinforce and enhance the role, function and identity of local centres by encouraging appropriate development to ensure that surrounding development does not detract from the function of local centres.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAttached dwellings",
+            "Attached dwellings",
             "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -575,7 +575,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -620,13 +620,13 @@
         "LEP": "Leichhardt Local Environmental Plan 2013",
         "zone": "B4",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To support the renewal of specific areas by providing for quality medium density residential and small-scale retail and commercial uses.\u2022\u00a0\u00a0To ensure that development is appropriately designed to enhance the amenity of existing and future residents and the neighbourhood.\u2022\u00a0\u00a0To constrain parking and restrict car use.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To support the renewal of specific areas by providing for quality medium density residential and small-scale retail and commercial uses.</li> <li> To ensure that development is appropriately designed to enhance the amenity of existing and future residents and the neighbourhood.</li> <li> To constrain parking and restrict car use.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -651,7 +651,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -714,12 +714,12 @@
         "LEP": "Leichhardt Local Environmental Plan 2013",
         "zone": "B7",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To provide for limited residential development in conjunction with permissible active ground floor uses.\u2022\u00a0\u00a0To provide for certain business and office premises and light industries in the arts, technology, production and design sectors.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To provide for limited residential development in conjunction with permissible active ground floor uses.</li> <li> To provide for certain business and office premises and light industries in the arts, technology, production and design sectors.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Light industries",
@@ -734,7 +734,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -827,12 +827,12 @@
         "LEP": "Leichhardt Local Environmental Plan 2013",
         "zone": "IN2",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To retain existing employment uses and foster a range of new industrial uses to meet the needs of the community.\u2022\u00a0\u00a0To ensure the provision of appropriate infrastructure that supports Leichhardt's employment opportunities.\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To provide for certain business and office premises and light industries in the arts, technology, production and design sectors.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To retain existing employment uses and foster a range of new industrial uses to meet the needs of the community.</li> <li> To ensure the provision of appropriate infrastructure that supports Leichhardt's employment opportunities.</li> <li> To retain and encourage waterfront industrial and maritime activities.</li> <li> To provide for certain business and office premises and light industries in the arts, technology, production and design sectors.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Depots",
             "Educational establishments",
             "Garden centres",
@@ -850,7 +850,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAir transport facilities",
+            "Air transport facilities",
             "Airstrips",
             "Biosolids treatment facilities",
             "Boat sheds",
@@ -904,12 +904,12 @@
         "LEP": "Marrickville Local Environmental Plan 2011",
         "zone": "B1",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To provide for housing attached to permissible non-residential uses in development of a type and scale compatible with the surrounding neighbourhood.\u2022\u00a0\u00a0To provide for spaces, at street level, which are of a size and configuration suitable for land uses which generate active street-fronts.\u2022\u00a0\u00a0To enable a purpose built dwelling house to be used in certain circumstances as a dwelling house.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To provide for housing attached to permissible non-residential uses in development of a type and scale compatible with the surrounding neighbourhood.</li> <li> To provide for spaces, at street level, which are of a size and configuration suitable for land uses which generate active street-fronts.</li> <li> To enable a purpose built dwelling house to be used in certain circumstances as a dwelling house.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Boarding houses",
             "Business premises",
             "Car parks",
@@ -934,7 +934,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -1006,12 +1006,12 @@
         "LEP": "Marrickville Local Environmental Plan 2011",
         "zone": "B2",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To provide housing attached to permissible non-residential uses which is of a type and scale commensurate with the accessibility and function of the centre or area.\u2022\u00a0\u00a0To provide for spaces, at street level, which are of a size and configuration suitable for land uses which generate active street-fronts.\u2022\u00a0\u00a0To constrain parking and reduce car use.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To provide housing attached to permissible non-residential uses which is of a type and scale commensurate with the accessibility and function of the centre or area.</li> <li> To provide for spaces, at street level, which are of a size and configuration suitable for land uses which generate active street-fronts.</li> <li> To constrain parking and reduce car use.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -1035,7 +1035,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -1093,12 +1093,12 @@
         "LEP": "Marrickville Local Environmental Plan 2011",
         "zone": "B4",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To support the renewal of specific areas by providing for a broad range of services and employment uses in development which display good design.\u2022\u00a0\u00a0To promote commercial uses by limiting housing.\u2022\u00a0\u00a0To constrain parking and restrict car use.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To support the renewal of specific areas by providing for a broad range of services and employment uses in development which display good design.</li> <li> To promote commercial uses by limiting housing.</li> <li> To constrain parking and restrict car use.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -1124,7 +1124,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -1180,12 +1180,12 @@
         "LEP": "Marrickville Local Environmental Plan 2011",
         "zone": "B5",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To support urban renewal and a pattern of land use and density that reflects the existing and future capacity of the transport network.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To support urban renewal and a pattern of land use and density that reflects the existing and future capacity of the transport network.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Food and drink premises",
             "Garden centres",
             "Hardware and building supplies",
@@ -1205,7 +1205,7 @@
             "Any other development not specified in 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Boat launching ramps",
@@ -1259,12 +1259,12 @@
         "LEP": "Marrickville Local Environmental Plan 2011",
         "zone": "B6",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Community facilities",
             "Food and drink premises",
             "Garden centres",
@@ -1287,7 +1287,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Boat launching ramps",
@@ -1335,12 +1335,12 @@
         "LEP": "Marrickville Local Environmental Plan 2011",
         "zone": "B7",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To provide for limited residential development in conjunction with permissible active ground floor uses.\u2022\u00a0\u00a0To provide business and office premises for the purposes of certain art, technology, production and design sectors.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To provide for limited residential development in conjunction with permissible active ground floor uses.</li> <li> To provide business and office premises for the purposes of certain art, technology, production and design sectors.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Intensive plant agriculture",
@@ -1363,7 +1363,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -1422,12 +1422,12 @@
         "LEP": "Marrickville Local Environmental Plan 2011",
         "zone": "IN1",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To protect industrial land in proximity to Sydney Airport and Port Botany.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To protect industrial land in proximity to Sydney Airport and Port Botany.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Depots",
             "Freight transport facilities",
             "Garden centres",
@@ -1449,7 +1449,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -1508,12 +1508,12 @@
         "LEP": "Marrickville Local Environmental Plan 2011",
         "zone": "IN2",
         "LGA": "Inner West",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To provide business and office premises for the purposes of certain art, technology, production and design sectors.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To provide business and office premises for the purposes of certain art, technology, production and design sectors.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Garden centres",
             "Hardware and building supplies",
             "Hospitals",
@@ -1536,7 +1536,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

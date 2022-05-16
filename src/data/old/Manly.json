@@ -3,13 +3,13 @@
         "LEP": "Manly Local Environmental Plan 2013",
         "zone": "B1",
         "LGA": "Manly",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Car parks",
             "Centre-based child care facilities",
@@ -48,7 +48,7 @@
             "Water supply systems"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture Water treatment facilities",
+            "Pond-based aquaculture Water treatment facilities",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -56,13 +56,13 @@
         "LEP": "Manly Local Environmental Plan 2013",
         "zone": "B2",
         "LGA": "Manly",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To minimise conflict between land uses in the zone and adjoining zones and ensure amenity for the people who live in the local centre in relation to noise, odour, delivery of materials and use of machinery.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To minimise conflict between land uses in the zone and adjoining zones and ensure amenity for the people who live in the local centre in relation to noise, odour, delivery of materials and use of machinery.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAmusement centres",
+            "Amusement centres",
             "Boarding houses",
             "Boat sheds",
             "Car parks",
@@ -98,7 +98,7 @@
             "Water supply systems"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture Water treatment facilities",
+            "Pond-based aquaculture Water treatment facilities",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -106,12 +106,12 @@
         "LEP": "Manly Local Environmental Plan 2013",
         "zone": "B6",
         "LGA": "Manly",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAmusement centres",
+            "Amusement centres",
             "Business premises",
             "Community facilities",
             "Depots",
@@ -153,7 +153,7 @@
             "Wholesale supplies"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture Water treatment facilities",
+            "Pond-based aquaculture Water treatment facilities",
             "Any other development not specified in item 2 or 3"
         ]
     }

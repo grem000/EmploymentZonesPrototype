@@ -3,13 +3,13 @@
         "LEP": "Warringah Local Environmental Plan 2011",
         "zone": "B1",
         "LGA": "Warringah",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To ensure that neighbourhood centres provide a village-like atmosphere and safety and comfort for pedestrians.\u2022\u00a0\u00a0To minimise conflict between land uses in the zone and adjoining zones and ensure the amenity of any adjoining or nearby residential land uses.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To ensure that neighbourhood centres provide a village-like atmosphere and safety and comfort for pedestrians.</li> <li> To minimise conflict between land uses in the zone and adjoining zones and ensure the amenity of any adjoining or nearby residential land uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
             "Community facilities",
@@ -26,7 +26,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Amusement centres",
@@ -90,13 +90,13 @@
         "LEP": "Warringah Local Environmental Plan 2011",
         "zone": "B2",
         "LGA": "Warringah",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To provide an environment for pedestrians that is safe, comfortable and interesting.\u2022\u00a0\u00a0To create urban form that relates favourably in scale and in architectural and landscape treatment to neighbouring land uses and to the natural environment.\u2022\u00a0\u00a0To minimise conflict between land uses in the zone and adjoining zones and ensure the amenity of any adjoining or nearby residential land uses.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To provide an environment for pedestrians that is safe, comfortable and interesting.</li> <li> To create urban form that relates favourably in scale and in architectural and landscape treatment to neighbouring land uses and to the natural environment.</li> <li> To minimise conflict between land uses in the zone and adjoining zones and ensure the amenity of any adjoining or nearby residential land uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -119,7 +119,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Animal boarding or training establishments",
@@ -170,12 +170,12 @@
         "LEP": "Warringah Local Environmental Plan 2011",
         "zone": "B3",
         "LGA": "Warringah",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To recognise and support the role of Warringah Mall as a retail centre of sub-regional significance.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To recognise and support the role of Warringah Mall as a retail centre of sub-regional significance.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
             "Educational establishments",
@@ -195,7 +195,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Animal boarding or training establishments",
@@ -251,13 +251,13 @@
         "LEP": "Warringah Local Environmental Plan 2011",
         "zone": "B4",
         "LGA": "Warringah",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To reinforce the role of Dee Why as the major centre in the sub-region by the treatment of public spaces, the scale and intensity of development, the focus of civic activity and the arrangement of land uses.\u2022\u00a0\u00a0To promote building design that creates active building fronts, contributes to the life of streets and public spaces and creates environments that are appropriate to human scale as well as being comfortable, interesting and safe.\u2022\u00a0\u00a0To promote a land use pattern that is characterised by shops, restaurants and business premises on the ground floor and housing and offices on the upper floors of buildings.\u2022\u00a0\u00a0To encourage site amalgamations to facilitate new development and to facilitate the provision of car parking below ground.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To reinforce the role of Dee Why as the major centre in the sub-region by the treatment of public spaces, the scale and intensity of development, the focus of civic activity and the arrangement of land uses.</li> <li> To promote building design that creates active building fronts, contributes to the life of streets and public spaces and creates environments that are appropriate to human scale as well as being comfortable, interesting and safe.</li> <li> To promote a land use pattern that is characterised by shops, restaurants and business premises on the ground floor and housing and offices on the upper floors of buildings.</li> <li> To encourage site amalgamations to facilitate new development and to facilitate the provision of car parking below ground.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -281,7 +281,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Animal boarding or training establishments",
@@ -333,12 +333,12 @@
         "LEP": "Warringah Local Environmental Plan 2011",
         "zone": "B5",
         "LGA": "Warringah",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To provide for the location of vehicle sales or hire premises.\u2022\u00a0\u00a0To create a pedestrian environment that is safe, active and interesting by incorporating street level retailing and business uses.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To provide for the location of vehicle sales or hire premises.</li> <li> To create a pedestrian environment that is safe, active and interesting by incorporating street level retailing and business uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Hotel or motel accommodation",
@@ -357,7 +357,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Amusement centres",
@@ -416,12 +416,12 @@
         "LEP": "Warringah Local Environmental Plan 2011",
         "zone": "B7",
         "LGA": "Warringah",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To create business park employment environments of high visual quality that relate favourably in architectural and landscape treatment to neighbouring land uses and to the natural environment.\u2022\u00a0\u00a0To minimise conflict between land uses in the zone and adjoining zones and ensure the amenity of adjoining or nearby residential land uses.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To create business park employment environments of high visual quality that relate favourably in architectural and landscape treatment to neighbouring land uses and to the natural environment.</li> <li> To minimise conflict between land uses in the zone and adjoining zones and ensure the amenity of adjoining or nearby residential land uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCentre-based child care facilities",
+            "Centre-based child care facilities",
             "Garden centres",
             "Hardware and building supplies",
             "Light industries",
@@ -438,7 +438,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Amusement centres",
@@ -504,12 +504,12 @@
         "LEP": "Warringah Local Environmental Plan 2011",
         "zone": "IN1",
         "LGA": "Warringah",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To enable a range of compatible community and leisure uses.\u2022\u00a0\u00a0To maintain the industrial character of the land in landscaped settings.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To enable a range of compatible community and leisure uses.</li> <li> To maintain the industrial character of the land in landscaped settings.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoat building and repair facilities",
+            "Boat building and repair facilities",
             "Depots",
             "Freight transport facilities",
             "Garden centres",
@@ -534,7 +534,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Amusement centres",
@@ -589,12 +589,12 @@
         "LEP": "Warringah Local Environmental Plan 2011",
         "zone": "IN2",
         "LGA": "Warringah",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To maintain the industrial character of the land in landscaped settings.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To maintain the industrial character of the land in landscaped settings.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Garden centres",
             "Hardware and building supplies",
             "Industrial training facilities",
@@ -610,7 +610,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAdvertising structures",
+            "Advertising structures",
             "Agriculture",
             "Air transport facilities",
             "Amusement centres",

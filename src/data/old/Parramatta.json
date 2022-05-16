@@ -3,13 +3,13 @@
         "LEP": "Parramatta (former The Hills) Local Environmental Plan 2012",
         "zone": "B1",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To ensure the scale and type of development is compatible with the character and amenity of a neighbourhood centre.\u2022\u00a0\u00a0To allow for residential development that contributes to the economic and social vitality of the neighbourhood centre and does not detract from the primary objective of the zone.\u2022\u00a0\u00a0To promote commercial activities in locations that encourage walking and cycling to and from the neighbourhood centre.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To ensure the scale and type of development is compatible with the character and amenity of a neighbourhood centre.</li> <li> To allow for residential development that contributes to the economic and social vitality of the neighbourhood centre and does not detract from the primary objective of the zone.</li> <li> To promote commercial activities in locations that encourage walking and cycling to and from the neighbourhood centre.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome businesses",
+            "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAttached dwellings",
+            "Attached dwellings",
             "Boarding houses",
             "Building identification signs",
             "Business identification signs",
@@ -36,7 +36,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -108,13 +108,13 @@
         "LEP": "Parramatta (former The Hills) Local Environmental Plan 2012",
         "zone": "B2",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome businesses",
+            "Home businesses",
             "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAttached dwellings",
+            "Attached dwellings",
             "Boarding houses",
             "Building identification signs",
             "Business identification signs",
@@ -143,7 +143,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -205,12 +205,12 @@
         "LEP": "Parramatta (former The Hills) Local Environmental Plan 2012",
         "zone": "B6",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Business premises",
             "Community facilities",
@@ -235,7 +235,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -300,12 +300,12 @@
         "LEP": "Parramatta (former The Hills) Local Environmental Plan 2012",
         "zone": "IN1",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To provide for a range of urban support services to serve the needs of residents in surrounding areas and workers in the locality.\u2022\u00a0\u00a0To facilitate the development of freight and logistics operations to enhance the viability and use of employment lands.\u2022\u00a0\u00a0To provide temporary overnight accommodation for the working population and businesses in the area.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To provide for a range of urban support services to serve the needs of residents in surrounding areas and workers in the locality.</li> <li> To facilitate the development of freight and logistics operations to enhance the viability and use of employment lands.</li> <li> To provide temporary overnight accommodation for the working population and businesses in the area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Depots",
             "Food and drink premises",
@@ -329,7 +329,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -385,12 +385,12 @@
         "LEP": "Parramatta Local Environmental Plan 2011",
         "zone": "B1",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Boarding houses",
             "Building identification signs",
             "Business identification signs",
@@ -411,7 +411,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -489,12 +489,12 @@
         "LEP": "Parramatta Local Environmental Plan 2011",
         "zone": "B2",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage the construction of mixed use buildings that integrate suitable commercial, residential and other developments and that provide active ground level uses.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage the construction of mixed use buildings that integrate suitable commercial, residential and other developments and that provide active ground level uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Building identification signs",
             "Business identification signs",
             "Centre-based child care facilities",
@@ -522,7 +522,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -584,12 +584,12 @@
         "LEP": "Parramatta Local Environmental Plan 2011",
         "zone": "B3",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To strengthen the role of the Parramatta City Centre as the regional business, retail and cultural centre, and as a primary retail centre in the Greater Metropolitan Region.\u2022\u00a0\u00a0To create opportunities to improve the public domain and pedestrian links throughout the Parramatta City Centre.\u2022\u00a0\u00a0To provide for the retention and creation of view corridors.\u2022\u00a0\u00a0To protect and enhance the unique qualities and character of special areas and heritage values within the Parramatta City Centre.\u2022\u00a0\u00a0To protect and encourage accessible city blocks by providing active street frontages, and a network of pedestrian-friendly streets, lanes and arcades.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To strengthen the role of the Parramatta City Centre as the regional business, retail and cultural centre, and as a primary retail centre in the Greater Metropolitan Region.</li> <li> To create opportunities to improve the public domain and pedestrian links throughout the Parramatta City Centre.</li> <li> To provide for the retention and creation of view corridors.</li> <li> To protect and enhance the unique qualities and character of special areas and heritage values within the Parramatta City Centre.</li> <li> To protect and encourage accessible city blocks by providing active street frontages, and a network of pedestrian-friendly streets, lanes and arcades.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Business premises",
             "Car parks",
@@ -617,7 +617,7 @@
             "Tourist and visitor accommodation"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -625,12 +625,12 @@
         "LEP": "Parramatta Local Environmental Plan 2011",
         "zone": "B4",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage development that contributes to an active, vibrant and sustainable neighbourhood.\u2022\u00a0\u00a0To create opportunities to improve the public domain and pedestrian links.\u2022\u00a0\u00a0To support the higher order Zone B3 Commercial Core while providing for the daily commercial needs of the locality.\u2022\u00a0\u00a0To protect and enhance the unique qualities and character of special areas within the Parramatta City Centre.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage development that contributes to an active, vibrant and sustainable neighbourhood.</li> <li> To create opportunities to improve the public domain and pedestrian links.</li> <li> To support the higher order Zone B3 Commercial Core while providing for the daily commercial needs of the locality.</li> <li> To protect and enhance the unique qualities and character of special areas within the Parramatta City Centre.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Building identification signs",
             "Business identification signs",
             "Centre-based child care facilities",
@@ -657,7 +657,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -721,12 +721,12 @@
         "LEP": "Parramatta Local Environmental Plan 2011",
         "zone": "B5",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To enable land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To encourage a range of tourism, recreation, function and entertainment uses in proximity to the Rosehill Racecourse, the Parramatta River and the Western Sydney University.\u2022\u00a0\u00a0To provide for automotive businesses, trades and services to reinforce the existing functions of land within the zone.\u2022\u00a0\u00a0To ensure that development is arranged and carried out in a way that does not intrude on the amenity of adjoining residential areas or detract from the function of commercial development in the commercial core.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To enable land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To encourage a range of tourism, recreation, function and entertainment uses in proximity to the Rosehill Racecourse, the Parramatta River and the Western Sydney University.</li> <li> To provide for automotive businesses, trades and services to reinforce the existing functions of land within the zone.</li> <li> To ensure that development is arranged and carried out in a way that does not intrude on the amenity of adjoining residential areas or detract from the function of commercial development in the commercial core.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Centre-based child care facilities",
             "Food and drink premises",
@@ -751,7 +751,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -815,12 +815,12 @@
         "LEP": "Parramatta Local Environmental Plan 2011",
         "zone": "B6",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Business premises",
             "Community facilities",
@@ -846,7 +846,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -910,12 +910,12 @@
         "LEP": "Parramatta Local Environmental Plan 2011",
         "zone": "IN1",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To facilitate a range of non-industrial land uses that serve the needs of workers and visitors.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To facilitate a range of non-industrial land uses that serve the needs of workers and visitors.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Depots",
             "Food and drink premises",
@@ -942,7 +942,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -993,12 +993,12 @@
         "LEP": "Parramatta Local Environmental Plan 2011",
         "zone": "IN2",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBuilding identification signs",
+            "Building identification signs",
             "Business identification signs",
             "Depots",
             "Food and drink premises",
@@ -1023,7 +1023,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -1078,12 +1078,12 @@
         "LEP": "Parramatta Local Environmental Plan 2011",
         "zone": "IN3",
         "LGA": "Parramatta",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide suitable areas for those industries that need to be separated from other land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of heavy industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To allow a wide range of industrial and heavy industrial uses serving the Greater Metropolitan Area of Sydney and beyond.\u2022\u00a0\u00a0To ensure that opportunities are not lost for realising potential foreshore access on land that is contaminated and currently not suitable for public access.",
+        "objectives": "<li> To provide suitable areas for those industries that need to be separated from other land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of heavy industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To allow a wide range of industrial and heavy industrial uses serving the Greater Metropolitan Area of Sydney and beyond.</li> <li> To ensure that opportunities are not lost for realising potential foreshore access on land that is contaminated and currently not suitable for public access.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAgricultural produce industries",
+            "Agricultural produce industries",
             "Building identification signs",
             "Business identification signs",
             "Depots",
@@ -1109,7 +1109,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

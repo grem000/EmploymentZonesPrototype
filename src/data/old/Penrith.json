@@ -3,12 +3,12 @@
         "LEP": "Penrith Local Environmental Plan 2010",
         "zone": "B1",
         "LGA": "Penrith",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To provide retail facilities for the local community commensurate with the centre's role in the local and regional retail hierarchy.\u2022\u00a0\u00a0To create opportunities to improve the public domain and encourage the integration of centres with public transport and pedestrian networks.\u2022\u00a0\u00a0To ensure that development reflects the desired future character and dwelling densities of the area.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To provide retail facilities for the local community commensurate with the centre's role in the local and regional retail hierarchy.</li> <li> To create opportunities to improve the public domain and encourage the integration of centres with public transport and pedestrian networks.</li> <li> To ensure that development reflects the desired future character and dwelling densities of the area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Building identification signs",
             "Business identification signs",
             "Business premises",
@@ -30,7 +30,7 @@
             "Tank-based aquaculture"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Pubs",
             "Small bars",
             "Any other development not specified in item 2 or 3"
@@ -40,12 +40,12 @@
         "LEP": "Penrith Local Environmental Plan 2010",
         "zone": "B2",
         "LGA": "Penrith",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To provide retail facilities for the local community commensurate with the centre's role in the local and regional retail hierarchy.\u2022\u00a0\u00a0To ensure that future housing does not detract from the economic and employment functions of a centre.\u2022\u00a0\u00a0To ensure that development reflects the desired future character and dwelling densities of the area.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To provide retail facilities for the local community commensurate with the centre's role in the local and regional retail hierarchy.</li> <li> To ensure that future housing does not detract from the economic and employment functions of a centre.</li> <li> To ensure that development reflects the desired future character and dwelling densities of the area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Building identification signs",
             "Business identification signs",
             "Car parks",
@@ -76,7 +76,7 @@
             "Tourist and visitor accommodation"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -84,12 +84,12 @@
         "LEP": "Penrith Local Environmental Plan 2010",
         "zone": "B3",
         "LGA": "Penrith",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To strengthen the role of Penrith City Centre as the business, retail and cultural centre of the region.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To strengthen the role of Penrith City Centre as the business, retail and cultural centre of the region.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAmusement centres",
+            "Amusement centres",
             "Car parks",
             "Centre-based child care facilities",
             "Commercial premises",
@@ -121,7 +121,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Farm stay accommodation",
             "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
@@ -131,12 +131,12 @@
         "LEP": "Penrith Local Environmental Plan 2010",
         "zone": "B4",
         "LGA": "Penrith",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a mixture of compatible land uses.\u2022\u00a0\u00a0To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To minimise conflict between land uses within the zone and land uses within adjoining zones.\u2022\u00a0\u00a0To create opportunities to improve public amenity.\u2022\u00a0\u00a0To provide a wide range of retail, business, office, residential, community and other suitable land uses.",
+        "objectives": "<li> To provide a mixture of compatible land uses.</li> <li> To integrate suitable business, office, residential, retail and other development in accessible locations so as to maximise public transport patronage and encourage walking and cycling.</li> <li> To minimise conflict between land uses within the zone and land uses within adjoining zones.</li> <li> To create opportunities to improve public amenity.</li> <li> To provide a wide range of retail, business, office, residential, community and other suitable land uses.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations"
+            "Home occupations"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAmusement centres",
+            "Amusement centres",
             "Boarding houses",
             "Car parks",
             "Centre-based child care facilities",
@@ -178,7 +178,7 @@
             "Veterinary hospitals"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Rural workers' dwellings",
             "Any other development not specified in item 2 or 3"
         ]
@@ -187,12 +187,12 @@
         "LEP": "Penrith Local Environmental Plan 2010",
         "zone": "B5",
         "LGA": "Penrith",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To maintain the economic strength of centres in Penrith by limiting the retailing of food, groceries and clothing.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To maintain the economic strength of centres in Penrith by limiting the retailing of food, groceries and clothing.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentCar parks",
+            "Car parks",
             "Centre-based child care facilities",
             "Environmental protection works",
             "Flood mitigation works",
@@ -220,7 +220,7 @@
             "Warehouse or distribution centres"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Restaurants or cafes",
             "Any other development not specified in item 2 or 3"
         ]
@@ -229,12 +229,12 @@
         "LEP": "Penrith Local Environmental Plan 2010",
         "zone": "B6",
         "LGA": "Penrith",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Community facilities",
             "Environmental protection works",
             "Flood mitigation works",
@@ -261,7 +261,7 @@
             "Warehouse or distribution centres"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -269,12 +269,12 @@
         "LEP": "Penrith Local Environmental Plan 2010",
         "zone": "B7",
         "LGA": "Penrith",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of office and light industrial uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To provide for a range of higher order job opportunities including health, cultural and high technology industries.\u2022\u00a0\u00a0To provide for a range of development that relates to university activities, creative and cultural industries, and business incubators.",
+        "objectives": "<li> To provide a range of office and light industrial uses.</li> <li> To encourage employment opportunities.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To provide for a range of higher order job opportunities including health, cultural and high technology industries.</li> <li> To provide for a range of development that relates to university activities, creative and cultural industries, and business incubators.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Car parks",
             "Centre-based child care facilities",
             "Community facilities",
@@ -305,7 +305,7 @@
             "Warehouse or distribution centres"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
         ]
     },
@@ -313,12 +313,12 @@
         "LEP": "Penrith Local Environmental Plan 2010",
         "zone": "IN1",
         "LGA": "Penrith",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To promote development that makes efficient use of industrial land.\u2022\u00a0\u00a0To permit facilities that serve the daily recreation and convenience needs of the people who work in the surrounding industrial area.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To promote development that makes efficient use of industrial land.</li> <li> To permit facilities that serve the daily recreation and convenience needs of the people who work in the surrounding industrial area.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAnimal boarding or training establishments",
+            "Animal boarding or training establishments",
             "Boat building and repair facilities",
             "Car parks",
             "Depots",
@@ -355,7 +355,7 @@
             "Warehouse or distribution centres"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedHazardous industries",
+            "Hazardous industries",
             "Offensive industries",
             "Pond-based aquaculture",
             "Any other development not specified in item 2 or 3"
@@ -365,12 +365,12 @@
         "LEP": "Penrith Local Environmental Plan 2010",
         "zone": "IN2",
         "LGA": "Penrith",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of light industrial, warehouse and related land uses.\u2022\u00a0\u00a0To encourage employment opportunities and to support the viability of centres.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To promote development that makes efficient use of industrial land.\u2022\u00a0\u00a0To limit the impact of industrial development on adjacent residential areas, in terms of its built form, scale, acoustic and visual privacy and air quality.",
+        "objectives": "<li> To provide a wide range of light industrial, warehouse and related land uses.</li> <li> To encourage employment opportunities and to support the viability of centres.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To enable other land uses that provide facilities or services to meet the day to day needs of workers in the area.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To promote development that makes efficient use of industrial land.</li> <li> To limit the impact of industrial development on adjacent residential areas, in terms of its built form, scale, acoustic and visual privacy and air quality.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentNil"
+            "Nil"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAmusement centres",
+            "Amusement centres",
             "Car parks",
             "Centre-based child care facilities",
             "Community facilities",
@@ -413,7 +413,7 @@
             "Waste or resource transfer stations"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedPond-based aquaculture",
+            "Pond-based aquaculture",
             "Schools",
             "Any other development not specified in item 2 or 3"
         ]

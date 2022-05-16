@@ -3,14 +3,14 @@
         "LEP": "Clarence Valley Local Environmental Plan 2011",
         "zone": "B1",
         "LGA": "Clarence Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.\u2022\u00a0\u00a0To reinforce the neighbourhood centres of Coutts Crossing, Glenreagh, Lawrence and Ulmarra as the locations for commercial premises.\u2022\u00a0\u00a0To minimise conflict between land uses within the zone and land uses within adjoining zones.\u2022\u00a0\u00a0To enable other land uses that are compatible with and do not detract from the viability of retail, business and community uses within the zone.",
+        "objectives": "<li> To provide a range of small-scale retail, business and community uses that serve the needs of people who live or work in the surrounding neighbourhood.</li> <li> To reinforce the neighbourhood centres of Coutts Crossing, Glenreagh, Lawrence and Ulmarra as the locations for commercial premises.</li> <li> To minimise conflict between land uses within the zone and land uses within adjoining zones.</li> <li> To enable other land uses that are compatible with and do not detract from the viability of retail, business and community uses within the zone.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations",
             "Home occupations (sex services)"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBed and breakfast accommodation",
+            "Bed and breakfast accommodation",
             "Boarding houses",
             "Business premises",
             "Centre-based child care facilities",
@@ -29,7 +29,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -90,14 +90,14 @@
         "LEP": "Clarence Valley Local Environmental Plan 2011",
         "zone": "B2",
         "LGA": "Clarence Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To reinforce and support the central business districts of Maclean, Iluka and Yamba as the commercial centres for these towns.\u2022\u00a0\u00a0To minimise conflict between land uses within the zone and land uses within adjoining zones.\u2022\u00a0\u00a0To enable other land uses that are compatible with and do not detract from the viability of retail, business, entertainment and community uses within the zone.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To reinforce and support the central business districts of Maclean, Iluka and Yamba as the commercial centres for these towns.</li> <li> To minimise conflict between land uses within the zone and land uses within adjoining zones.</li> <li> To enable other land uses that are compatible with and do not detract from the viability of retail, business, entertainment and community uses within the zone.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations",
             "Home occupations (sex services)"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -121,7 +121,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -169,14 +169,14 @@
         "LEP": "Clarence Valley Local Environmental Plan 2011",
         "zone": "B3",
         "LGA": "Clarence Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.\u2022\u00a0\u00a0To encourage appropriate employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To reinforce Grafton/South Grafton as the major regional business centre in the Clarence Valley that is to accommodate major state and regional services, professional services and provide higher order shopping.\u2022\u00a0\u00a0To ensure the maintenance and improvement of the historic, architectural and aesthetic character of the commercial core area.\u2022\u00a0\u00a0To enable development that promotes high end retail uses and maintains the retail continuity of the streetscape.",
+        "objectives": "<li> To provide a wide range of retail, business, office, entertainment, community and other suitable land uses that serve the needs of the local and wider community.</li> <li> To encourage appropriate employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To reinforce Grafton/South Grafton as the major regional business centre in the Clarence Valley that is to accommodate major state and regional services, professional services and provide higher order shopping.</li> <li> To ensure the maintenance and improvement of the historic, architectural and aesthetic character of the commercial core area.</li> <li> To enable development that promotes high end retail uses and maintains the retail continuity of the streetscape.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations",
             "Home occupations (sex services)"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -199,7 +199,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -250,14 +250,14 @@
         "LEP": "Clarence Valley Local Environmental Plan 2011",
         "zone": "B5",
         "LGA": "Clarence Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.\u2022\u00a0\u00a0To enable light industrial uses which are compatible with the commercial function of the locality.\u2022\u00a0\u00a0To support the nearby commercial centre of Grafton without adversely impacting on the viability of that centre.",
+        "objectives": "<li> To enable a mix of business and warehouse uses, and specialised retail premises that require a large floor area, in locations that are close to, and that support the viability of, centres.</li> <li> To enable light industrial uses which are compatible with the commercial function of the locality.</li> <li> To support the nearby commercial centre of Grafton without adversely impacting on the viability of that centre.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome-based child care",
+            "Home-based child care",
             "Home occupations",
             "Home occupations (sex services)"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Dwelling houses",
             "Garden centres",
@@ -275,7 +275,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -324,14 +324,14 @@
         "LEP": "Clarence Valley Local Environmental Plan 2011",
         "zone": "IN1",
         "LGA": "Clarence Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To minimise the environmental impacts of development.\u2022\u00a0\u00a0To allow limited commercial activities that provide direct services to the industrial activities and the associated workforce.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To minimise the environmental impacts of development.</li> <li> To allow limited commercial activities that provide direct services to the industrial activities and the associated workforce.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentExtensive agriculture",
+            "Extensive agriculture",
             "Home occupations",
             "Home occupations (sex services)"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentDepots",
+            "Depots",
             "Freight transport facilities",
             "Garden centres",
             "General industries",
@@ -352,7 +352,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
@@ -399,13 +399,13 @@
         "LEP": "Clarence Valley Local Environmental Plan 2011",
         "zone": "IN4",
         "LGA": "Clarence Valley",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To retain and encourage waterfront industrial and maritime activities.\u2022\u00a0\u00a0To identify sites for maritime purposes and for activities that require direct waterfront access.\u2022\u00a0\u00a0To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of development on land uses in other zones.\u2022\u00a0\u00a0To enable light industries where they are related to the waterfront industrial and maritime activities permitted in the zone.\u2022\u00a0\u00a0To ensure that development does not detract from the maritime character of small commercial fishing and port facilities on the Clarence River.",
+        "objectives": "<li> To retain and encourage waterfront industrial and maritime activities.</li> <li> To identify sites for maritime purposes and for activities that require direct waterfront access.</li> <li> To ensure that development does not have an adverse impact on the environmental and visual qualities of the foreshore.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of development on land uses in other zones.</li> <li> To enable light industries where they are related to the waterfront industrial and maritime activities permitted in the zone.</li> <li> To ensure that development does not detract from the maritime character of small commercial fishing and port facilities on the Clarence River.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentHome occupations",
+            "Home occupations",
             "Home occupations (sex services)"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentAquaculture",
+            "Aquaculture",
             "Boat building and repair facilities",
             "Boat launching ramps",
             "Jetties",
@@ -417,7 +417,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",

@@ -3,15 +3,15 @@
         "LEP": "Gilgandra Local Environmental Plan 2011",
         "zone": "B2",
         "LGA": "Gilgandra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.\u2022\u00a0\u00a0To encourage employment opportunities in accessible locations.\u2022\u00a0\u00a0To maximise public transport patronage and encourage walking and cycling.\u2022\u00a0\u00a0To encourage the development and expansion of business activities which will contribute to the economic growth and employment opportunities within the Gilgandra local government area.\u2022\u00a0\u00a0To permit non-commercial development within the zone where such development is compatible with the commercial character of the locality.\u2022\u00a0\u00a0To maintain the status and encourage the future growth of the Gilgandra established business centre as a retail, service, commercial and administrative centre while maintaining the centre's compact form.",
+        "objectives": "<li> To provide a range of retail, business, entertainment and community uses that serve the needs of people who live in, work in and visit the local area.</li> <li> To encourage employment opportunities in accessible locations.</li> <li> To maximise public transport patronage and encourage walking and cycling.</li> <li> To encourage the development and expansion of business activities which will contribute to the economic growth and employment opportunities within the Gilgandra local government area.</li> <li> To permit non-commercial development within the zone where such development is compatible with the commercial character of the locality.</li> <li> To maintain the status and encourage the future growth of the Gilgandra established business centre as a retail, service, commercial and administrative centre while maintaining the centre's compact form.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBoarding houses",
+            "Boarding houses",
             "Centre-based child care facilities",
             "Commercial premises",
             "Community facilities",
@@ -35,7 +35,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -69,15 +69,15 @@
         "LEP": "Gilgandra Local Environmental Plan 2011",
         "zone": "B6",
         "LGA": "Gilgandra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To promote businesses along main roads and to encourage a mix of compatible uses.\u2022\u00a0\u00a0To provide a range of employment uses (including business, office, retail and light industrial uses).\u2022\u00a0\u00a0To maintain the economic strength of centres by limiting retailing activity.\u2022\u00a0\u00a0To provide for residential uses, but only as part of a mixed use development.",
+        "objectives": "<li> To promote businesses along main roads and to encourage a mix of compatible uses.</li> <li> To provide a range of employment uses (including business, office, retail and light industrial uses).</li> <li> To maintain the economic strength of centres by limiting retailing activity.</li> <li> To provide for residential uses, but only as part of a mixed use development.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Home-based child care",
             "Home occupations",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBusiness premises",
+            "Business premises",
             "Community facilities",
             "Garden centres",
             "Hardware and building supplies",
@@ -94,7 +94,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Animal boarding or training establishments",
@@ -137,13 +137,13 @@
         "LEP": "Gilgandra Local Environmental Plan 2011",
         "zone": "IN1",
         "LGA": "Gilgandra",
-        "objectives": "1\u00a0\u00a0\u00a0Objectives of zone\u2022\u00a0\u00a0To provide a wide range of industrial and warehouse land uses.\u2022\u00a0\u00a0To encourage employment opportunities.\u2022\u00a0\u00a0To minimise any adverse effect of industry on other land uses.\u2022\u00a0\u00a0To support and protect industrial land for industrial uses.\u2022\u00a0\u00a0To ensure retail, commercial or service land uses on industrial zoned sites are of an ancillary nature and the land use is appropriate only in the industrial zone or the land use primarily serves the needs of persons employed in the industrial zone.\u2022\u00a0\u00a0To ensure that new development and land uses incorporate measures that take account of their spatial context and mitigate any potential impacts on neighbourhood amenity and character, or the efficient operation of the local or regional road system.",
+        "objectives": "<li> To provide a wide range of industrial and warehouse land uses.</li> <li> To encourage employment opportunities.</li> <li> To minimise any adverse effect of industry on other land uses.</li> <li> To support and protect industrial land for industrial uses.</li> <li> To ensure retail, commercial or service land uses on industrial zoned sites are of an ancillary nature and the land use is appropriate only in the industrial zone or the land use primarily serves the needs of persons employed in the industrial zone.</li> <li> To ensure that new development and land uses incorporate measures that take account of their spatial context and mitigate any potential impacts on neighbourhood amenity and character, or the efficient operation of the local or regional road system.</li>",
         "permittedWithout": [
-            "2\u00a0\u00a0\u00a0Permitted without consentEnvironmental protection works",
+            "Environmental protection works",
             "Roads"
         ],
         "permittedWith": [
-            "3\u00a0\u00a0\u00a0Permitted with consentBee keeping",
+            "Bee keeping",
             "Depots",
             "Freight transport facilities",
             "Funeral homes",
@@ -167,7 +167,7 @@
             "Any other development not specified in item 2 or 4"
         ],
         "prohibited": [
-            "4\u00a0\u00a0\u00a0ProhibitedAgriculture",
+            "Agriculture",
             "Air transport facilities",
             "Airstrips",
             "Amusement centres",
